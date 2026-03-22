@@ -1,0 +1,1537 @@
+[
+    {
+        "codigo_partida": "E611111013",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1/2 plg (13 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111019",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 3/4 plg (19 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111025",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1 plg (25 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111032",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1 1/4 plg ( 32 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111038",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1 1/2 plg (38 mm), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111051",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 2 plg (51 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111064",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 2 1/2 plg ( 64 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111076",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 3 plg (76 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611111102",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 4 plg (102 mm ), ISO II, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112013",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1/2 plg (13 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112019",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 3/4 plg (19 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112025",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1 plg (25 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112032",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1 1/4 plg ( 32 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112038",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 1 1/2 plg ( 38 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112051",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 2 plg ( 51 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112064",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 2 1/2 plg ( 64 mm), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112076",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 3 plg (76 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E611112102",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS CLARAS, DE HIERRO GALVANIZADO, DIAMETRO 4 plg (102 mm ), ASTM, 150 psi AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612120051",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS NEGRAS, DE HIERRO FUNDIDO, DIAMETRO 2 plg (51 mm). AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612120076",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 3 plg (76 mm ). AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612120102",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 4 plg (102 mm ). AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612120152",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 6 plg (152 mm ). AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612120203",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 8 plg (203 mm ). AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612130152",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE CONCRETO, DIAMETRO 6 plg (152 mm). AMBIENTE EXTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E612130203",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE CONCRETO, DIAMETRO 8 plg (203 mm). AMBIENTE EXTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E612130254",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE CONCRETO, DIAMETRO 10 plg (254 mm). AMBIENTE EXTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E612130304",
+        "unidad": "m",
+        "descripcion": "TUBERIA AGUAS RESIDUALES, DE CONCRETO, DIAMETRO 12 plg (304 mm). AMBIENTE EXTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E612141051",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES,PVC, DIAMETRO 2 plg ( 51 mm), e=1.8 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES"
+    },
+    {
+        "codigo_partida": "E612141076",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES, PVC, DIAMETRO 3 plg( 76 mm), e=1.8 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612142102",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES,PVC, DIAMETRO 4 plg (102 mm), e=2.2 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612144051",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES, PVC, DIAMETRO 2 plg (51 mm), e=3.2 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612144076",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES, PVC, DIAMETRO 3 plg (76 mm), e=3.2 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612144102",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES,PVC, DIAMETRO 4 plg (102 mm ), e=3.2 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612145152",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES, PVC, DIAMETRO 6 plg (152 mm), e=3.3 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612146102",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES, PVC, DIAMETRO 4 plg (102 mm), e=4.0 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E612146203",
+        "unidad": "m",
+        "descripcion": "TUBERIA DE AGUAS RESIDUALES, PVC, DIAMETRO 8 plg (203 mm), e=4.0 mm AMBIENTE EXTERIOR AL RECINTO SANITARIO. INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E613113038",
+        "unidad": "m",
+        "descripcion": "TUBERIA PARA VENTILACION, DE HIERRO GALVANIZADO, ISO I, DIAMETRO 1 1/2 plg ( 38 mm). INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E613113051",
+        "unidad": "m",
+        "descripcion": "TUBERIA PARA VENTILACION, DE HIERRO GALVANIZADO, ISO I, DIAMETRO 2 plg ( 51 mm ). INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E613113064",
+        "unidad": "m",
+        "descripcion": "TUBERIA PARA VENTILACION, DE HIERRO GALVANIZADO, ISO I, DIAMETRO 2 1/2 plg ( 64 mm ). INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E613113076",
+        "unidad": "m",
+        "descripcion": "TUBERIA PARA VENTILACION, DE HIERRO GALVANIZADO, ISO I, DIAMETRO 3 plg ( 76 mm ). INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E613113102",
+        "unidad": "m",
+        "descripcion": "TUBERIA PARA VENTILACION, DE HIERRO GALVANIZADO, ISO I, DIAMETRO 4 plg ( 102 mm ). INCLUYE CONEXIONES."
+    },
+    {
+        "codigo_partida": "E621211013",
+        "unidad": "pto",
+        "descripcion": "PUNTOS DE AGUAS CLARAS, DE HIERRO GALVANIZADO, ISO II, 150 psi, DIAMETRO 1/2 plg (13 mm) AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E621211032",
+        "unidad": "pto",
+        "descripcion": "PUNTOS DE AGUAS CLARAS, DE HIERRO GALVANIZADO, ISO II, 150 psi, DIAMETRO 1 1/4 plg (32 mm) AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E621212013",
+        "unidad": "pto",
+        "descripcion": "PUNTOS DE AGUAS CLARAS, DE HIERRO GALVANIZADO, ASTM, 150 psi, DIAMETRO 1/2 plg (13mm) AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E621212032",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS CLARAS, DE HIERRO GALVANIZADO, ASTM, 150 psi, DIAMETRO 1 1/4 plg (32 mm) AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622220051",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 2 plg (51 mm). AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622220076",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 3 plg (76 mm). AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622220102",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE HIERRO FUNDIDO, DIAMETRO 4 plg (102 mm). AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622221051",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 2 plg (51 mm), e=1.8 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622221076",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 3 plg (76 mm), e=1.8 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622222102",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 4 plg (102 mm), e=2.2 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622224051",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 2 plg (51 mm), e=3.2 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622224076",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 3 plg (76 mm), e=3.2 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622224102",
+        "unidad": "pto.",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 4 plg (102 mm), e=3.2 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E622226102",
+        "unidad": "pto",
+        "descripcion": "PUNTOS DE AGUAS RESIDUALES, DE PVC, DIAMETRO 4 plg (102 mm), e=4.0 mm AMBIENTE INTERIOR AL RECINTO SANITARIO."
+    },
+    {
+        "codigo_partida": "E631001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 1/2 plg (13 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 3/4 plg (19 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 1 plg ( 25mm ). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO,TIPO COMPUERTA, DE BRONCE, DIAMETRO 1 1/4plg (32 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 1 1/2plg (38 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 2 plg (51mm) ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 2 1/2 plg (64 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E631001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 3 plg (76 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E631001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 4 plg (102 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E631001152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO COMPUERTA, DE BRONCE, DIAMETRO 6 plg (152 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001013",
+        "unidad": "pza.",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 1/2 plg (13 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 3/4 plg (19 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 1 plg (25 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 1 1/4 plg (32 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 1 1/2 plg (38 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 2 plg (51 mm) (150 psi)."
+    },
+    {
+        "codigo_partida": "E632001064",
+        "unidad": "pza.",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 2 1/2 plg (64 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001076",
+        "unidad": "pza.",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 3 plg (76 mm). (150 psi)."
+    },
+    {
+        "codigo_partida": "E632001102",
+        "unidad": "pza.",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 4 plg (102 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632001152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, DE BRONCE, DIAMETRO 6 plg (152 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632002013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 1/2 plg ( 13 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632002019",
+        "unidad": "pza.",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 3/4 plg (19 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E632002025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 1 plg ( 25 mm).(150 psi )."
+    },
+    {
+        "codigo_partida": "E632002032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 1 1/4 plg (32 mm). (150 psi)."
+    },
+    {
+        "codigo_partida": "E632002038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 1 1/2 plg (38 mm). (150 psi)."
+    },
+    {
+        "codigo_partida": "E632002051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 2 plg (51 mm).(150 psi )."
+    },
+    {
+        "codigo_partida": "E632002064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 2 1/2 plg (64 mm). (150 psi)."
+    },
+    {
+        "codigo_partida": "E632002076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 3 plg (76 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E632002102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 4 plg (102 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E632002152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ESFERICA O DE BOLA, DE ALEACION DE METALES, DIAMETRO 6 plg (152 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 1/2 plg (13 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 3/4 plg (19 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 1 plg (19 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001032",
+        "unidad": "pza",
+        "descripcion": "LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 1 1/4 plg (32mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 1 1/2 plg (38 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 2 plg (51 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 2 1/2 plg (64 mm).(150 psi)"
+    },
+    {
+        "codigo_partida": "E633001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 3 plg (76 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 4 plg (102 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E633001152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO DE BRONCE, TIPO GLOBO, CON ASIENTO DE BRONCE, DIAMETRO 6 plg (152 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E634001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 1/2 plg (13 mm).(150 psi)"
+    },
+    {
+        "codigo_partida": "E634001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 3/4 plg (19 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E634001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 1 plg (25 mm).(150 psi)"
+    },
+    {
+        "codigo_partida": "E634001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 1 1/4 plg (32 mm).(150 psi)."
+    },
+    {
+        "codigo_partida": "E634001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 1 1/2 plg (38 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E634001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 2 plg ( 51 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E634001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 1/2 plg (64 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E634001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 3 plg ( 76 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E634001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 4 plg ( 102 mm ) (150 psi )."
+    },
+    {
+        "codigo_partida": "E634001152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE LLAVE DE PASO, TIPO ASIENTO, CON EMPACADURA DE GOMA, DE BRONCE, DE DIAMETRO 6 plg ( 152 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E641001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 1/2 plg (13 mm).( 150 psi )."
+    },
+    {
+        "codigo_partida": "E641001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 3/4 plg (19 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E641001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 1 plg ( 25 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E641001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 1 1/4 plg (32 mm).( 150 psi)."
+    },
+    {
+        "codigo_partida": "E641001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE,DIAMETRO 1 1/2 plg (38 mm). ( 150 psi )"
+    },
+    {
+        "codigo_partida": "E641001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 2 plg ( 51 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E641001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 2 1/2 plg (64 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E641001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 3 plg ( 76 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E641001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 4 plg (102 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E641001152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA REDUCTORA DE PRESION, DE BRONCE, DIAMETRO 6 plg (152 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 1/2 plg (13 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 3/4 plg (19 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 1 plg (25 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 1 1/4 plg (32 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 1 1/2 plg (38 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 2 plg (51 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 2 1/2 plg (64 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 3 plg (76 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL (CHECK VALVE ), DE BRONCE, DIAMETRO 4 plg (102 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E642001152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION HORIZONTAL ( CHECK VALVE ), DE BRONCE, DIAMETRO 6 plg (152 mm). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E643001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 3/4 plg (19 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 1 plg (25 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 1 1/4 plg (32 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 1 1/2 plg (38 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 2 plg (51 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 2 1/2 plg (64 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 3 plg (76 mm). (150 psi )."
+    },
+    {
+        "codigo_partida": "E643001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA DE RETENCION VERTICAL (MARACA - CHECK VALVE ), DE BRONCE, DIAMETRO 4 plg ( 102 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 1/2 plg (13 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001019",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 3/4 plg (19 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 1 plg ( 25 mm ). (150,psi )."
+    },
+    {
+        "codigo_partida": "E644001032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 1 1/4 plg (32 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 1 1/2 plg (38 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 2 plg (51 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001064",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 2 1/2 plg (64 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 3 plg (76 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E644001102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE VALVULA TIPO FLOTANTE, DE BRONCE, DIAMETRO 4 plg (102 mm ). (150 psi )."
+    },
+    {
+        "codigo_partida": "E651001013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE GRIFO DE BRONCE, DIAMETRO 1/2 plg (13 mm ). ( 150 psi )."
+    },
+    {
+        "codigo_partida": "E651002013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE GRIFO DE HIERRO, DIAMETRO 1/2 plg (13 mm ).(150 psi )."
+    },
+    {
+        "codigo_partida": "E651003013",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO Y TRANSPORTE DE GRIFO DE PLASTICO, DIAMETRO 1/2 plg (13 mm).(150 psi )."
+    },
+    {
+        "codigo_partida": "E661110111",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 1 LLAVE, BLANCO O COLOR CLARO, DE ANCHO MENOR DE 54 cm, RECTANGULAR. ( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661110112",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 1 LLAVE, BLANCO O COLOR CLARO, DE ANCHO MENOR DE 54 cm, OVALADO. ( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661124111",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE ANCHO MENOR DE 54 cm, (INCLUYE GRIFERIA)"
+    },
+    {
+        "codigo_partida": "E661124112",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE ANCHO MENOR DE 54 cm, OVALADO. ( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661124121",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE 54 cm, O MAS DE ANCHO, RECTANGULAR. ( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661124122",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE 54 cm, O MAS DE ANCHO, OVALADO. (INCLUYE GRIFERIA ). ( NOTA: DESCONTINUADO )."
+    },
+    {
+        "codigo_partida": "E661124222",
+        "unidad": "pza.",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS PARA COLGAR, DE 2 LLAVES, GRIFERIA 4 plg COLOR OSCURO, DE 54 cm, O MAS DE ANCHO, OVALADO. (INCLUYE GRIFERIA) (NOTA: DESCONTINUADO )."
+    },
+    {
+        "codigo_partida": "E661224111",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE ANCHO MENOR DE 54cm, RECTANGULAR. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661224121",
+        "unidad": "pza",
+        "descripcion": "I.S. SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE 54 cm O MAS DE ANCHO, RECTANGULAR. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661224122",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 4 plg, BLANCO O COLOR CLARO, DE 54 cm O MAS DE ANCHO, OVALADO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661224211",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 4 plg COLOR OSCURO, DE ANCHO MENOR DE 54 cm, RECTANGULAR. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661224221",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 4 plg COLOR OSCURO, DE 54 cm O MAS DE ANCHO, RECTANGULAR. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661224222",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 4 plg COLOR OSCURO, DE 54 cm .O MAS DE ANCHO, OVALADO. ( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661226121",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 6 plg, BLANCO O COLOR CLARO, DE 54 cm O MAS DE ANCHO, RECTANGULAR. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661226122",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 6 plg, BLANCO O COLOR CLARO, DE 54 cm O MAS DE ANCHO, OVALADO. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E661226221",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 6 plg, COLOR OSCURO, DE 54 cm O MAS DE ANCHO, RECTANGULAR. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E661226222",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 6 plg, COLOR OSCURO, DE 54 cm O MAS DE ANCHO, OVALADO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661228121",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 8 plg, BLANCO O COLOR CLARO, DE 54 cm O MAS DE ANCHO, RECTANGULAR. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E661228122",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 8 plg, BLANCO O COLOR CLARO, DE 54 cm O MAS DE ANCHO, OVALADO. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E661228221",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 8 plg, COLOR OSCURO, DE 54 cm O MAS DE ANCHO, RECTANGULAR. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E661228222",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE LAVAMANOS CON PEDESTAL, DE 2 LLAVES, GRIFERIA 8 plg, COLOR OSCURO, DE 54 cm O MAS DE ANCHO, OVALADO. ( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662111111",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA AL PISO, BLANCO O COLOR CLARO, LINEA ECONOMICA (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662111121",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA AL PISO, BLANCO O COLOR CLARO, LINEA MEDIA. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E662111131",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA AL PISO, BLANCO O COLOR CLARO, LINEA DE LUJO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662111132",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA AL PISO, BLANCO O COLOR CLARO, LINEA DE LUJO, TIPO EUROPEO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662111231",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA AL PISO, COLOR OSCURO, LINEA DE LUJO (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662111232",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA AL PISO, COLOR OSCURO, LINEA DE LUJO, TIPO EUROPEO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662112121",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, TANQUE BAJO, DESCARGA TRASERA, BLANCO O COLOR CLARO, LINEA MEDIA. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662131131",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, MONOLITICO, DESCARGA AL PISO, BLANCO O COLOR CLARO, LINEA DE LUJO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662131231",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, MONOLITICO, DESCARGA AL PISO, COLOR OSCURO, LINEA DE LUJO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662141100",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. DE ASIENTO, CON FLUXOMETRO INCLUIDO, DESCARGA AL PISO, BLANCO O COLOR CLARO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E662221100",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE W.C. TURCO, TANQUE ALTO. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E663112110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE URINARIO, CON SIFON CROMADO, ALIMENTADO CON LLAVE, DESCARGA A LA PARED, BLANCO O COLOR CLARO, LINEA ECONOMICA. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E663112130",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE URINARIO, CON SIFON CROMADO, ALIMENTADO CON LLAVE, DESCARGA A LA PARED, BLANCO O COLOR CLARO, LINEA DE LUJO. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E663212120",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE URINARIO, CON SIFON INTEGRADO, ALIMENTADO CON LLAVE, DESCARGA A LA PARED, BLANCO O COLOR CLARO, LINEA MEDIA. ( INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E663221130",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE URINARIO, CON SIFON INTEGRADO, ALIMENTADO CON FLUXOMETRO ( INCLUIDO ), DESCARGA AL PISO, BLANCO O COLOR CLARO, LINEA DE LUJO. (INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E663222110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE URINARIO, CON SIFON INTEGRADO, ALIMENTADO CON FLUXOMETRO ( INCLUIDO ), DESCARGA A LA PARED, BLANCO O COLOR CLARO, LINEA ECONOMICA. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E664100120",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE BIDET, BLANCO O COLOR CLARO, LINEA MEDIA. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E664100130",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE BIDET, BLANCO O COLOR CLARO, LINEA DE LUJO.( INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E664100220",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE BIDET, COLOR OSCURO, LINEA MEDIA.(INCLUYE GRIFERIA)."
+    },
+    {
+        "codigo_partida": "E664100230",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE BIDET, COLOR OSCURO, LINEA DE LUJO. (INCLUYE GRIFERIA )."
+    },
+    {
+        "codigo_partida": "E665011110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TOALLERA CON BARRA PLASTICA, DE PORCELANA, BLANCO O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665011210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TOALLERA CON BARRA PLASTICA, DE PORCELANA, COLOR OSCURO , PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665022020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TOALLERA CON BARRA METALICA, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665032020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TOALLERA CON ASA METALICA, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665041110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA SIN ASA, DE PORCELANA, BLANCO O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665041210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA SIN ASA, DE PORCELANA, COLOR OSCURO , PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665042010",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA SIN ASA, METALICA, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665042020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA SIN ASA, METALICA , PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665051110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA CON ASA, DE PORCELANA, BLANCO O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665051210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA CON ASA, DE PORCELANA, COLOR OSCURO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665061110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA DOBLE, DE PORCELANA, BLANCA O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665061210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA DOBLE, DE PORCELANA, COLOR OSCURO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665071110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA BIDET, DE PORCELANA, COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665071210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA BIDET, DE PORCELANA, COLOR OSCURO PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665082020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE JABONERA BASCULANTE DE FRASCO, METALICA, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665091110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE AGARRADERA, DE PORCELANA, BLANCA O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665091210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE AGARRADERA, DE PORCELANA, COLOR OSCURO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665101110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665101210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE PORTARROLLO DE PAPEL, DE PORCELANA, COLOR OSCURO , PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665102010",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE PORTARROLLO DE PAPEL, METALICO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665102020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE PORTARROLLO DE PAPEL, METALICO, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665111110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GANCHO COLGADOR SENCILLO, DE PORCELANA, BLANCO O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665111210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GANCHO COLGADOR SENCILLO, DE PORCELANA, COLOR OSCURO , PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665112020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GANCHO COLGADOR SENCILLO, METALICO, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665121110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GANCHO COLGADOR DOBLE, DE PORCELANA, BLANCO O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665121210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GANCHO COLGADOR DOBLE, DE PORCELANA, COLOR OSCURO , PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665122020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GANCHO COLGADOR DOBLE, METALICO, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665131110",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE VASERA CEPILLERA, DE PORCELANA, BLANCA O COLOR CLARO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665131210",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE VASERA CEPILLERA, DE PORCELANA, COLOR OSCURO, PARA EMPOTRAR."
+    },
+    {
+        "codigo_partida": "E665132020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE VASERA CEPILLERA, METALICA, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E665142020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DISPENSADOR DE PAPEL, METALICO, PARA FIJAR CON TORNILLOS."
+    },
+    {
+        "codigo_partida": "E666110000",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DUCHA DE 1 LLAVE."
+    },
+    {
+        "codigo_partida": "E666120000",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE GRUPO DE DUCHA DE 2 LLAVES."
+    },
+    {
+        "codigo_partida": "E666130000",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DUCHA DE TELEFONO."
+    },
+    {
+        "codigo_partida": "E666220025",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 25 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220027",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 27 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220030",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 30 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220035",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 35 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220040",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 40 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220050",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 50 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220060",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 60 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220080",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 80 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220100",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 100 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220120",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 120 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220150",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 150 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666220200",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CALENTADOR ELECTRICO DE 200 LITROS DE CAPACIDAD."
+    },
+    {
+        "codigo_partida": "E666311032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CENTRO PISO CIRCULAR ESTANDAR, DE BRONCE, PARA TUBO DE DESCARGA DE 1 1/4 plg DE DIAMETRO. ( 32 mm)."
+    },
+    {
+        "codigo_partida": "E666311038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CENTRO PISO CIRCULAR ESTANDAR, DE BRONCE, PARA TUBO DE DESCARGA DE 1 1/2 plg DE DIAMETRO. ( 38 mm)."
+    },
+    {
+        "codigo_partida": "E666311051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CENTRO PISO CIRCULAR ESTANDAR, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. ( 51 mm)."
+    },
+    {
+        "codigo_partida": "E666312032",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CENTRO PISO CIRCULAR ESTANDAR, CROMADO, PARA TUBO DE DESCARGA DE 1 1/4 plg DE DIAMETRO. (32 mm)."
+    },
+    {
+        "codigo_partida": "E666312038",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CENTRO PISO CIRCULAR ESTANDAR, CROMADO, PARA TUBO DE DESCARGA DE 1 1/2 plg DE DIAMETRO. (38 mm)."
+    },
+    {
+        "codigo_partida": "E666312051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE CENTRO PISO CIRCULAR ESTANDAR, CROMADO, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. (51 mm)."
+    },
+    {
+        "codigo_partida": "E666321051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA PLANA CIRCULAR PARA PISO, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. (51 mm)."
+    },
+    {
+        "codigo_partida": "E666321076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA PLANA CIRCULAR PARA PISO, DE BRONCE, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO. (76 mm)."
+    },
+    {
+        "codigo_partida": "E666321102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA PLANA CIRCULAR PARA PISO, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666321152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA PLANA CIRCULAR PARA PISO, DE BRONCE, PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. (152 mm)."
+    },
+    {
+        "codigo_partida": "E666323152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA PLANA CIRCULAR PARA PISO, DE HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. (152 mm)."
+    },
+    {
+        "codigo_partida": "E666331051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA CON CUPULA CIRCULAR PARA JARDINERA, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. (51 mm)."
+    },
+    {
+        "codigo_partida": "E666331076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA CON CUPULA CIRCULAR PARA JARDINERA DE BRONCE, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO. (76 mm)."
+    },
+    {
+        "codigo_partida": "E666331102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA CON CUPULA CIRCULAR PARA JARDINERA DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666331152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE REJILLA CON CUPULA CIRCULAR PARA JARDINERA DE BRONCE, PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. ( 152 mm)."
+    },
+    {
+        "codigo_partida": "E666341102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR PARA IMPERMEABILIZACION, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666344102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR PARA IMPERMEABILIZACION, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666351203",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA DE CUPULA CIRCULAR PARA TECHO, DE BRONCE, PARA TUBO DE DESCARGA DE 8 plg DE DIAMETRO. ( 203 mm)."
+    },
+    {
+        "codigo_partida": "E666353152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA DE CUPULA CIRCULAR PARA TECHO, DE HIERRO FUNDIDO,PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. (152 mm)."
+    },
+    {
+        "codigo_partida": "E666354051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA DE CUPULA CIRCULAR PARA TECHO, DE BRONCE-HIERRO FUNDIDO. PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. ( 51 mm)."
+    },
+    {
+        "codigo_partida": "E666354076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA DE CUPULA CIRCULAR PARA TECHO, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO. ( 76 mm)."
+    },
+    {
+        "codigo_partida": "E666354102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA DE CUPULA CIRCULAR PARA TECHO, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. ( 102 mm)."
+    },
+    {
+        "codigo_partida": "E666354152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA DE CUPULA CIRCULAR PARA TECHO, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. (152 mm)."
+    },
+    {
+        "codigo_partida": "E666361051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO.( 51 mm)."
+    },
+    {
+        "codigo_partida": "E666361076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO. ( 76 mm)."
+    },
+    {
+        "codigo_partida": "E666361102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666364051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. ( 51 mm)."
+    },
+    {
+        "codigo_partida": "E666364076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO. (76 mm)."
+    },
+    {
+        "codigo_partida": "E666364102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666364152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE REJILLA PLANA CIRCULAR CON ALTURA GRADUABLE PARA IMPERMEABILIZACION, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. (152 mm)."
+    },
+    {
+        "codigo_partida": "E666371051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPON DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. (51 mm)."
+    },
+    {
+        "codigo_partida": "E666371076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPON DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO. (76 mm)."
+    },
+    {
+        "codigo_partida": "E666371102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPON DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666381051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPA DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO.(51 mm)."
+    },
+    {
+        "codigo_partida": "E666381076",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPA DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 3 plg DE DIAMETRO.(76 mm)."
+    },
+    {
+        "codigo_partida": "E666381102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPA DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)."
+    },
+    {
+        "codigo_partida": "E666381152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE TAPA DE REGISTRO CIRCULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 6 plg DE DIAMETRO. (152 mm)."
+    },
+    {
+        "codigo_partida": "E666391010",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO ), CIRCULAR, DE BRONCE, DE 10 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666391012",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO), CIRCULAR, DE BRONCE, DE 12 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666391015",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO), CIRCULAR, DE BRONCE, DE 15 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666391020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO), CIRCULAR, DE BRONCE, DE 20 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666395010",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO ), CIRCULAR, DE ALUMINIO, DE 10 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666395012",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO), CIRCULAR, DE ALUMINIO, DE 12 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666395015",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO), CIRCULAR, DE ALUMINIO, DE 15 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666395020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODOROS (CON SIFON INCORPORADO), CIRCULAR, DE ALUMINIO, DE 20 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E666411102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE ESQUINA, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO ( 102 mm)."
+    },
+    {
+        "codigo_partida": "E666414102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN DE ESQUINA, DE BRONCE-HIERRO FUNDIDO, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO ( 102 mm)."
+    },
+    {
+        "codigo_partida": "E666421051",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN RECTANGULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 2 plg DE DIAMETRO. (51 mm)"
+    },
+    {
+        "codigo_partida": "E666421102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE DREN RECTANGULAR, DE BRONCE, PARA TUBO DE DESCARGA DE 4 plg DE DIAMETRO. (102 mm)"
+    },
+    {
+        "codigo_partida": "E666431010",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE BRONCE, DE 10 X 10 cm"
+    },
+    {
+        "codigo_partida": "E666431012",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE BRONCE, DE 12 X 12 cm"
+    },
+    {
+        "codigo_partida": "E666431015",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE BRONCE, DE 15 X 15 cm"
+    },
+    {
+        "codigo_partida": "E666431020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO ), CUADRADO,DE BRONCE, DE 20 X 20 cm"
+    },
+    {
+        "codigo_partida": "E666433102",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO ), CUADRADO, DE HIERRO FUNDIDO (ALBAÑAL), DE SALIDA DE DESCARGA 4 plg (102 mm)."
+    },
+    {
+        "codigo_partida": "E666433127",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO ), CUADRADO, DE HIERRO FUNDIDO (ALBAÑAL), DE SALIDA DE DESCARGA 5 plg. ( 127 mm)."
+    },
+    {
+        "codigo_partida": "E666433152",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE HIERRO FUNDIDO (ALBAÑAL), DE SALIDA DE DESCARGA 6 plg. ( 152 mm)."
+    },
+    {
+        "codigo_partida": "E666433178",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE HIERRO FUNDIDO (ALBAÑAL), DE SALIDA DE DESCARGA 8 plg ( 178 mm)."
+    },
+    {
+        "codigo_partida": "E666435010",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE ALUMINIO, DE 10 X 10 cm"
+    },
+    {
+        "codigo_partida": "E666435012",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE ALUMINIO, DE 12 X 12 cm"
+    },
+    {
+        "codigo_partida": "E666435015",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE ALUMINIO, DE 15 X 15 cm"
+    },
+    {
+        "codigo_partida": "E666435020",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE INODORO (CON SIFON INCORPORADO), CUADRADO, DE ALUMINIO, DE 20 X 20 cm"
+    },
+    {
+        "codigo_partida": "E667111042",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, SIMPLE, DE CAPACIDAD DE TANQUE 42 gal."
+    },
+    {
+        "codigo_partida": "E667111082",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, SIMPLE, DE CAPACIDAD DE TANQUE 82 gal."
+    },
+    {
+        "codigo_partida": "E667111120",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, SIMPLE, DE CAPACIDAD DE TANQUE 120 gal."
+    },
+    {
+        "codigo_partida": "E667111220",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, SIMPLE, DE CAPACIDAD DE TANQUE 220 gal."
+    },
+    {
+        "codigo_partida": "E667111315",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, SIMPLE, DE CAPACIDAD DE TANQUE 315 gal."
+    },
+    {
+        "codigo_partida": "E667112042",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, DUPLEX, DE CAPACIDAD DE TANQUE 42 gal."
+    },
+    {
+        "codigo_partida": "E667112082",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, DUPLEX, DE CAPACIDAD DE TANQUE 82 gal."
+    },
+    {
+        "codigo_partida": "E667112120",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, DUPLEX, DE CAPACIDAD DE TANQUE 120 gal."
+    },
+    {
+        "codigo_partida": "E667112220",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, DUPLEX, DE CAPACIDAD DE TANQUE 220 gal."
+    },
+    {
+        "codigo_partida": "E667112315",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, PEQUEÑO, DUPLEX, DE CAPACIDAD DE TANQUE 315 gal."
+    },
+    {
+        "codigo_partida": "E667120500",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, GRANDE, DE CAPACIDAD DE TANQUE DE 100 A 500 gal."
+    },
+    {
+        "codigo_partida": "E667121000",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, GRANDE, DE CAPACIDAD DE TANQUE DE 501 A 1000 gal."
+    },
+    {
+        "codigo_partida": "E667122000",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, GRANDE, DE CAPACIDAD DE TANQUE DE 1001 A 2000 gal."
+    },
+    {
+        "codigo_partida": "E667123000",
+        "unidad": "pza",
+        "descripcion": "SUMINISTRO, TRANSPORTE E INSTALACION DE SISTEMA HIDRONEUMATICO, GRANDE, DE CAPACIDAD DE TANQUE DE 2001 A 3000 gal."
+    }
+]

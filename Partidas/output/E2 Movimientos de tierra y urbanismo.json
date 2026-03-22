@@ -1,0 +1,112 @@
+[
+    {
+        "codigo_partida": "E211100000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION PARA BANQUEOS INCLUYENDO CARGA, EN CUALQUIER TIPO DE MATERIAL, CON EMPLEO DE TRACTORES Y EQUIPO CARGADOR."
+    },
+    {
+        "codigo_partida": "E211200000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION PARA BANQUEOS INCLUYENDO CARGA, EN CUALQUIER TIPO DE MATERIAL, CON EMPLEO DE TRACTOR CON ESCARIFICADOR Y CARGADOR."
+    },
+    {
+        "codigo_partida": "E211300000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION PARA BANQUEOS EN CUALQUIER TIPO DE MATERIAL, CON EMPLEO DE MOTOTRAILLAS Y TRACTOR DE EMPUJE."
+    },
+    {
+        "codigo_partida": "E211400000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION PARA BANQUEOS INCLUYENDO CARGA, EN ROCA O CUALQUIER MATERIAL QUE REQUIERA INDISPENSABLEMENTE EL USO DE EXPLOSIVOS."
+    },
+    {
+        "codigo_partida": "E212100000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION EN PRESTAMO INCLUYENDO CARGA, EN CUALQUIER TIPO DE MATERIAL CON EMPLEO DE TRACTOR Y CARGADOR."
+    },
+    {
+        "codigo_partida": "E212200000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION EN PRESTAMO INCLUYENDO CARGA,EN CUALQUIER TIPO DE MATERIAL CON EMPLEO DE TRACTOR CON ESCARIFICADOR Y CARGADOR."
+    },
+    {
+        "codigo_partida": "E212300000",
+        "unidad": "m3",
+        "descripcion": "EXCAVACION EN PRESTAMO EN CUALQUIER TIPO DE MATERIAL CON EMPLEO DE MOTOTRAILLAS Y TRACTOR DE EMPUJE."
+    },
+    {
+        "codigo_partida": "E221000000",
+        "unidad": "m3",
+        "descripcion": "CONSTRUCCION DE TERRAPLENES, UTILIZANDO MATERIAL TRANSPORTADO POR CAMIONES."
+    },
+    {
+        "codigo_partida": "E222000000",
+        "unidad": "m3",
+        "descripcion": "CONSTRUCCION DE TERRAPLENES, UTILIZANDO MATERIAL TRANSPORTADO POR MOTOTRAILLAS."
+    },
+    {
+        "codigo_partida": "E230000000",
+        "unidad": "m3",
+        "descripcion": "CONSTRUCCION DE RELLENO COMPACTADO CON PASO DE MAQUINA."
+    },
+    {
+        "codigo_partida": "E242000001",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO DE ELEMENTOS DE CONCRETO PREFABRICADO (ESCAMAS), INCLUIDOS EL ACERO DE REFUERZO INTERNO Y LAS JUNTAS (EXCLUIDOS LOS ANCLAJES), PARA LA CONSTRUCCION DE MUROS DESUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E242000002",
+        "unidad": "m2",
+        "descripcion": "COLOCACION DE ELEMENTOS DE CONCRETO ARMADO PREFABRICADO (ESCAMAS), PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E242000003",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO Y COLOCACION DE ELEMENTOS DE CONCRETO ARMADO PREFABRICADO ( ESCAMAS ), INCLUIDOS EL ACERO DE REFUERZO INTERNO Y LAS JUNTAS (EXCLUIDOS LOS ANCLAJES), PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E243100000",
+        "unidad": "Pza",
+        "descripcion": "ANCLAJES DE ACERO GALVANIZADO (INCLUIDA LA TORNILLERIA DE ALTA RESISTENCIA), PARA FIJACION DE PLETINAS EN LOS ELEMENTOS DE CONCRETO PREFABRICADO (ESCAMAS), EN LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E243200000",
+        "unidad": "Pza",
+        "descripcion": "EMPALMES DE ACERO GALVANIZADO (INCLUIDA LA TORNILLERIA DE ALTA RESISTENCIA), PARA LA UNION ENTRE PLETINAS RESALTADAS, EN LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E244100001",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PLETINAS RESALTADAS DE ACERO GALVANIZADO, PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E244100002",
+        "unidad": "m",
+        "descripcion": "COLOCACION DE PLETINAS RESALTADAS DE ACERO GALVANIZADO, PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E244100003",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO Y COLOCACION DE PLETINAS RESALTADAS DE ACERO GALVANIZADO, PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E245000001",
+        "unidad": "m3",
+        "descripcion": "EXTENDIDO Y COMPACTACION DE RELLENO CON EQUIPO MECANIZADO, PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E245000002",
+        "unidad": "m3",
+        "descripcion": "COMPACTACION DE RELLENOS CON APISONADORES DE PERCUSION, PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO."
+    },
+    {
+        "codigo_partida": "E246100250",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc MINIMA 250 kgf/cm2 A LOS 28 DIAS, PARA BASE DE ELEMENTOS ESPECIALES DE CONCRETO ARMADO PREFABRICADO (ESCAMAS) EN LA CONSTRUCCION DE MUROS DE SUELO ARMADO. INCLUYE EL REFUERZO METALICO, EL ENCOFRADO Y EL TRANSPORTE DEL CEMENTO Y LOS AGREGADOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E246200250",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc MINIMA 250 kgf/cm2 A LOS 28 DIAS, PARA VIGA DE CORONAMIENTO (VACIADA EN SITIO O PREFABRICADA), PARA MUROS DE SUELO ARMADO. INCLUYE EL REFUERZO METALICO, EL ENCOFRADO Y EL TRANSPORTE DEL CEMENTO Y LOS AGREGADOS HASTA 50 km."
+    }
+]

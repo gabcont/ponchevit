@@ -1,0 +1,1867 @@
+[
+    {
+        "codigo_partida": "E511111013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA LIVIANA, PVC, EMBUTIDA. DIAMETRO 1/2 plg (13 mm )"
+    },
+    {
+        "codigo_partida": "E511111019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA LIVIANA, PVC, EMBUTIDA. DIAMETRO 3/4 plg (19 mm )."
+    },
+    {
+        "codigo_partida": "E511111025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA LIVIANA, PVC, EMBUTIDA. DIAMETRO 1 plg ( 25 mm)"
+    },
+    {
+        "codigo_partida": "E511111038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA LIVIANA, PVC, EMBUTIDA. DIAMETRO 1 1/2 plg ( 38 mm )."
+    },
+    {
+        "codigo_partida": "E511111051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA LIVIANA, PVC, EMBUTIDA. DIAMETRO 2 plg (51 mm )."
+    },
+    {
+        "codigo_partida": "E511111064",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA LIVIANA, PVC, EMBUTIDA. DIAMETRO 2 1/2 plg ( 64 mm )."
+    },
+    {
+        "codigo_partida": "E511121013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA PESADA, PVC, EMBUTIDA. DIAMETRO 1/2 plg (13 mm )."
+    },
+    {
+        "codigo_partida": "E511121019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA PESADA, PVC, EMBUTIDA. DIAMETRO 3/4 plg ( 19 mm )."
+    },
+    {
+        "codigo_partida": "E511121025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA PESADA, PVC, EMBUTIDA. DIAMETRO 1 plg ( 25 mm )."
+    },
+    {
+        "codigo_partida": "E511121038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA PESADA, PVC, EMBUTIDA. DIAMETRO 11/2 plg ( 38 mm )."
+    },
+    {
+        "codigo_partida": "E511121051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA PESADA, PVC, EMBUTIDA. DIAMETRO 2 plg ( 51 mm )."
+    },
+    {
+        "codigo_partida": "E511121064",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA RIGIDA PESADA, PVC, EMBUTIDA. DIAMETRO 21/2 plg ( 64 mm )."
+    },
+    {
+        "codigo_partida": "E511341013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA FLEXIBLE CORRUGADA, PVC, EMBUTIDA. DIAMETRO 1/2 plg ( 13 mm )."
+    },
+    {
+        "codigo_partida": "E511341019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA FLEXIBLE CORRUGADA, PVC, EMBUTIDA. DIAMETRO 3/4 plg ( 19 mm )."
+    },
+    {
+        "codigo_partida": "E511341025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA FLEXIBLE CORRUGADA, PVC,EMBUTIDA. DIAMETRO 1 plg ( 25 mm )."
+    },
+    {
+        "codigo_partida": "E511341038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA FLEXIBLE CORRUGADA, PVC, EMBUTIDA. DIAMETRO 1 1/2 plg ( 38 mm )."
+    },
+    {
+        "codigo_partida": "E511341051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA PLASTICA FLEXIBLE CORRUGADA, PVC,EMBUTIDA. DIAMETRO 2 plg ( 51 mm )."
+    },
+    {
+        "codigo_partida": "E512121013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 1/2 plg ( 13 mm )."
+    },
+    {
+        "codigo_partida": "E512121019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 3/4 plg (19 mm)."
+    },
+    {
+        "codigo_partida": "E512121025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 1 plg (25 mm)."
+    },
+    {
+        "codigo_partida": "E512121032",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 1 1/4 plg (32 mm)."
+    },
+    {
+        "codigo_partida": "E512121038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 1 1/2 plg (38 mm)."
+    },
+    {
+        "codigo_partida": "E512121051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 2 plg (51 mm)."
+    },
+    {
+        "codigo_partida": "E512121064",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 2 1/2 plg (64 mm)."
+    },
+    {
+        "codigo_partida": "E512121076",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 3 plg (76 mm)."
+    },
+    {
+        "codigo_partida": "E512121102",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE LIVIANA-ISO, EMBUTIDA. DIAMETRO 4 plg (102 mm)."
+    },
+    {
+        "codigo_partida": "E512141013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 1/2 plg (13 mm)."
+    },
+    {
+        "codigo_partida": "E512141019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 3/4 plg (19 mm)."
+    },
+    {
+        "codigo_partida": "E512141025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 1 plg (25 mm)."
+    },
+    {
+        "codigo_partida": "E512141032",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 1 1/4 plg (32 mm)."
+    },
+    {
+        "codigo_partida": "E512141038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 1 1/2 plg (38 mm)."
+    },
+    {
+        "codigo_partida": "E512141051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA,EMBUTIDA. DIAMETRO 2 plg (51 mm)."
+    },
+    {
+        "codigo_partida": "E512141064",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA,EMBUTIDA. DIAMETRO 2 1/2 plg (64 mm)."
+    },
+    {
+        "codigo_partida": "E512141076",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 3 plg (76 mm)."
+    },
+    {
+        "codigo_partida": "E512141102",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 4 plg (102 mm)."
+    },
+    {
+        "codigo_partida": "E512141152",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, RIGIDO, CON ROSCA, SERIE PESADA, EMBUTIDA. DIAMETRO 6 plg (152 mm)."
+    },
+    {
+        "codigo_partida": "E512211013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 1/2 plg (13 mm)."
+    },
+    {
+        "codigo_partida": "E512211019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 3/4 plg (19 mm)."
+    },
+    {
+        "codigo_partida": "E512211025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 1 plg (25 mm)."
+    },
+    {
+        "codigo_partida": "E512211038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 1 1/2 plg (38 mm)."
+    },
+    {
+        "codigo_partida": "E512211051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 2 plg (51 mm)."
+    },
+    {
+        "codigo_partida": "E512211076",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 3 plg (76 mm)."
+    },
+    {
+        "codigo_partida": "E512211102",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, SIN ROSCA, TIPO EMT, EMBUTIDA. DIAMETRO 4 plg (102 mm)."
+    },
+    {
+        "codigo_partida": "E512352010",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE, SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 3/8 plg (10 mm)."
+    },
+    {
+        "codigo_partida": "E512352013",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE, SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 1/2 plg (13 mm)."
+    },
+    {
+        "codigo_partida": "E512352019",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE, SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 3/4 plg (19 mm)."
+    },
+    {
+        "codigo_partida": "E512352025",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE,SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 1 plg (25 mm)."
+    },
+    {
+        "codigo_partida": "E512352038",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE, SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 1 1/2 plg (38 mm)."
+    },
+    {
+        "codigo_partida": "E512352051",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE, SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 2 plg (51 mm)."
+    },
+    {
+        "codigo_partida": "E512352064",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE, SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 2 1/2 plg (64 mm)."
+    },
+    {
+        "codigo_partida": "E512352076",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE,SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 3 plg (76 mm)."
+    },
+    {
+        "codigo_partida": "E512352102",
+        "unidad": "m",
+        "descripcion": "I.E. TUBERIA DE HIERRO GALVANIZADO, FLEXIBLE,SERIE BX, FIJADA SOBRE LA PARED O LOSA. DIAMETRO 4 plg (102 mm)."
+    },
+    {
+        "codigo_partida": "E521010000",
+        "unidad": "KG",
+        "descripcion": "I.E.CABLE DE COBRE, SOLIDO O TRENSADO, DESNUDO, PARA DIFERENTES CALIBRES."
+    },
+    {
+        "codigo_partida": "E521121012",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, SOLIDO, REVESTIDO, T.F., CALIBRE 18 AWG (1.16 mm)"
+    },
+    {
+        "codigo_partida": "E521121015",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, SOLIDO, REVESTIDO, T.F., CALIBRE 16 AWG (1.46 mm)."
+    },
+    {
+        "codigo_partida": "E521222012",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 18 AWG (1.16 mm)."
+    },
+    {
+        "codigo_partida": "E521222015",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 16 AWG (1.46 mm)."
+    },
+    {
+        "codigo_partida": "E521222018",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 14 AWG (1.84 mm)."
+    },
+    {
+        "codigo_partida": "E521222023",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 12 AWG (2.32 mm)."
+    },
+    {
+        "codigo_partida": "E521222030",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 10 AWG (2.95 mm)."
+    },
+    {
+        "codigo_partida": "E521222037",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 8 AWG (3.71 mm)."
+    },
+    {
+        "codigo_partida": "E521222047",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 6 AWG (4.67 mm)."
+    },
+    {
+        "codigo_partida": "E521222059",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 4 AWG (5.89 mm)."
+    },
+    {
+        "codigo_partida": "E521222074",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 2 AWG (7.42 mm)."
+    },
+    {
+        "codigo_partida": "E521222095",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 1/0 AWG (9.47 mm)."
+    },
+    {
+        "codigo_partida": "E521222106",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 2/0 AWG (10.64 mm)."
+    },
+    {
+        "codigo_partida": "E521222119",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 3/0 AWG (11.94 mm)."
+    },
+    {
+        "codigo_partida": "E521222134",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 4/0 AWG (13.41 mm)."
+    },
+    {
+        "codigo_partida": "E521222146",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 250 MCM (14.61 mm)."
+    },
+    {
+        "codigo_partida": "E521222160",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 300 MCM (16.00 mm)."
+    },
+    {
+        "codigo_partida": "E521222173",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 350 MCM (17.30 mm)."
+    },
+    {
+        "codigo_partida": "E521222185",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 400 MCM (18.49 mm)."
+    },
+    {
+        "codigo_partida": "E521222207",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TW, CALIBRE 500 MCM (20.65 mm)."
+    },
+    {
+        "codigo_partida": "E521223018",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 14 AWG ( 1.84 mm)."
+    },
+    {
+        "codigo_partida": "E521223023",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 12 AWG (2.32 mm)."
+    },
+    {
+        "codigo_partida": "E521223030",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 10 AWG ( 2.95 mm)."
+    },
+    {
+        "codigo_partida": "E521223037",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 8 AWG (3.71 mm)."
+    },
+    {
+        "codigo_partida": "E521223047",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 6 AWG (4.67 mm)."
+    },
+    {
+        "codigo_partida": "E521223059",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 4 AWG (5.89 mm)."
+    },
+    {
+        "codigo_partida": "E521223074",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 2 AWG (7.42 mm)."
+    },
+    {
+        "codigo_partida": "E521223095",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 1/0 AWG (9.47 mm)."
+    },
+    {
+        "codigo_partida": "E521223106",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW,CALIBRE 2/0 AWG (10.64 mm)."
+    },
+    {
+        "codigo_partida": "E521223119",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 3/0 AWG (11.94 mm)."
+    },
+    {
+        "codigo_partida": "E521223134",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 4/0 AWG (13.41 mm)."
+    },
+    {
+        "codigo_partida": "E521223160",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 300 MCM (16.00 mm)."
+    },
+    {
+        "codigo_partida": "E521223173",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 350 MCM (17.30 mm)."
+    },
+    {
+        "codigo_partida": "E521223207",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, THW, CALIBRE 500 MCM (20.65 mm)."
+    },
+    {
+        "codigo_partida": "E521224015",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 16 AWG (1.46 mm)."
+    },
+    {
+        "codigo_partida": "E521224018",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 14 AWG (1.84 mm)."
+    },
+    {
+        "codigo_partida": "E521224023",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 12 AWG (2.32 mm)."
+    },
+    {
+        "codigo_partida": "E521224030",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU,CALIBRE 10 AWG (2.95 mm)."
+    },
+    {
+        "codigo_partida": "E521224037",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 8 AWG (3.71 mm)."
+    },
+    {
+        "codigo_partida": "E521224047",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 6 AWG (4.67 mm)."
+    },
+    {
+        "codigo_partida": "E521224059",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 4 AWG (5.89 mm)."
+    },
+    {
+        "codigo_partida": "E521224074",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 2 AWG (7.42 mm)."
+    },
+    {
+        "codigo_partida": "E521224095",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, TRENSADO, REVESTIDO, TTU, CALIBRE 1/0 AWG (9.47 mm)."
+    },
+    {
+        "codigo_partida": "E521224106",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 2/0 AWG (10.64 mm) ."
+    },
+    {
+        "codigo_partida": "E521224119",
+        "unidad": "m",
+        "descripcion": "I.E.CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 3/0 AWG (11.94 mm) ."
+    },
+    {
+        "codigo_partida": "E521224134",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 4/0 AWG (13.41 mm) ."
+    },
+    {
+        "codigo_partida": "E521224146",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 250 MCM (14.61 mm) ."
+    },
+    {
+        "codigo_partida": "E521224160",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 300 MCM (16.00 mm) ."
+    },
+    {
+        "codigo_partida": "E521224173",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 350 MCM (17.30 mm) ."
+    },
+    {
+        "codigo_partida": "E521224185",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 400 MCM (18.49 mm) ."
+    },
+    {
+        "codigo_partida": "E521224207",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE DE COBRE, Trensado, REVESTIDO, TTU, CALIBRE 500 MCM (20.65 mm) ."
+    },
+    {
+        "codigo_partida": "E521228074",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE MONOPOLAR POLIETILENO 15 kV NEUTRO A TIERRA. AISLADO C/EXCELEN, PANTALLA METALICA. CHAQUETA EXTERIOR P.V.C. CALIBRE 2 AWG (7.42 mm ). CANTIDADES MAYORES DE 300 m."
+    },
+    {
+        "codigo_partida": "E521228095",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE MONOPOLAR POLIETILENO 15 kV NEUTRO A TIERRA. AISLADO C/EXCELEN, PANTALLA METALICA. CHAQUETA EXTERIOR P.V.C. CALIBRE 1/0 AWG (9.47 mm ). CANTIDADES MAYORES DE 300 m."
+    },
+    {
+        "codigo_partida": "E521228106",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE MONOPOLAR POLIETILENO 15 kV NEUTRO A TIERRA. AISLADO C/EXCELEN, PANTALLA METALICA. CHAQUETA EXTERIOR P.V.C. CALIBRE 2/0 AWG (10.64 mm ). CANTIDADES MAYORES DE 300 m."
+    },
+    {
+        "codigo_partida": "E521229001",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 1 PAR."
+    },
+    {
+        "codigo_partida": "E521229002",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 2 PARES."
+    },
+    {
+        "codigo_partida": "E521229004",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 4 PARES."
+    },
+    {
+        "codigo_partida": "E521229006",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 6 PARES."
+    },
+    {
+        "codigo_partida": "E521229010",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 10 PARES."
+    },
+    {
+        "codigo_partida": "E521229020",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 20 PARES."
+    },
+    {
+        "codigo_partida": "E521229030",
+        "unidad": "m",
+        "descripcion": "I.E. CABLE TELEFONICO DE 30 PARES."
+    },
+    {
+        "codigo_partida": "E531110009",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 1/2 plg, PROFUNDIDAD 11/2 plg OCTOGONALES 3 1/2 plg (8.9 cm )."
+    },
+    {
+        "codigo_partida": "E531110010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 1/2 plg, PROFUNDIDAD 1 1/2 plg OCTOGONALES 4 plg (10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531110510",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 1/2 plg, PROFUNDIDAD 1 1/2 plg RECTANGULARES 2 X 4 plg (5.1 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531111010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 1/2 plg, PROFUNDIDAD 1 1/2 plg CUADRADOS 4 X 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531210010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4 plg, PROFUNDIDAD 1 1/2 plg, OCTOGONALES 4 plg (10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531211010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4 plg, PROFUNDIDAD 1 1/2 plg, CUADRADOS 4 X 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531220010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4 plg, PROFUNDIDAD 2 plg OCTOGONALES 4 plg (10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531230010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4plg, PROFUNDIDAD 2 1/8 plg, OCTOGONALES 4 plg (10.2cm)."
+    },
+    {
+        "codigo_partida": "E531231010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4plg, PROFUNDIDAD 2 1/8 plg, CUADRADOS 4 X 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531240010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4plg, PROFUNDIDAD 2 1/2 plg, OCTOGONALES 4 plg (10.2cm)."
+    },
+    {
+        "codigo_partida": "E531250010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4plg, PROFUNDIDAD 3 plg, OCTOGONALES 4plg (10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531260010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4plg, PROFUNDIDAD 3 1/2 plg, OCTOGONALES 4 plg (10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531270010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDAS 1/2 - 3/4plg, PROFUNDIDAD 4 plg, OCTOGONALES 4 plg ( 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531310010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 3/4 plg, PROFUNDIDAD 1 1/2 plg, OCTOGONALES 4 plg ( 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531310510",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 3/4 plg, PROFUNDIDAD 1 1/2 plg, RECTANGULARES 2 X 4 plg (5.1 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531311010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 3/4 plg, PROFUNDIDAD 1 1/2 plg, CUADRADOS 4 X 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531330010",
+        "unidad": "pza",
+        "descripcion": "I.E.CAJETINES METALICOS, SALIDA 3/4 plg, PROFUNDIDAD 2 1/8 plg, OCTOGONALES 4 plg (10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531331010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 3/4 plg, PROFUNDIDAD 2 1/8 plg, CUADRADOS 4 X 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531430010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 1 plg, PROFUNDIDAD 2 1/8 plg, OCTOGONALES 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E531431010",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJETINES METALICOS, SALIDA 1 plg, PROFUNDIDAD 2 1/8 plg, CUADRADOS 4 X 4 plg (10.2 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E533171520",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA, 6 X 8 X 4 plg (15.2 X 20.3 X 10.2 cm)."
+    },
+    {
+        "codigo_partida": "E533172525",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA, 10 X 10 X 4 plg (25.4 X 25.4 X 10.2 cm )."
+    },
+    {
+        "codigo_partida": "E533173030",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA, 12 X 12 X 4 plg (30.5 X 30.5 X 10.2 cm )."
+    },
+    {
+        "codigo_partida": "E533191515",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA, 6 X 6 X 6 plg (15.2 X 15.2 X 15.2 cm )."
+    },
+    {
+        "codigo_partida": "E533192025",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA,10 X 8 X 6 plg (25.4 X 20.3 X 15.2 cm )."
+    },
+    {
+        "codigo_partida": "E533192525",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA,10 X 10 X 6 plg (25.4 X 25.4 X 15.2 cm )."
+    },
+    {
+        "codigo_partida": "E533193030",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA,12 X 12 X 6 plg (30.5 X 30.5 X 15.2 cm )."
+    },
+    {
+        "codigo_partida": "E533193040",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS METALICAS DE DERIVACION, TIPO PA, 16 X 12 X 6 plg (40.6 X 30.5 X 15.2cm )."
+    },
+    {
+        "codigo_partida": "E534137013",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO L-B. DIAMETRO 1/2 plg (13 mm). INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534137019",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO L-B. DIAMETRO 3/4 plg (19 mm). INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534137025",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO L-B. DIAMETRO 1 plg (25 mm) INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534137051",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO L-B. DIAMETRO 2 plg (51 mm) INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534137076",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO L-B. DIAMETRO 3 plg (76 mm) INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534137102",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO L-B. DIAMETRO 4 plg (102 mm) INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534142013",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO T. DIAMETRO 1/2 plg (13 mm) INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534142019",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO T. DIAMETRO 3/4 plg (19 mm) INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534142025",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO T. DIAMETRO 1 plg (25 mm). INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534142051",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO T. DIAMETRO 2 plg (51 mm). INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534142076",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO T. DIAMETRO 3 plg (76 mm). INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E534142102",
+        "unidad": "pza",
+        "descripcion": "I.E. CAJAS CONDULET DE ALUMINIO, TIPO T. DIAMETRO 4 plg (102 mm ). INCLUYE TAPA Y EMPACADURAS."
+    },
+    {
+        "codigo_partida": "E541111105",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES CON TAPA METALICA, PUENTE Y TORNILLOS. COMBINABLES SIMPLES, 5 A."
+    },
+    {
+        "codigo_partida": "E541111120",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES COMBINABLES SIMPLES, CON TAPA METALICA, PUENTE Y TORNILLOS, 20 A."
+    },
+    {
+        "codigo_partida": "E541121105",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES COMBINABLES DOBLES, CON TAPA DE PLASTICO, PUENTE Y TORNILLOS, 5A."
+    },
+    {
+        "codigo_partida": "E541121120",
+        "unidad": "pza",
+        "descripcion": "I.E. SUMINISTRO Y COLOCACION DE INTERRUPTORES COMBINABLES DOBLES, CON TAPA METALICA, PUENTE Y TORNILLOS, 20 A."
+    },
+    {
+        "codigo_partida": "E541131105",
+        "unidad": "pza",
+        "descripcion": "I.E. SUMINISTRO Y COLOCACION DE INTERRUPTORES COMBINABLES TRIPLES, CON TAPA METALICA, PUENTE Y TORNILLOS, 5 A."
+    },
+    {
+        "codigo_partida": "E541131120",
+        "unidad": "pza",
+        "descripcion": "I.E. SUMINISTRO Y COLOCACION DE INTERRUPTORES COMBINABLES TRIPLES, CON TAPA METALICA, PUENTE Y TORNILLOS, 20 A."
+    },
+    {
+        "codigo_partida": "E541211102",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES ( SWITCHES ) COMBINABLES SIMPLES, CON TAPA DE PLASTICO, PUENTE Y TORNILLOS, 2.5 A."
+    },
+    {
+        "codigo_partida": "E541211105",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES ( SWITCHES ) COMBINABLES SIMPLES, CON TAPA DE PLASTICO, PUENTE Y TORNILLOS, 5A."
+    },
+    {
+        "codigo_partida": "E541211110",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES (SWITCHES) COMBINABLES SIMPLES, CON TAPA DE PLASTICO, PUENTE Y TORNILLOS, 10 A."
+    },
+    {
+        "codigo_partida": "E541241120",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORES (THREE-WAY) CON TAPA DE PLASTICO, PUENTE Y TORNILLOS, 20 A - 120 V."
+    },
+    {
+        "codigo_partida": "E542112220",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, DOS (2) FASES, 20 A."
+    },
+    {
+        "codigo_partida": "E542112230",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, DOS (2) FASES, 30 A."
+    },
+    {
+        "codigo_partida": "E542112240",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, DOS (2) FASES, 40 A."
+    },
+    {
+        "codigo_partida": "E542113220",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, TRES (3) FASES, 20 A."
+    },
+    {
+        "codigo_partida": "E542113230",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, TRES (3) FASES, 30 A."
+    },
+    {
+        "codigo_partida": "E542113240",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, TRES (3) FASES, 40 A."
+    },
+    {
+        "codigo_partida": "E542113250",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, TRES (3) FASES, 50 A."
+    },
+    {
+        "codigo_partida": "E542113270",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. SENCILLO, TRES (3) FASES, 70 A."
+    },
+    {
+        "codigo_partida": "E542133220",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. TRIPLE, TRES (3) FASES, 20 A."
+    },
+    {
+        "codigo_partida": "E542133230",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. TRIPLE, TRES (3) FASES, 30 A."
+    },
+    {
+        "codigo_partida": "E542133240",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. TRIPLE, TRES (3) FASES, 40 A."
+    },
+    {
+        "codigo_partida": "E542133250",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA METALICA, PUENTE Y TORNILLOS. TRIPLE, TRES (3) FASES, 50 A."
+    },
+    {
+        "codigo_partida": "E542211120",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA PLASTICA, PUENTE Y TORNILLOS. SENCILLO, UNA (1) FASE, 20A."
+    },
+    {
+        "codigo_partida": "E542211130",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA PLASTICA, PUENTE Y TORNILLOS. SENCILLO, UNA (1) FASE, 30 A."
+    },
+    {
+        "codigo_partida": "E542221120",
+        "unidad": "pza",
+        "descripcion": "I.E. SUMINISTRO Y COLOCACION DE TOMACORRIENTES CON TAPA PLASTICA,PUENTE Y TORNILLOS. COMBINABLE, DOBLE, UNA (1) FASE, 20 A."
+    },
+    {
+        "codigo_partida": "E542222220",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA PLASTICA, PUENTE Y TORNILLOS. DOBLE, DOS (2) FASES, 20 A."
+    },
+    {
+        "codigo_partida": "E542222230",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA PLASTICA, PUENTE Y TORNILLOS. DOBLE, DOS (2) FASES, 30 A."
+    },
+    {
+        "codigo_partida": "E542222240",
+        "unidad": "pza",
+        "descripcion": "I.E. TOMACORRIENTES CON TAPA PLASTICA, PUENTE Y TORNILLOS. DOBLE, DOS (2) FASES, 40 A."
+    },
+    {
+        "codigo_partida": "E551110212",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 1 FASE + NEUTRO, 2 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551110412",
+        "unidad": "pza",
+        "descripcion": "I.E.TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 1 FASE + NEUTRO, 4 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551110612",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 1 FASE + NEUTRO, 6 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551120212",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 2 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551120412",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 4 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551120612",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 6 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551120812",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 8 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551121012",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 10 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551121212",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 12 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551121612",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 16 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551122012",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 2 FASES + NEUTRO, 20 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551130212",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 2 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551130412",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 4 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551130415",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 4 CIRCUITOS, BARRAS DE 150 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551130612",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 6 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551130615",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 6 CIRCUITOS, BARRAS DE 150 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551131212",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 12 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551131815",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 18 CIRCUITOS, BARRAS DE 150 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551132415",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 24 CIRCUITOS, BARRAS DE 150 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551133012",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 30 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E551133612",
+        "unidad": "pza",
+        "descripcion": "I.E. TABLERO METALICO CONVERTIBLE, EMBUTIDO, CON PUERTA, 3 FASES + NEUTRO, 36 CIRCUITOS, BARRAS DE 125 A. NO INCLUYE BREAKER."
+    },
+    {
+        "codigo_partida": "E561110001",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 10 kA ICC, CAP. 15 A."
+    },
+    {
+        "codigo_partida": "E561110002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 10 kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561110003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 10 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561110004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 10 kA ICC, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561110005",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 10 kA ICC, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561110015",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 1 POLO, 10 kA ICC, 120/240 V, CAP. 15 A."
+    },
+    {
+        "codigo_partida": "E561110020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 1 POLO, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561110030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 1 POLO, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561110040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 1 POLO, 10 kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561110050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 1 POLO, 10 kA ICC, 120/ 240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561110100",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 10 kA ICC, CAP.100 A."
+    },
+    {
+        "codigo_partida": "E561118002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 1 POLO 120/240 V, 18kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561210002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS 120/240 V, 10 kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561210003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS 120/240 V, 10 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561210004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS 120/240 V, 10 kA ICC, CAP.40 A."
+    },
+    {
+        "codigo_partida": "E561210005",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS 120/240 V, 10 kA ICC, CAP.50 A."
+    },
+    {
+        "codigo_partida": "E561210006",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS 120/240 V, 10 kA ICC, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E561210007",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS120/240 V, 10 kA ICC, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E561210010",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 2 POLOS 120/240V, 10 kA ICC, CAP.100 A."
+    },
+    {
+        "codigo_partida": "E561210015",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 15 A."
+    },
+    {
+        "codigo_partida": "E561210020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561210030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561210040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561210050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561210060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E561210070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTORTERMOMAGNETICO (BREAKER) CONENCHUFE, 2 POLOS,10kA ICC, 120/240V,CAP.70 A."
+    },
+    {
+        "codigo_partida": "E561210100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E561214002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240 V, 14 kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561214003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240 V, 14 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561214004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240 V, 14 kA ICC, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561214005",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240 V , 14 kA ICC, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561214006",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240 V, 14 kA ICC, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E561214007",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240V , 14 kA ICC, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E561214010",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 120/240V, 14 kA ICC, CAP.100 A."
+    },
+    {
+        "codigo_partida": "E561225002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561225003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561225004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561225005",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561225006",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E561225007",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 75 A."
+    },
+    {
+        "codigo_partida": "E561225010",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240/480 V, 25 kA ICC, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E561225012",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240 V, 25 kA ICC, CAP. 125 A."
+    },
+    {
+        "codigo_partida": "E561225015",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS240 V, 25 kA ICC, CAP. 150 A."
+    },
+    {
+        "codigo_partida": "E561225017",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240 V, 25 kA ICC, CAP. 175 A."
+    },
+    {
+        "codigo_partida": "E561225020",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240 V, 25 kA ICC, CAP. 200 A."
+    },
+    {
+        "codigo_partida": "E561225022",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 2 POLOS 240 V, 25 kA ICC, CAP. 225 A."
+    },
+    {
+        "codigo_partida": "E561310002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 120/240 V, 10 kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561310003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 120/240 V, 10 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561310004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 120/240 V, 10 kA ICC, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561310005",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 120/240 V, 10 kA ICC, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561310007",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 120/240 V, 10 kA ICC, CAP. 75 A."
+    },
+    {
+        "codigo_partida": "E561310010",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 120/240 V, 10 kA ICC, CAP.100 A."
+    },
+    {
+        "codigo_partida": "E561310020",
+        "unidad": "pza",
+        "descripcion": "I.E.INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS, 10kA ICC, 120/240 V, CAP.20 A."
+    },
+    {
+        "codigo_partida": "E561310030",
+        "unidad": "pza",
+        "descripcion": "I.E.INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS,10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561310040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS,10kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561310050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS,10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561310060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS,10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E561310070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS,10 kA ICC, 120/240 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E561310100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON ENCHUFE, 3 POLOS,10 kA ICC, 120/240 V, CAP 100 A."
+    },
+    {
+        "codigo_partida": "E561314002",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 480 V,14 kA ICC, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E561314003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 480 V14 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561314004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 480 V14 kA ICC, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561314005",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 480 V14 kA ICC, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561314007",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 480 V14 kA ICC, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E561314010",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 480 V14 kA ICC, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E561365002",
+        "unidad": "pza",
+        "descripcion": "I.E.BREAKER TERMOMAGNETICO, 3 POLOS 480/600 V, 65 kA ICC, CAP.20 A."
+    },
+    {
+        "codigo_partida": "E561365003",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 3 POLOS 480/600 V, 65 kA ICC, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E561365004",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 3 POLOS 480/600 V, 65 kA ICC, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E561365005",
+        "unidad": "pza",
+        "descripcion": "I.E.BREAKER TERMOMAGNETICO 3 POLOS 480/600 V, 65 kA ICC, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E561365006",
+        "unidad": "pza",
+        "descripcion": "I.E BREAKER TERMOMAGNETICO 3 POLOS 480/600 V, 65 kA ICC, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E561365007",
+        "unidad": "pza",
+        "descripcion": "I.E BREAKER TERMOMAGNETICO 3 POLOS 480/600 V, 65 kA ICC, CAP. 75 A."
+    },
+    {
+        "codigo_partida": "E561365010",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO 3 POLOS 480/600 V, 65 kA ICC, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E561365022",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 240/480 V, 65 kA ICC, CAP. 225 A."
+    },
+    {
+        "codigo_partida": "E561365025",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 240/48V, 65 kA ICC, CAP. 250 A."
+    },
+    {
+        "codigo_partida": "E561365035",
+        "unidad": "pza",
+        "descripcion": "I.E. BREAKER TERMOMAGNETICO, 3 POLOS 240/48V, 65 kA ICC, CAP. 350 A."
+    },
+    {
+        "codigo_partida": "E562110015",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 1 POLO, 10 kA ICC, 120/240 V, CAP.15 A."
+    },
+    {
+        "codigo_partida": "E562110020",
+        "unidad": "pza",
+        "descripcion": "I.E. NTERRUPTORTERMOMAGNETICO (BREAKER) CON GANCHOS, 1 POLO, 10 kA ICC, 120/240 V, CAP 20 A."
+    },
+    {
+        "codigo_partida": "E562110030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E562110040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 1 POLO, 10 kA ICC, 120/240 V, CAP.40 A."
+    },
+    {
+        "codigo_partida": "E562110050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E562110060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 60"
+    },
+    {
+        "codigo_partida": "E562210015",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 15 A."
+    },
+    {
+        "codigo_partida": "E562210020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E562210030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E562210040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP.40 A."
+    },
+    {
+        "codigo_partida": "E562210050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E562210060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E562210070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E562210100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 2 POLOS, 13 kA ICC, 120/240 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E562310020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E562310030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E562310040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E562310050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E562310060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E562310070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP.70 A."
+    },
+    {
+        "codigo_partida": "E562310100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON GANCHOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563110015",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 15 A."
+    },
+    {
+        "codigo_partida": "E563110020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563110030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563110040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563110050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563110060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563110070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563110100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 1 POLO, 10 kA ICC, 120/240 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563210015",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 15 A."
+    },
+    {
+        "codigo_partida": "E563210020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563210030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563210040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563210050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563210060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563210070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563210100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 10 kA ICC, 120/240 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563218020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC, 240/480 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563218030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC,240/480 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563218040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC, 240/480 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563218050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC, 240/480 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563218060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC, 240/480 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563218070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC, 240/480 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563218100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 18/14 kA ICC, 240/480 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563265020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563265030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563265040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563265050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563265060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563265070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563265100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563265125",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 125 A."
+    },
+    {
+        "codigo_partida": "E563265150",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 2 POLOS, 65/25 kA ICC, 240/480 V, CAP. 150 A."
+    },
+    {
+        "codigo_partida": "E563310020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563310030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563310040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563310050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563310060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563310070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563310100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 10 kA ICC, 120/240 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563318020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563318030",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480,CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563318040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563318050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563318060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563318070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563318100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 18/14 kA ICC, 240/480 V, CAP. 100 A."
+    },
+    {
+        "codigo_partida": "E563365020",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 20 A."
+    },
+    {
+        "codigo_partida": "E563365030",
+        "unidad": "pza",
+        "descripcion": "I.E.INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 30 A."
+    },
+    {
+        "codigo_partida": "E563365040",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 40 A."
+    },
+    {
+        "codigo_partida": "E563365050",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 50 A."
+    },
+    {
+        "codigo_partida": "E563365060",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 60 A."
+    },
+    {
+        "codigo_partida": "E563365070",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 70 A."
+    },
+    {
+        "codigo_partida": "E563365100",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP 100 A."
+    },
+    {
+        "codigo_partida": "E563365125",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 125 A."
+    },
+    {
+        "codigo_partida": "E563365150",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TORNILLOS, 3 POLOS, 65/25/18 kA ICC, 240/480/600 V, CAP. 150 A."
+    },
+    {
+        "codigo_partida": "E564342150",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 150 A."
+    },
+    {
+        "codigo_partida": "E564342175",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 175 A."
+    },
+    {
+        "codigo_partida": "E564342200",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC,240/480 V, CAP. 200 A."
+    },
+    {
+        "codigo_partida": "E564342225",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 KAICC, 240/480 V, CAP. 225 A."
+    },
+    {
+        "codigo_partida": "E564342250",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 250 A."
+    },
+    {
+        "codigo_partida": "E564342300",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 300 A."
+    },
+    {
+        "codigo_partida": "E564342350",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 350 A."
+    },
+    {
+        "codigo_partida": "E564342400",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 400 A."
+    },
+    {
+        "codigo_partida": "E564342500",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 500 A."
+    },
+    {
+        "codigo_partida": "E564342600",
+        "unidad": "pza",
+        "descripcion": "I.E. INTERRUPTOR TERMOMAGNETICO ( BREAKER ) CON TERMINALES FRONTALES, 3 POLOS, 42/30 kA ICC, 240/480 V, CAP. 600 A."
+    },
+    {
+        "codigo_partida": "E572111010",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 10 kVA."
+    },
+    {
+        "codigo_partida": "E572111015",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 15 kVA."
+    },
+    {
+        "codigo_partida": "E572111025",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 25 kVA."
+    },
+    {
+        "codigo_partida": "E572111037",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 37,5 kVA."
+    },
+    {
+        "codigo_partida": "E572111050",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 50 kVA."
+    },
+    {
+        "codigo_partida": "E572111075",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 75 kVA."
+    },
+    {
+        "codigo_partida": "E572111100",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 100 kVA."
+    },
+    {
+        "codigo_partida": "E572111167",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 167,5 kVA."
+    },
+    {
+        "codigo_partida": "E572111500",
+        "unidad": "pza",
+        "descripcion": "I.E. TRANSFORMADOR MONOFASICO REFRIGERADO EN ACEITE, 13,8 KV, 220/120 V, CAP. 500 kVA."
+    }
+]

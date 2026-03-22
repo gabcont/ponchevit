@@ -1,0 +1,3212 @@
+[
+    {
+        "codigo_partida": "E311110150",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN TIERRA A MANO PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS, HASTA PROFUNDIDADES COMPRENDIDAS ENTRE 0.00 Y 1.50 m."
+    },
+    {
+        "codigo_partida": "E311110300",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN TIERRA A MANO PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS, HASTA PROFUNDIDADES COMPRENDIDAS ENTRE 1.50 Y 3.00 m."
+    },
+    {
+        "codigo_partida": "E311110500",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN TIERRA A MANO PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS, HASTA PROFUNDIDADES MAYORES DE 3.00 m."
+    },
+    {
+        "codigo_partida": "E311220150",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN ROCA CON USO DE COMPRESOR PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E311310000",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN TIERRA CON USO DE EQUIPO DE RETROEXCAVADOR PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS (INCLUYE REPERFILAMIENTO A MANO)."
+    },
+    {
+        "codigo_partida": "E311400000",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION CON USO EXCLUSIVO DE EXPLOSIVOS PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E312100000",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN PRESTAMO PARA RELLENO DE ASIENTO DE FUNDACIONES, ZANJAS, U OTROS, CON EMPLEO DE TRACTORES."
+    },
+    {
+        "codigo_partida": "E312200000",
+        "unidad": "m³",
+        "descripcion": "EXCAVACION EN PRESTAMO PARA RELLENO DE ASIENTO DE FUNDACIONES, ZANJAS, U OTROS, CON USO EXCLUSIVO DE TRACTORES CON ESCARIFICADORES."
+    },
+    {
+        "codigo_partida": "E313110000",
+        "unidad": "m³",
+        "descripcion": "CARGA A MANO DE MATERIAL PROVENIENTE DE LAS EXCAVACIONES PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E313210000",
+        "unidad": "m³",
+        "descripcion": "CARGA CON EQUIPO LIVIANO DE MATERIAL PROVENIENTE DE LAS EXCAVACIONES PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E313310000",
+        "unidad": "m³",
+        "descripcion": "CARGA CON EQUIPO PESADO DE MATERIAL PROVENIENTE DE LAS EXCAVACIONES PARA ASIENTO DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E313320000",
+        "unidad": "m³",
+        "descripcion": "CARGA CON EQUIPO PESADO DE MATERIAL PROVENIENTE DE LAS EXCAVACIONES EN PRESTAMO, PARA RELLENO DE ASIENTO DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E315100000",
+        "unidad": "m²",
+        "descripcion": "ENTIBADO CON MADERA DE LAS PAREDES DE LA EXCAVACION PARA ESTRUCTURAS, PARA LA PREPARACION DEL SITIO, MEDIDO SEGUN EL AREA DE ENTIBADO EFECTIVAMENTE CONSTRUIDA, INCLUYENDO: SUMINISTRO, TRANSPORTE, COLOCACION Y DESARMADO DE LOS MATERIALES REQUERIDOS."
+    },
+    {
+        "codigo_partida": "E315200000",
+        "unidad": "m²",
+        "descripcion": "ENTIBADO METALICO DE LAS PAREDES DE LA EXCAVACION PARA ESTRUCTURAS, PARA LA PREPARACION DEL SITIO, MEDIDO SEGUN EL AREA DE ENTIBADO EFECTIVAMENTE CONSTRUIDA, INCLUYENDO: SUMINISTRO, TRANSPORTE, COLOCACION Y DESARMADO DE LOS MATERIALES REQUERIDOS."
+    },
+    {
+        "codigo_partida": "E316000000",
+        "unidad": "HP x h",
+        "descripcion": "ACHICAMIENTO DE LAS EXCAVACIONES PARA LA PREPARACION DEL SITIO, INCLUYENDO: SUMINISTRO, TRANSPORTE Y OPERACION DEL EQUIPO DE BOMBEO."
+    },
+    {
+        "codigo_partida": "E317000000",
+        "unidad": "m³",
+        "descripcion": "COMPACTACION DE RELLENOS CON APISONADORES DE PERCUSION CORRESPONDIENTES A LOS ASIENTOS DE FUNDACIONES, ZANJAS, U OTROS."
+    },
+    {
+        "codigo_partida": "E318000010",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 100 kgf/cm² A LOS 28 DIAS, CORRESPONDIENTE A OBRAS PREPARATIVAS. INCLUYE TRANSPORTE DEL CEMENTO Y LOS AGREGADOS HASTA UNA DISTANCIA DE 50 km."
+    },
+    {
+        "codigo_partida": "E319100000",
+        "unidad": "m³",
+        "descripcion": "CONSTRUCCION DE BASE DE PIEDRA PICADA CORRESPONDIENTE A OBRAS PREPARATIVAS. INCLUYE EL SUMINISTRO Y TRANSPORTE DEL MATERIAL HASTA UNA DISTANCIA DE 50 km."
+    },
+    {
+        "codigo_partida": "E319200000",
+        "unidad": "m³",
+        "descripcion": "CONSTRUCCION DE BASE DE GRANZON NATURAL CORRESPONDIENTE A OBRAS PREPARATIVAS. INCLUYE EL SUMINISTRO Y TRANSPORTE DEL MATERIAL HASTA UNA DISTANCIA DE 50 km."
+    },
+    {
+        "codigo_partida": "E321010830",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 8 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321010930",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 9 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011030",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 10 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011035",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 10 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011040",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 10 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011130",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 11 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011135",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 11 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011140",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 11 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011230",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 12 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011235",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 12 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011240",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 12 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011330",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 13 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011335",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 13 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011340",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 13 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011430",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 14 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011435",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 14 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011440",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 14 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011535",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 15 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321011540",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS, DE 15 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321020830",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 8 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321020835",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 8 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321020840",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 8 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321020930",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 9 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321020935",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 9 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321020940",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 9 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021030",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 10 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021035",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 10 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021040",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 10 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021130",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 11 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021135",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 11 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021140",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 11 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021230",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 12 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021235",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 12 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021240",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 12 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021330",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 13 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021335",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 13 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021340",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 13 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021430",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 14 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021435",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 14 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021440",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 14 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021530",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 15 m DE LONGITUD Y 30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021535",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 15 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021540",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 15 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021635",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 16 m DE LONGITUD Y 35 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321021640",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, OCTOGONALES, DE 16 m DE LONGITUD Y 40 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050633",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 6 m DE LONGITUD Y 33-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050635",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 6 m DE LONGITUD Y 35-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050637",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 6 m DE LONGITUD Y 37-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050639",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 6 m DE LONGITUD Y 39-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050734",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 7 m DE LONGITUD Y 34.5-24 cm. DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050736",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 7 m DE LONGITUD Y 36.5-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050738",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 7 m DE LONGITUD Y 38.5-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050740",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 7 m DE LONGITUD Y 40.5-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050836",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 8 m DE LONGITUD Y 36-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050838",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 8 m DE LONGITUD Y 38-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050840",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 8 m DE LONGITUD Y 40-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050842",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 8 m DE LONGITUD Y 42-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050937",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 9 m DE LONGITUD Y 37.5-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050939",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 9 m DE LONGITUD Y 39.5-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050941",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 9 m DE LONGITUD Y 41.5-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321050943",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 9 m DE LONGITUD Y 43.5-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051039",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 10 m DE LONGITUD Y 39-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051041",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 10 m DE LONGITUD Y 41-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051043",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 10 m DE LONGITUD Y 43-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051045",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 10 m DE LONGITUD Y 45-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051140",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 11 m DE LONGITUD Y 40.5-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051142",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 11 m DE LONGITUD Y 42.5-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051144",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 11 m DE LONGITUD Y 44.5-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051146",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 11 m DE LONGITUD Y 46.5-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051242",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 12 m DE LONGITUD Y 42-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051244",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 12 m DE LONGITUD Y 44-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051246",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 12 m DE LONGITUD Y 46-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051248",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 12 m DE LONGITUD Y 48-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051343",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 13 m DE LONGITUD Y 43.5-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051345",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 13 m DE LONGITUD Y 45.5-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051347",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 13 m DE LONGITUD Y 47.5-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051349",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 13 m DE LONGITUD Y 49.5-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051445",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 14 m DE LONGITUD Y 45-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051447",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 14 m DE LONGITUD Y 47-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051449",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 14 m DE LONGITUD Y 49-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321051451",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS, DE 14 m DE LONGITUD Y 51-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060635",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 6 m DE LONGITUD Y 35-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060637",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 6 m DE LONGITUD Y 37.5-28.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060641",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 6 m DE LONGITUD Y 41-31 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060642",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 6 m DE LONGITUD Y 42.5-33.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060735",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 7 m DE LONGITUD Y 35-24.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060737",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 7 m DE LONGITUD Y 37.5-27 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060740",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 7 m DE LONGITUD Y 40-29.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060742",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 7 m DE LONGITUD Y 42.5-32 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060837",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 8 m DE LONGITUD Y 37.5-25.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060840",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 8 m DE LONGITUD Y 40-28 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060842",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 8 m DE LONGITUD Y 42.5-30.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060845",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 8 m DE LONGITUD Y 45-33 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060848",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 8 m DE LONGITUD Y 48-36 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060937",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 9 m DE LONGITUD Y 37.5-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060940",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 9 m DE LONGITUD Y 40-26.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060942",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 9 m DE LONGITUD Y 42.5-29 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060945",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 9 m DE LONGITUD Y 45-31.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321060948",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 9 m DE LONGITUD Y 48-34.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061040",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 10 m DE LONGITUD Y 40-25 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061042",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 10 m DE LONGITUD Y 42.5-27.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061045",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 10 m DE LONGITUD Y 45-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061048",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 10 m DE LONGITUD Y 48-33 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061142",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 11 m DE LONGITUD Y 42.5-26 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061145",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 11 m DE LONGITUD Y 45-28.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061148",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 11 m DE LONGITUD Y 48-31.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061242",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 12 m DE LONGITUD Y 42.5-24.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061245",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 12 m DE LONGITUD Y 45-27 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061248",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 12 m DE LONGITUD Y 48-30 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061345",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 13 m DE LONGITUD Y 45-25.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061348",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 13 m DE LONGITUD Y 48-28.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061445",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 14 m DE LONGITUD Y 45-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061448",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 14 m DE LONGITUD Y 48-27 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061548",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 15 m DE LONGITUD Y 48-25.5 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321061648",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOPIRAMIDALES, DE 16 m DE LONGITUD Y 48-24 cm DE DIAMETRO."
+    },
+    {
+        "codigo_partida": "E321091000",
+        "unidad": "m",
+        "descripcion": "HINCA DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, CILINDRICOS Y OCTOGONALES VERTICALES."
+    },
+    {
+        "codigo_partida": "E321092000",
+        "unidad": "m",
+        "descripcion": "HINCA DE PILOTES PREFABRICADOS DE CONCRETO, ARMADO, CILINDRICOS Y OCTOGONALES INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321101000",
+        "unidad": "m",
+        "descripcion": "HINCA DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS Y TRONCOPIRAMIDALES VERTICALES."
+    },
+    {
+        "codigo_partida": "E321102000",
+        "unidad": "m",
+        "descripcion": "HINCA DE PILOTES PREFABRICADOS DE CONCRETO ARMADO, TRONCOCONICOS Y TRONCOPIRAMIDALES INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321141042",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 42 cm, HINCADOS Y VACIADOS EN SITIO,CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321141045",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 45 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 5 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321141052",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 52 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321141057",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 57 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321141060",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 60 cm,HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321141065",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 65 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321141070",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 70 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, VERTICALES.INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142042",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 42 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142045",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 45 cm HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142052",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 52 cm HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS.INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142057",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 57 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS.INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142060",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 60 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS.INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142065",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 65 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321142070",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES DE DIAMETRO DE 70 cm, HINCADOS Y VACIADOS EN SITIO, CON BASE ENSANCHADA Y TUBO MOLDE RECUPERABLE, INCLINADOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321151042",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 42 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321151045",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 45 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321151052",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 52 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321151057",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 57 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321151060",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 60 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321151065",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 65 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321151070",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 70 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, VERTICALES."
+    },
+    {
+        "codigo_partida": "E321152042",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 42 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321152045",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 45 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321152052",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 52 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321152057",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 57 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321152060",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 60 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321152065",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 65 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E321152070",
+        "unidad": "m",
+        "descripcion": "HINCA SIN VACIAR DEL TUBO MOLDE RECUPERABLE DE DIAMETRO DE 70 cm CORRESPONDIENTE A PILOTES HINCADOS, VACIADOS EN SITIO, CON BASE ENSANCHADA, INCLINADOS."
+    },
+    {
+        "codigo_partida": "E3211700050",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS (CON EXTRACCION DE TIERRA) DE DIAMETRO 50 cm, CON CAMISA RECUPERABLE DE PROTECCION. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321170055",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS (CON EXTRACCION DE TIERRA) DE DIAMETRO 55 cm, CON CAMISA RECUPERABLE DE PROTECCION. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321170060",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS (CON EXTRACCION DE TIERRA) DE DIAMETRO 60 cm, CON CAMISA RECUPERABLE DE PROTECCION. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321170065",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS (CON EXTRACCION DE TIERRA) DE DIAMETRO 65 cm, CON CAMISA RECUPERABLE DE PROTECCION. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321180050",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 50 cm, EXTRACCION DE TIERRA), CON CAMISA RECUPERABLE DE PROTECCION."
+    },
+    {
+        "codigo_partida": "E321180055",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 55 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), CON CAMISA RECUPERABLE DE PROTECCION."
+    },
+    {
+        "codigo_partida": "E321180060",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 60 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), CON CAMISA RECUPERABLE DE PROTECCION."
+    },
+    {
+        "codigo_partida": "E321180065",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 65 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), CON CAMISA RECUPERABLE DE PROTECCION."
+    },
+    {
+        "codigo_partida": "E321190050",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 50 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS.INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190060",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 60 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190070",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 70 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190080",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 80 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190090",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 90 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190100",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 100 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190110",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 110 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190120",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 120 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190130",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 130 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190140",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 140 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321190150",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 150 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200050",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 50 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200060",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 60 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200070",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 70 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200080",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 80 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200090",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 90 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200100",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 100 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200110",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 110 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200120",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 120 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200130",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 30 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200140",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 140 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321200150",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE PILOTES PERFORADOS DE DIAMETRO 150 cm (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321210050",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 50 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210060",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 60 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210070",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 70 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210080",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 80 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210090",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 90 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210100",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 100 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210110",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 110 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210120",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 120 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210130",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 130 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210140",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 140 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321210150",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DIAMETRO 150 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION Y SIN USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220050",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 50 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220060",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 60 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220070",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 70 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220080",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 80 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220090",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 90 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220100",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 100 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220110",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 110 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220120",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 120 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220130",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 130 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220140",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 140 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321220150",
+        "unidad": "m",
+        "descripcion": "PERFORACION SIN VACIAR, DE DIAMETRO 150 cm, CORRESPONDIENTE A PILOTES PERFORADOS (CON EXTRACCION DE TIERRA), SIN CAMISA DE PROTECCION, CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321300000",
+        "unidad": "m³",
+        "descripcion": "PERFORACION PARA PILAS DE GRAN CAPACIDAD DE CARGA, OBLONGAS O DE SECCION COMPUESTA Y MUROS COLADOS CON USO DE LODOS BENTONITICOS."
+    },
+    {
+        "codigo_partida": "E321310000",
+        "unidad": "m³",
+        "descripcion": "VACIADO DE PILAS DE GRAN CAPACIDAD DE CARGA, OBLONGAS O DE SECCION COMPUESTA Y MUROS COLADOS, CON USO DE LODOS BENTONITICOS, MEDIDO SEGUN VOLUMEN DE CONCRETO EFECTIVAMENTE VACIADO. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321320000",
+        "unidad": "m³",
+        "descripcion": "CONSTRUCCION DE MURITOS GUIA PARA EL USO DE EQUIPOS CON ALMEJA. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321330000",
+        "unidad": "h",
+        "descripcion": "UTILIZACION DE TREPANO EN LA PERFORACION DE ESTRATOS DE ROCA O TERRENOS SIMILARES. EQUIPOS CON ALMEJA."
+    },
+    {
+        "codigo_partida": "321380030",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, PREPARACION, COLOCACION, INYECCION Y TENSADO DE ANCLAJES DE 30 tf."
+    },
+    {
+        "codigo_partida": "E321380040",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, PREPARACION, COLOCACION, INYECCION Y TENSADO DE ANCLAJES DE 40 tf."
+    },
+    {
+        "codigo_partida": "E321380050",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, PREPARACION, COLOCACION, INYECCION Y TENSADO DE ANCLAJES DE 50 tf."
+    },
+    {
+        "codigo_partida": "E321380060",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, PREPARACION, COLOCACION, INYECCION Y TENSADO DE ANCLAJES DE 60 tf."
+    },
+    {
+        "codigo_partida": "E321380070",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, PREPARACION, COLOCACION, INYECCION Y TENSADO DE ANCLAJES DE 70 tf."
+    },
+    {
+        "codigo_partida": "E321390000",
+        "unidad": "m2",
+        "descripcion": "MONTAJE, DESMONTAJE Y UTILIZACION DE ANDAMIOS PARA LA CONSTRUCCION DE ANCLAJES, MEDIDO SEGUN LA CARA DEL TALUD."
+    },
+    {
+        "codigo_partida": "E321400000",
+        "unidad": "m3",
+        "descripcion": "CONSTRUCCION DE MUROS O PANTALLAS CON USO DE MORTERO PROYECTADO, MEDIDO SEGUN MATERIALES EN BOCA DE MEZCLADORA. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321410000",
+        "unidad": "m3",
+        "descripcion": "PEINADO A MANO DE TALUDES PARA LA CONSTRUCCION DE MUROS O PANTALLA DE MORTERO PROYECTADO."
+    },
+    {
+        "codigo_partida": "E321420000",
+        "unidad": "m2",
+        "descripcion": "MONTAJE, DESMONTAJE Y UTILIZACION DE ANDAMIOS PARA LA CONSTRUCCION DE MUROS O PANTALLA DE MORTERO PROYECTADO, MEDIDOS SEGUN LA CARA DEL TALUD."
+    },
+    {
+        "codigo_partida": "E321430000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO DE TABLESTACAS METALICAS."
+    },
+    {
+        "codigo_partida": "E321440008",
+        "unidad": "m2",
+        "descripcion": "HINCA DE TABLESTACAS METALICAS DE UNA LONGITUD HASTA DE 8 m, EN CORTINAS."
+    },
+    {
+        "codigo_partida": "E321440009",
+        "unidad": "m2",
+        "descripcion": "HINCA DE TABLESTACAS METALICAS DE UNA LONGITUD SUPERIOR A 8 m, EN CORTINAS."
+    },
+    {
+        "codigo_partida": "E321450000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO DE PERFILES METALICOS."
+    },
+    {
+        "codigo_partida": "E321460000",
+        "unidad": "m",
+        "descripcion": "HINCA DE PERFILES METALICOS TIPO."
+    },
+    {
+        "codigo_partida": "E321470932",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 12 3/4 plg (324 mm), ESPESOR 9.53 mm."
+    },
+    {
+        "codigo_partida": "E321470934",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 13 3/8 plg (340 mm), ESPESOR 9.53 mm."
+    },
+    {
+        "codigo_partida": "E321470941",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 16 plg (406 mm), ESPESOR 9.53 mm."
+    },
+    {
+        "codigo_partida": "E321470946",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 18 plg (457 mm), ESPESOR 9.53 mm."
+    },
+    {
+        "codigo_partida": "E321470951",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 20 plg (508 mm), ESPESOR 9.53 mm."
+    },
+    {
+        "codigo_partida": "E321470961",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 24 plg (609 mm), ESPESOR 9.53 mm."
+    },
+    {
+        "codigo_partida": "E321480032",
+        "unidad": "m",
+        "descripcion": "HINCA DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 12 3/4 plg (324 mm)."
+    },
+    {
+        "codigo_partida": "E321480034",
+        "unidad": "m",
+        "descripcion": "HINCA DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 13 3/8 plg (340 mm)."
+    },
+    {
+        "codigo_partida": "E321480041",
+        "unidad": "m",
+        "descripcion": "HINCA DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 16 plg (406 mm)."
+    },
+    {
+        "codigo_partida": "E321480046",
+        "unidad": "m",
+        "descripcion": "HINCA DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 18 plg (457 mm)."
+    },
+    {
+        "codigo_partida": "E321480051",
+        "unidad": "m",
+        "descripcion": "HINCA DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 20 plg (508 mm)."
+    },
+    {
+        "codigo_partida": "E321480061",
+        "unidad": "m",
+        "descripcion": "HINCA DE TUBOS METALICOS DE ACERO SIN COSTURA, DIAMETRO 24 plg (609 mm)."
+    },
+    {
+        "codigo_partida": "E321490000",
+        "unidad": "m³",
+        "descripcion": "RELLENO CON CONCRETO DE PILOTES CON UTILIZACION DE CAMISAS METALICAS, NO RECUPERABLES. INCLUYE TRANSPORTE DE CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO."
+    },
+    {
+        "codigo_partida": "E321631114",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA MUROS COLADOS Y PILAS OBLONGAS O DE SECCION COMPUESTA."
+    },
+    {
+        "codigo_partida": "E321631121",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm², UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA MUROS COLADOS Y PILAS OBLONGAS O DE SECCION COMPUESTA."
+    },
+    {
+        "codigo_partida": "E321631214",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLAS Nº 4 A Nº7, PARA MUROS COLADOS Y PILAS OBLONGAS O DE SECCION COMPUESTA."
+    },
+    {
+        "codigo_partida": "E321631221",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm², UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA MUROS COLADOS Y PILAS OBLONGAS O DE SECCION COMPUESTA."
+    },
+    {
+        "codigo_partida": "E321631314",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLAS MAYOR AL Nº 7, PARA MUROS COLADOS Y PILAS OBLONGAS O DE SECCION COMPUESTA."
+    },
+    {
+        "codigo_partida": "E321631321",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm², UTILIZANDO CABILLAS MAYOR AL Nº 7, PARA MUROS COLADOS Y PILAS OBLONGAS O DE SECCION COMPUESTA."
+    },
+    {
+        "codigo_partida": "E321632114",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA PILOTES."
+    },
+    {
+        "codigo_partida": "E321632121",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm2., UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA PILOTES."
+    },
+    {
+        "codigo_partida": "E321632214",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm2, UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA PILOTES."
+    },
+    {
+        "codigo_partida": "E321632221",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm2., UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA PILOTES."
+    },
+    {
+        "codigo_partida": "E321632314",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm2., UTILIZANDO CABILLAS MAYOR AL Nº 7, PARA PILOTES."
+    },
+    {
+        "codigo_partida": "E321632321",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm2., UTILIZANDO CABILLAS SUPERIOR AL Nº 7, PARA PILOTES."
+    },
+    {
+        "codigo_partida": "E321633025",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE MALLA SOLDADA, DE ACERO DE REFUERZO, PARA MUROS DE MORTERO PROYECTADO."
+    },
+    {
+        "codigo_partida": "E321633114",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm2, UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA MUROS DE MORTERO PROYECTADO"
+    },
+    {
+        "codigo_partida": "E321633121",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm2., UTILIZANDO CABILLAS DE DIAMETRO IGUAL O MENOR AL Nº 3, PARA MUROS DE MORTERO PROYECTADO."
+    },
+    {
+        "codigo_partida": "E321633214",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm2,UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA MUROS DE MORTERO PROYECTADO."
+    },
+    {
+        "codigo_partida": "E321633221",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm2., UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA MUROS DE MORTERO PROYECTADO."
+    },
+    {
+        "codigo_partida": "E321640000",
+        "unidad": "m2",
+        "descripcion": "PODA DE PILOTES DE CONCRETO, MEDIDO SEGUN EL AREA DE SU SECCION."
+    },
+    {
+        "codigo_partida": "E321650000",
+        "unidad": "m",
+        "descripcion": "CORTE DE TABLESTACAS, TUBOS METALICOS Y PERFILES METALICOS, MEDIDO SEGUN METROS LINEALES, DE CORTE EFECTUADO CON EQUIPO DE SOPLETE OXIGENO-ACETILENO."
+    },
+    {
+        "codigo_partida": "E322000115",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE CABEZALES DE PILOTES. INCLUYE EL TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E322000120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE CABEZALES DE PILOTES. INCLUYE EL TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E322000125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCIÓN DE CABEZALES DE PILOTES. INCLUYE EL TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E322000130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCIÓN DE CABEZALES DE PILOTES. INCLUYE EL TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E322000135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCIÓN DE CABEZALES DE PILOTES. INCLUYE EL TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E323000115",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASES Y ESCALONES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E323000120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASES Y ESCALONES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E323000125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASES Y ESCALONES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E323000130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASES Y ESCALONES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E323000135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASES Y ESCALONES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E324000115",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE PEDESTALES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E324000120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE PEDESTALES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E324000125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE PEDESTALES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E324000130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE PEDESTALES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E324000135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE PEDESTALES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E325000115",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE RIOSTRA, TIRANTES Y FUNDACIONES DE PARED.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E325000120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE RIOSTRA, TIRANTES Y FUNDACIONES DE PARED. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E325000125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE RIOSTRA, TIRANTES Y FUNDACIONES DE PARED. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E325000130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE RIOSTRA, TIRANTES Y FUNDACIONES DE PARED.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E325000135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE RIOSTRA, TIRANTES Y FUNDACIONES DE PARED. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E326000115",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE LOSA DE FUNDACION, TIPO MACIZA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E326000120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE LOSA DE FUNDACION, TIPO MACIZA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E326000125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE LOSA DE FUNDACION, TIPO MACIZA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E326000130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE LOSA DE FUNDACION, TIPO MACIZA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E326000135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE LOSA DE FUNDACION, TIPO MACIZA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E327000115",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE FUNDACION. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E327000120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE FUNDACION. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E327000125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE FUNDACION. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E327000130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE FUNDACION. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E327000135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE FUNDACION. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E328000115",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASE DE PAVIMENTO. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E328000120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASE DE PAVIMENTO. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E328000125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASE DE PAVIMENTO. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E328000130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASE DE PAVIMENTO. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E328000135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE BASE DE PAVIMENTO. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100140",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100220",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100225",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100230",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2. A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100235",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331100240",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS RECTANGULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200140",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200220",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200225",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200230",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200235",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331200240",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE COLUMNAS CIRCULARES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS DE FORMA POLIGONAL. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300140",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300220",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300225",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300230",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300235",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E331300240",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE COLUMNAS DE FORMA POLIGONAL, INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm². A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000140",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000220",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000225",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000230",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000235",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E332000240",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE VIGAS DE CARGA Y MACIZADOS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333120120",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=20 cm CON CONCRETO Fc 200 kgf/cm² A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333120125",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=20 cm CON CONCRETO Fc 250 kgf/cm² A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333120130",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=20 cm CON CONCRETO Fc 300 kgf/cm² A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333120135",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=20 cm CON CONCRETO Fc 350 kgf/cm² A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333120140",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=20 cm CON CONCRETO Fc 400 kgf/cm² A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333125120",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=25 cm CON CONCRETO Fc 200 kgf/cm² A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333125125",
+        "unidad": "m²",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=25 cm CON CONCRETO Fc 250 kgf/cm² A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 KM Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333125130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=25 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333125135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=25 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333125140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=25 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333130120",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=30 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333130125",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=30 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333130130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=30 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333130135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=30 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333130140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=30 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333135120",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=35 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333135125",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=35 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333135130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=35 m CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333135135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=35 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333135140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN UNA DIRECCION, e=35 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333220120",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=20 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333220125",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=20 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333220130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=20 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333220135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=20 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333220140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=20 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333225120",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=25 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333225125",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=25 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333225130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=25 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333225135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=25 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333225140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=25 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333230120",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=30 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333230125",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=30 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333230130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=30 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333230135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=30 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333230140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=30 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333235120",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=35 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333235125",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=35 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333235130",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=35 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333235135",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=35 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333235140",
+        "unidad": "m2",
+        "descripcion": "LOSA NERVADA EN DOS DIRECCIONES, e=35 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308120",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308125",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308130",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308135",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308140",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308220",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308225",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308230",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308235",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333308240",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=8 cm CON CONCRETO Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310120",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310125",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310130",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310135",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310140",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310220",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310225",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310230",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310235",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333310240",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=10 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312120",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312125",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312130",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312135",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312140",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312220",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312225",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312230",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312235",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333312240",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=12 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315120",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315125",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315130",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315135",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315140",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315220",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315225",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315230",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315235",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333315240",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=15 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320120",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320125",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320130",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320135",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320140",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320220",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320225",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320230",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320235",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333320240",
+        "unidad": "m2",
+        "descripcion": "LOSA MACIZA, e=20 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E3333425220",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=25 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333425225",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=25 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333425230",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=25 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333425235",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=25 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333425240",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=25 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333430220",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=30 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333430225",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=30 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333430230",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=30 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333430235",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=30 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333430240",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=30 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333435220",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=35 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333435225",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=35 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333435230",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=35 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333435235",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=35 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333435240",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=35 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333440220",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=40 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333440225",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=40 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333440230",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=40 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333440235",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=40 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333440240",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=40 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333445220",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=45 cm CON CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333445225",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=45 cm CON CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333445230",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR e=45 cm CON CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333445235",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=45 cm CON CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333445240",
+        "unidad": "m2",
+        "descripcion": "LOSA RETICULAR, e=45 cm CON CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333520220",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO HASTA 20 cm CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333520225",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO HASTA 20 cm CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333520230",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO HASTA 20 cm CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333520235",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO HASTA 20 cm CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333520240",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO HASTA 20 cm CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333525220",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 21 A 25 cm CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333525225",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 21 A 25 cm CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333525230",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 21 A 25 cm CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333525235",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 21 A 25 cm CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333525240",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 21 A 25 cm CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333530220",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 26 A 30 cm CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333530225",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 26 A 30 cm CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333530230",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 26 A 30 cm CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333530235",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 26 A 30 cm CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333530240",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO DE 26 A 30 cm CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333535220",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO SUPERIOR A 31 cm CONCRETO Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333535225",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO SUPERIOR A 31 cm CONCRETO Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333535230",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO SUPERIOR A 31 cm CONCRETO Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333535235",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO SUPERIOR A 31 cm CONCRETO Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333535240",
+        "unidad": "m2",
+        "descripcion": "LOSA HONGADA, ESPESOR PROMEDIO SUPERIOR A 31 cm CONCRETO Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E333666008",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 6 x 20 x 60 cm, PERFILES DOBLE TE DE 8 , MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333666010",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 6 x 20 x 60 cm, PERFILES DOBLE TE DE 10, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333666012",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 6 x 20 x 60 cm, PERFILES DOBLE TE DE 12, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333668010",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 6 x 20 x 80 cm, PERFILES DOBLE TE DE 10, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333668012",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 6 x 20 x 80 cm, PERFILES DOBLE TE DE 12, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333668014",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES,CONSTITUIDA POR: TABELONES DE 6 x 20 x 80 cm, PERFILES DOBLE TE DE 14, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333686010",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 8 x 20 x 60 cm, PERFILES DOBLE TE DE 10, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333686012",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 8 x 20 x 60 cm, PERFILES DOBLE TE DE 14, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333686014",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 8 x 20 x 60 cm, PERFILES DOBLE TE DE 14, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL (INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333688012",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 8 x 20 x 80 cm, PERFILES DOBLE TE DE 12, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL ( INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E333688014",
+        "unidad": "m2",
+        "descripcion": "LOSA DE TABELONES, CONSTITUIDA POR: TABELONES DE 8 x 20 x 80 cm, PERFILES DOBLE TE DE 14, MALLA SOLDADA Y RECUBRIMIENTO CON CONCRETO DE e=4 cm POR ENCIMA DEL PERFIL ( INCLUIDOS EN EL PRECIO TODOS LOS ELEMENTOS DESCRITOS )."
+    },
+    {
+        "codigo_partida": "E334000115",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2. A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000140",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000215",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000220",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000225",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000230",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000235",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E334000240",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MACHONES, VIGAS DE CORONA, DINTELES, ARRIOSTRAMIENTO DE PAREDES. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100125",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100130",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100135",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100140",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100220",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100225",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100230",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100235",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335100240",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO RECTA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200120",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200140",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200220",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200225",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200230",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200235",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E335200240",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ESCALERAS, INCLUYENDO DESCANSO, TIPO EN CURVAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336100220",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE GRADERIAS ELEVADAS (TRIBUNAS). INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336100225",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS ELEVADAS (TRIBUNAS). INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336100230",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS ELEVADAS (TRIBUNAS). INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336100235",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS ELEVADAS (TRIBUNAS). INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336100240",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS ELEVADAS (TRIBUNAS). INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336200215",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS SOBRE TIERRA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336200220",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS SOBRE TIERRA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336200225",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS SOBRE TIERRA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336200230",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS SOBRE TIERRA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336200235",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS SOBRE TIERRA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E336200240",
+        "unidad": "m³",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm² A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCIÓN DE GRADERIAS SOBRE TIERRA. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000115",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC ).INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000140",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000215",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 150 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000220",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000225",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000230",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000235",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E337000240",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES, ETC.) INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000120",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000125",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000130",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000135",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000140",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO CORRIENTE, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS.INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000220",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 200 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000225",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 250 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000230",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 300 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000235",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 350 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E339000240",
+        "unidad": "m3",
+        "descripcion": "CONCRETO DE Fc 400 kgf/cm2 A LOS 28 DIAS, ACABADO OBRA LIMPIA, PARA LA CONSTRUCCION DE MUROS Y PANTALLAS. INCLUYE TRANSPORTE DEL CEMENTO Y AGREGADOS HASTA 50 km Y EXCLUYE EL REFUERZO METALICO Y EL ENCOFRADO."
+    },
+    {
+        "codigo_partida": "E341010110",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN CABEZALES DE PILOTES, BASES Y ESCALONES, PEDESTALES, VIGAS DE RIOSTRA, TIRANTES, FUNDACIONES DE PARED, LOSAS DE FUNDACION, VIGAS DE FUNDACION Y BASES DE PAVIMENTO."
+    },
+    {
+        "codigo_partida": "E342010111",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN COLUMNAS."
+    },
+    {
+        "codigo_partida": "E342010112",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN VIGAS DE CARGA."
+    },
+    {
+        "codigo_partida": "E342010113",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN LOSAS, INCLUYENDO MACIZADOS."
+    },
+    {
+        "codigo_partida": "E342010114",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN MACHONES, VIGAS DE CORONA, DINTELES Y VIGAS DE RIOSTRA."
+    },
+    {
+        "codigo_partida": "E342010115",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN ESCALERAS."
+    },
+    {
+        "codigo_partida": "E342010116",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN GRADERIAS ELEVADAS (TRIBUNAS)."
+    },
+    {
+        "codigo_partida": "E342010117",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES Y OTROS )."
+    },
+    {
+        "codigo_partida": "E342010118",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN BROCALES Y GRADERIAS SOBRE TIERRA."
+    },
+    {
+        "codigo_partida": "E342010119",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO CORRIENTE, EN MUROS Y PANTALLAS."
+    },
+    {
+        "codigo_partida": "E342010121",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN COLUMNAS."
+    },
+    {
+        "codigo_partida": "E342010122",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN VIGAS DE CARGA."
+    },
+    {
+        "codigo_partida": "E342010123",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN LOSAS, INCLUYENDO MACIZADOS."
+    },
+    {
+        "codigo_partida": "E342010124",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN MACHONES, VIGAS DE CORONA, DINTELES Y VIGAS DE RIOSTRA."
+    },
+    {
+        "codigo_partida": "E342010125",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN ESCALERAS."
+    },
+    {
+        "codigo_partida": "E342010126",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN GRADERIAS ELEVADAS (TRIBUNAS)."
+    },
+    {
+        "codigo_partida": "E342010127",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES Y OTROS )."
+    },
+    {
+        "codigo_partida": "E342010128",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN BROCALES Y GRADERIAS SOBRE TIERRA."
+    },
+    {
+        "codigo_partida": "E342010129",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO RECTO, ACABADO OBRA LIMPIA, EN MUROS Y PANTALLAS."
+    },
+    {
+        "codigo_partida": "E342010211",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO CURVO, ACABADO CORRIENTE, EN COLUMNAS."
+    },
+    {
+        "codigo_partida": "E342010213",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO CURVO, ACABADO CORRIENTE, EN LOSAS."
+    },
+    {
+        "codigo_partida": "E342010221",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO CURVO, ACABADO OBRA LIMPIA, EN COLUMNAS."
+    },
+    {
+        "codigo_partida": "E342010223",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, TIPO CURVO, ACABADO OBRA LIMPIA, EN LOSAS."
+    },
+    {
+        "codigo_partida": "E342020127",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO METALICO, TIPO RECTO, ACABADO OBRA LIMPIA, EN ELEMENTOS ARQUITECTONICOS (BARANDAS, ANTEPECHOS, ATICOS, PANTALLAS, PESTAÑAS, PARASOLES Y OTROS )."
+    },
+    {
+        "codigo_partida": "E342020128",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO METALICO, TIPO RECTO, ACABADO OBRA LIMPIA, EN BROCALES."
+    },
+    {
+        "codigo_partida": "E342020129",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO METALICO, TIPO RECTO, ACABADO OBRA LIMPIA, EN MUROS Y PANTALLAS."
+    },
+    {
+        "codigo_partida": "E342030123",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y PLASTICO, TIPO RECTO, ACABADO OBRA LIMPIA, EN LOSAS RETICULARES, INCLUYENDO MACIZADOS."
+    },
+    {
+        "codigo_partida": "E342040111",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO RECTO, ACABADO CORRIENTE, EN COLUMNAS."
+    },
+    {
+        "codigo_partida": "E342040112",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO RECTO, ACABADO CORRIENTE, EN VIGAS DE CARGA."
+    },
+    {
+        "codigo_partida": "E342040113",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO RECTO, ACABADO CORRIENTE, EN LOSAS, INCLUYENDO MACIZADOS."
+    },
+    {
+        "codigo_partida": "E342040121",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO RECTO, ACABADO OBRA LIMPIA, EN COLUMNAS."
+    },
+    {
+        "codigo_partida": "E342040122",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO RECTO, ACABADO OBRA LIMPIA, EN VIGAS DE CARGA."
+    },
+    {
+        "codigo_partida": "E342040123",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO RECTO, ACABADO OBRA LIMPIA, EN LOSAS, INCLUYENDO MACIZADOS."
+    },
+    {
+        "codigo_partida": "E342040213",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO CURVO, ACABADO CORRIENTE, EN LOSAS."
+    },
+    {
+        "codigo_partida": "E342040223",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA Y HIERRO, TIPO CURVO, ACABADO OBRA LIMPIA, EN LOSAS."
+    },
+    {
+        "codigo_partida": "E342050123",
+        "unidad": "m2",
+        "descripcion": "ENCOFRADO DE MADERA, PLASTICO Y HIERRO, TIPO RECTO, ACABADO OBRA LIMPIA, EN LOSAS RETICULARES, INCLUYENDO MACIZADOS."
+    },
+    {
+        "codigo_partida": "E351110140",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLA IGUAL O MENOR DEL Nº 3 PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E351110210",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm², UTILIZANDO CABILLA DE IGUAL O MENOR DEL Nº 3, PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E351120140",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E351120210",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm², UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E351130140",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm², UTILIZANDO CABILLAS Nº 8 A Nº3, PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E351130210",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm², UTILIZANDO CABILLAS Nº 8 A Nº3, PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E351200250",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE MALLA SOLDADA DE ACERO, PARA INFRAESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E352110140",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm²,UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E352110210",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm²., UTILIZANDO CABILLAS IGUAL O MENOR AL Nº 3, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E352120140",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm².,UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E352120210",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm².,UTILIZANDO CABILLAS Nº 4 A Nº 7, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E352130140",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 2800 kgf/cm²., UTILIZANDO CABILLAS Nº 8 A Nº 11, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E352130210",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO Fy 4200 kgf/cm²., UTILIZANDO CABILLAS Nº 8 A Nº 11, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E52200250",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE MALLA SOLDADA DE ACERO, PARA SUPERESTRUCTURA."
+    },
+    {
+        "codigo_partida": "E362110000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION EN ESTRUCTURAS METALICAS DE COLUMNAS SIMPLES, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362120000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION EN ESTRUCTURAS METALICAS DE VIGAS SIMPLES, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362130000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION EN ESTRUCTURAS METALICAS DE CORREAS SIMPLES, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362210000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION EN ESTRUCTURAS METALICAS DE COLUMNAS ARMADAS, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362220000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION EN ESTRUCTURAS METALICAS DE VIGAS ARMADAS, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362240000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION EN ESTRUCTURAS METALICAS DE MIEMBROS ARMADOS PARA ESCALERAS Y GRADERIAS, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362310000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE CELOSIAS COMO COLUMNAS, INCLUYE SU TRANS-PORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362320000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE VIGAS DE CELOSIA (CERCHAS) DE SECCION CONSTANTE, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362330000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE CORREAS EN CELOSIAS. INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362340000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE CELOSIAS METALICAS EN ESCALERAS Y GRADERIAS. INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362420000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE VIGAS DE CELOSIA (CERCHAS) DE SECCION VARIABLE, INCLUYE SU TRANSPORTE HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362500000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS ESPACIALES DE ACERO. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E362501000",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS ESPACIALES DE ALUMINIO. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372110000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS SIMPLES DE MADERA, EN COLUMNAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372120000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS SIMPLES DE MADERA, EN VIGAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372130000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS SIMPLES DE MADERA, EN CORREAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372140000",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS DE CUBIERTA DE MADERA PARA SOPORTE DE REVESTIMIENTO EN TECHOS."
+    },
+    {
+        "codigo_partida": "E372210000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS COMPUESTAS DE MADERA, EN COLUMNAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372220000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS COMPUESTAS DE MADERA, EN VIGAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372240000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE ESTRUCTURAS COMPUESTAS DE MADERA, EN ESCALERAS Y GRADERIAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E372320000",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, CONFECCION Y COLOCACION DE CERCHAS DE MADERA, EN VIGAS. INCLUYE TRANSPORTE DE LOS ELEMENTOS HASTA 50 km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E391152026",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE ACERO GALVANIZADO PARA CUBIERTAS DE TECHO, PERFIL NERVADO CON TRES CORRUGACIONES MENORES INTERNERVIO, ACABADO LISO SIN PINTAR, CALIBRE 26."
+    },
+    {
+        "codigo_partida": "E391233005",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE ALUMINIO PARA CUBIERTAS DE TECHO, PERFIL NERVADO SIN CORRUGACIONES MENORES INTERNERVIO, ACABADO REPUJADO TIPO STUCCO, ESPESOR=0.5 mm."
+    },
+    {
+        "codigo_partida": "E391243006",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE ALUMINIO PARA CUBIERTAS DE TECHO, PERFIL NERVADO CON DOS CORRUGACIONES MENORES INTERNERVIO, ACABADO REPUJADO TIPO STUCCO, ESPESOR = 8 mm"
+    },
+    {
+        "codigo_partida": "E391253005",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE ALUMINIO PARA CUBIERTAS DE TECHO, PERFIL NERVADO CON TRES CORRUGACIONES MENORES INTERNERVIO, ACABADO REPUJADO TIPO STUCCO, ESPESOR = 0.5 mm."
+    },
+    {
+        "codigo_partida": "E391534020",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE ACERO, ASFALTO Y ALUMINIO PARA CUBIERTAS DE TECHO, PERFIL NERVADO SIN CORRUGACIONES MENORES INTERNERVIO, ACABADO RELIEVE GOFRADO, ESPESOR = 2 mm."
+    },
+    {
+        "codigo_partida": "E391564020",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE ACERO, ASFALTO Y ALUMINIO PARA CUBIERTAS DE TECHO, PERFIL ONDULADO, ACABADO RELIEVE GOFRADO, ESPESOR = 2 mm."
+    },
+    {
+        "codigo_partida": "E391731010",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE FIBRA DE VIDRIO TRANSLUCIDAS PARA CUBIERTAS DE TECHO, PERFIL NERVADO SIN CORRUGACIONES MENORES INTERNERVIO, ACABADO LISO, DE COLOR, ESPESOR = 1 mm."
+    },
+    {
+        "codigo_partida": "E391741006",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE FIBRA DE VIDRIO TRANSLUCIDAS PARA CUBIERTAS DE TECHO, PERFIL NERVADO CON DOS CORRUGACIONES MENORES INTERNERVIO ACABADO LISO, DE COLOR, ESPESOR = 0.6 mm."
+    },
+    {
+        "codigo_partida": "E391761010",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE FIBRA DE VIDRIO TRANSLUCIDAS PARA CUBIERTAS DE TECHO, PERFIL ONDULADO, ACABADO LISO, DE COLOR, ESPESOR = 1 mm."
+    },
+    {
+        "codigo_partida": "E391822080",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE FIBRA CEMENTO PARA CUBIERTAS DE TECHO, PERFIL ACANALADO, ACABADO LISO, SIN PINTAR, ESPESOR = 8 mm."
+    },
+    {
+        "codigo_partida": "E391862065",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE LAMINAS DE FIBRA CEMENTO PARA CUBIERTAS DE TECHO, PERFIL ONDULADO, ACABADO LISO, SIN PINTAR, ESPESOR= 6.5 mm."
+    },
+    {
+        "codigo_partida": "E392313350",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PANEL DE ALUMINIO CON POLIURETANO PARA CUBIERTAS DE TECHO, PERFIL PLANO, ACABADO REPUJADO TIPO STUCCO, ESPESOR= 35 mm."
+    },
+    {
+        "codigo_partida": "E392333350",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PANEL DE ALUMINIO CON POLIURETANO PARA CUBIERTAS DE TECHO, PERFIL NERVADO, SIN CORRUGACIONES MENORES INTERNERVIO, ACABADO REPUJADO TIPO STUCCO, ESPESOR = 35 mm."
+    },
+    {
+        "codigo_partida": "E392353350",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PANELES DE ALUMINIO CON POLIURETANO PARA CUBIERTAS DE TECHO, PERFIL NERVADO CON TRES CORRUGACIONES MENORES INTERNERVIO, ACABADO REPUJADO TIPO STUCCO, ESPESOR= 35 mm."
+    },
+    {
+        "codigo_partida": "E392412350",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PANELES DE ACERO GALVANIZADO CON POLIURETANO PARA CUBIERTAS DE TECHO, PERFIL PLANO, ACABADO LISO SIN PINTAR, ESPESOR= 35 mm."
+    },
+    {
+        "codigo_partida": "E392432350",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PANELES DE ACERO GALVANIZADO CON POLIURETANO PARA CUBIERTAS DE TECHO, PERFIL NERVADO SIN CORRUGACIONES MENORES INTERNERVIO, ACABADO LISO SIN PINTAR, ESPESOR= 35 mm."
+    },
+    {
+        "codigo_partida": "E392452350",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PANELES DE ACERO GALVANIZADO CON POLIURETANO PARA CUBIERTAS DE TECHO, PERFIL NERVADO CON TRES CORRUGACIONES MENORES INTERNERVIO, ACABADO LISO SIN PINTAR, ESPESOR= 35 mm."
+    }
+]

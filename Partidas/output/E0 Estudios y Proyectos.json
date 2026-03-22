@@ -1,0 +1,587 @@
+[
+    {
+        "codigo_partida": "E011000101",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E011000102",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E011000103",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E011000104",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA EDIFICACIONES MEDICO ASISTENCIAL."
+    },
+    {
+        "codigo_partida": "E011000105",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E011000106",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E011000110",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E011010500",
+        "unidad": "m2",
+        "descripcion": "ESTUDIOS PRELIMINARES PARA IMPLANTACION DE PROYECTOS."
+    },
+    {
+        "codigo_partida": "E012110101",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO EN AREAS MENORES DE 1 ha, INCLUYE LEVANTAMIENTO PLANO-ALTIMETRICO, CATASTRAL Y PERIMETRAL."
+    },
+    {
+        "codigo_partida": "E012110103",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO EN AREAS COMPRENDIDAS ENTRE 1 Y 3 ha, INCLUYE LEVANTAMIENTO PLANO - ALTIMETRICO, CATASTRAL Y PERIMETRAL."
+    },
+    {
+        "codigo_partida": "E012120121",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO ONDULADO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120122",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO ONDULADO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120123",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO ONDULADO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120131",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120132",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120133",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120141",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120142",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120143",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120221",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO-ONDULADO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120222",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO-ONDULADO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120223",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO - ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO-ONDULADO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120231",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO-ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120232",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO-ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120233",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO-ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120241",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO-ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120242",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO-ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120243",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PLANO-ALTIMETRICO Y CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120311",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120312",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120313",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120331",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120332",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120333",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120341",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120342",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120343",
+        "unidad": "ha",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO CATASTRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120411",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120412",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120413",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, PLANO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120431",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120432",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120433",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, ONDULADO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E012120441",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION POCO DENSA."
+    },
+    {
+        "codigo_partida": "E012120442",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION DENSA."
+    },
+    {
+        "codigo_partida": "E012120443",
+        "unidad": "km",
+        "descripcion": "LEVANTAMIENTO TOPOGRAFICO PERIMETRAL EN TERRENOS CON AREAS MAYORES DE 3 ha, MONTAÑOSO Y VEGETACION MUY DENSA."
+    },
+    {
+        "codigo_partida": "E014000101",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E014000102",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E014000103",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E014000104",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA EDIFICACIONES MEDICO - ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E014000105",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E014000106",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E014000110",
+        "unidad": "m2",
+        "descripcion": "ANTEPROYECTO PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015000500",
+        "unidad": "m2",
+        "descripcion": "MODIFICACIONES EN UN PROYECTO TIPO, PARA SU IMPLANTACION."
+    },
+    {
+        "codigo_partida": "E015010101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015010102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015010103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015010104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA EDIFICACIONES MEDICO - ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015010105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015010106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015010110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE ARQUITECTURA PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015021101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA VIVIENDAS."
+    },
+    {
+        "codigo_partida": "E015021102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015021103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015021104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA EDIFICACIONES MEDICO - ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015021105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015021106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015021110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE CONCRETO VACIADOS EN SITIO, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015022101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015022102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015022103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015022104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA EDIFICACIONES MEDICO-ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015022105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015022106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015022110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS PREFABRICADOS DE CONCRETO, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015023101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015023102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015023103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015023104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA EDIFICACIONES MEDICO-ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015023105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015023106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015023110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS METALICOS, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015024101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015024102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015024103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015024104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA EDIFICACIONES MEDICO-ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015024105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015024106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015024110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO ESTRUCTURAL CON MIEMBROS DE MADERA, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015030101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015030102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015030103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015030104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS, PARA EDIFICACIONES MEDICO-ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015030105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS,PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015030106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015030110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES SANITARIAS, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015040101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015040102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015040103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015040104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA EDIFICACIONES MEDICO-ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015040105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015040106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015040110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES ELECTRICAS, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015050101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015050102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015050103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015050104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA EDIFICACIONES MEDICO-ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015050105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015050106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015050110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE INSTALACIONES MECANICAS, PARA EDIFICACIONES RELIGIOSAS."
+    },
+    {
+        "codigo_partida": "E015061101",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA VIVIENDA."
+    },
+    {
+        "codigo_partida": "E015061102",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA INSTITUTOS EDUCACIONALES."
+    },
+    {
+        "codigo_partida": "E015061103",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA EDIFICACIONES COMERCIALES."
+    },
+    {
+        "codigo_partida": "E015061104",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA EDIFICACIONES MEDICO - ASISTENCIALES."
+    },
+    {
+        "codigo_partida": "E015061105",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA EDIFICACIONES JUDICIALES."
+    },
+    {
+        "codigo_partida": "E015061106",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA HOTELES."
+    },
+    {
+        "codigo_partida": "E015061110",
+        "unidad": "m2",
+        "descripcion": "PROYECTO DE PAISAJISMO, PARA EDIFICACIONES RELIGIOSAS."
+    }
+]

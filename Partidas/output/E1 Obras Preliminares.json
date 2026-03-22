@@ -1,0 +1,392 @@
+[
+    {
+        "codigo_partida": "E111110000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE OFICINAS, CON FRISO Y CIELO RASO. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111120000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE OFICINAS, SIN FRISO NI CIELO RASO. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111200000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE DEPOSITOS. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111300000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE VESTUARIOS Y CASETAS. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111400000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE SANITARIOS. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111510000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE AREAS CUBIERTAS, SIN CERRAMIENTOS LATERALES, SIN PISO.INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111520000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE AREAS CUBIERTAS, SIN CERRAMIENTOS LATERALES, SIN PISO. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111710000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE DORMITORIOS, CON FRISO Y CIELO RASO. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E111720000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION PROVISIONAL CONVENCIONAL DE DORMITORIOS, SIN FRISO NI CIELO RASO. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E112100000",
+        "unidad": "m2",
+        "descripcion": "INSTALACIONES PROVISIONALES PREFABRICADAS DE OFICINAS.INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E112200000",
+        "unidad": "m2",
+        "descripcion": "INSTALACIONES PROVISIONALES PREFABRICADAS DE DEPOSITOS. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E112300000",
+        "unidad": "m2",
+        "descripcion": "INSTALACIONES PROVISIONALES PREFABRICADAS DE VESTUARIOS Y CASETAS. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E112400000",
+        "unidad": "m2",
+        "descripcion": "INSTALACIONES PROVISIONALES PREFABRICADAS DE SANITARIOS. INCLUYE LA ACOMETIDA PROVISIONAL DENTRO DEL AREA DE LA CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E113111500",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE 5 HILOS DE ALAMBRE DE PUAS Y ESTANTES DE MADERA."
+    },
+    {
+        "codigo_partida": "E113111700",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE 7 HILOS DE ALAMBRE DE PUAS Y ESTANTES DE MADERA."
+    },
+    {
+        "codigo_partida": "E113112700",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE 7 HILOS DE ALAMBRE DE PUAS Y ESTANTES METALICOS."
+    },
+    {
+        "codigo_partida": "E113114000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES PREFABRICADAS DE CONCRETO."
+    },
+    {
+        "codigo_partida": "E113115109",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE MALLA CICLON, CALIBRE Nº 9, CON 3 HILOS DE ALAMBRE DE PUAS Y CORONAMIENTO INCLINADO DE h = 1.80 m (SIN BROCAL)."
+    },
+    {
+        "codigo_partida": "E113115110",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE MALLA CICLON, CALIBRE Nº 10, CON 3 HILOS DE ALAMBRE DE PUAS Y CORONAMIENTO INCLINADO DE h = 1.80 m (SIN BROCAL)."
+    },
+    {
+        "codigo_partida": "E113115111",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE MALLA CICLON, CALIBRE Nº 11, CON 3 HILOS DE ALAMBRE DE PUAS Y CORONAMIENTO INCLINADO DE h = 1.80 m (SIN BROCAL)."
+    },
+    {
+        "codigo_partida": "E113116015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE BLOQUES DE CONCRETO DE ESPESOR 15 cm. INCLUYE MACHONES, VIGAS DE CORONA, VIGAS DE FUNDACION, REFUERZO METALICO, ENCOFRADO Y TRANSPORTE DE LOS MATERIALES HASTA 50 Km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E113116020",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE CERCAS PROVISIONALES DE BLOQUES DE CONCRETO DE ESPESOR 20 cm. INCLUYE MACHONES, VIGAS DE CORONA, VIGAS DE FUNDACION, REFUERZO METALICO, ENCOFRADO Y TRANSPORTE DE LOS MATERIALES HASTA 50 Km DE DISTANCIA."
+    },
+    {
+        "codigo_partida": "E113121000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PORTONES DE MATERIAL NUEVO, MARCO Y REFUERZO DE MADERA Y ALAMBRE DE PUAS."
+    },
+    {
+        "codigo_partida": "E113122000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PORTONES CON MARCO, REFUERZO DE MADERA Y LAMINAS METALICAS."
+    },
+    {
+        "codigo_partida": "E113123000",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PORTONES CON MARCO, REFUERZO METALICO Y LAMINAS METALICAS."
+    },
+    {
+        "codigo_partida": "E113124009",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PORTONES DE MALLA CICLON, CALIBRE Nº 9."
+    },
+    {
+        "codigo_partida": "E113124010",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PORTONES DE MALLA CICLON, CALIBRE Nº 10."
+    },
+    {
+        "codigo_partida": "E113124011",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PORTONES DE MALLA CICLON, CALIBRE Nº 11."
+    },
+    {
+        "codigo_partida": "E121100000",
+        "unidad": "ha",
+        "descripcion": "DEFORESTACION PESADA Y LIMPIEZA PARA TERRACEO (CUBIERTA VEGETAL MUY DENSA, CON UNA ALTURA PREDOMINANTE MINIMA DE 20 m), MAYOR DE UNA HECTAREA. INCLUYE DESRAIZAMIENTO Y ELIMINACION DE TRINCHERAS."
+    },
+    {
+        "codigo_partida": "E121200000",
+        "unidad": "ha",
+        "descripcion": "DEFORESTACION MEDIANA Y LIMPIEZA PARA TERRACEO (BOSQUE MEDIANAMENTE DENSO, CON UNA ALTURA PREDOMINANTE COMPRENDIDA ENTRE 8 m Y 20 m), MAYOR DE UNA HECTAREA. INCLUYE DESRAIZAMIENTO Y ELIMINACION DE TRINCHERAS."
+    },
+    {
+        "codigo_partida": "E121300000",
+        "unidad": "ha",
+        "descripcion": "DEFORESTACION LIVIANA Y LIMPIEZA PARA TERRACEO (RASTROJOS, VEGETACION BAJA EN GENERAL, CON ALTURA INFERIOR A 8 m), EN AREAS MAYORES DE 5 HECTAREAS. INCLUYE DESRAIZAMIENTO Y ELIMINACION DE TRINCHERAS."
+    },
+    {
+        "codigo_partida": "E121400000",
+        "unidad": "ha",
+        "descripcion": "DEFORESTACION LIVIANA Y LIMPIEZA PARA TERRACEO (RASTROJOS, VEGETACION BAJA EN GENERAL, CON ALTURA INFERIOR A 8 m), EN AREAS COMPRENDIDAS ENTRE 1 Y 5 HECTAREAS. INCLUYE DESRAIZAMIENTO Y ELIMINACION DE TRINCHERAS."
+    },
+    {
+        "codigo_partida": "E121500000",
+        "unidad": "m2",
+        "descripcion": "DEFORESTACION LIVIANA Y LIMPIEZA PARA TERRACEO (RASTROJOS, VEGETACION BAJA EN GENERAL, CON ALTURA INFERIOR A 8 m), EN AREAS MENORES DE 1 HECTAREA. INCLUYE DESRAIZAMIENTO Y ELIMINACION DE TRINCHERAS."
+    },
+    {
+        "codigo_partida": "E122100000",
+        "unidad": "m2",
+        "descripcion": "TALA DE VEGETACION HERBACEA, CON USO DE DESBROZADORA Y/O CORTADORA."
+    },
+    {
+        "codigo_partida": "E122200000",
+        "unidad": "m2",
+        "descripcion": "TALA DE VEGETACION HERBACEA A MANO (MACHETEO), CON ALTURA MAYOR DE 1.50 m."
+    },
+    {
+        "codigo_partida": "E122300000",
+        "unidad": "m2",
+        "descripcion": "TALA DE VEGETACION HERBACEA A MANO (MACHETEO), CON ALTURA MENOR O IGUAL A 1.50 m."
+    },
+    {
+        "codigo_partida": "E123100000",
+        "unidad": "Pza",
+        "descripcion": "TALA Y DESRAIZAMIENTO DE ARBOLES CON ALTURA SUPERIOR A 12 m, EN CANTIDADES MENORES DE 5 PIEZAS POR HECTAREA."
+    },
+    {
+        "codigo_partida": "E123200000",
+        "unidad": "Pza",
+        "descripcion": "TALA Y DESRAIZAMIENTO DE ARBOLES CON ALTURA ENTRE 5 m Y 12 m, EN CANTIDADES MENORES DE 5 PIEZAS POR HECTAREA."
+    },
+    {
+        "codigo_partida": "E123300000",
+        "unidad": "Pza",
+        "descripcion": "TALA Y DESRAIZAMIENTO DE ARBOLES CON ALTURA INFERIOR A 5 m, EN CANTIDADES MENORES DE 10 PIEZAS POR HECTAREA."
+    },
+    {
+        "codigo_partida": "E131110000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE CASAS, SIN RECUPERACION DE MATERIALES, MEDIDA SEGUN EL AREA DE CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E131120000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE CASAS, CON RECUPERACION DE MATERIALES, INCLUYENDO ALMACENAMIENTO DE LOS MISMOS, MEDIDA SEGUN EL AREA DE CONSTRUCCION."
+    },
+    {
+        "codigo_partida": "E131210000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE EDIFICIOS, SIN RECUPERACION DE MATERIALES, MEDIDO SEGUN EL AREA DE PISO."
+    },
+    {
+        "codigo_partida": "E131220000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE EDIFICIOS, CON RECUPERACION DE MATERIALES Y ALMACENAMIENTO DE ESTOS, MEDIDO SEGUN EL AREA DE PISO."
+    },
+    {
+        "codigo_partida": "E131300000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE RANCHOS, SIN RECUPERACION DE MATERIALES, MEDIDO SEGUN EL AREA CUBIERTA."
+    },
+    {
+        "codigo_partida": "E132100000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE MIEMBROS DE CONCRETO ARMADO CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E132200000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE MIEMBROS DE CONCRETO SIN ARMAR CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E132300000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE ELEMENTOS DE MAMPOSTERIA CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E132400015",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE PAREDES DE LADRILLO MACIZO, ESPESOR HASTA 15 cm."
+    },
+    {
+        "codigo_partida": "E132400030",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE PAREDES DE LADRILLO MACIZO, ESPESOR MAYOR DE 15 cm."
+    },
+    {
+        "codigo_partida": "E132500000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE PAREDES DE BLOQUES."
+    },
+    {
+        "codigo_partida": "E132610000",
+        "unidad": "m2",
+        "descripcion": "DEMOLICION DE ALCANTARILLAS METALICAS (MEDIDAS POR EL AREA DE SU DESARROLLO)."
+    },
+    {
+        "codigo_partida": "E132620012",
+        "unidad": "m",
+        "descripcion": "DEMOLICION DE TUBERIAS DE CONCRETO DE DIAMETROS MENORES A 12 plg (30 cm)."
+    },
+    {
+        "codigo_partida": "E132620024",
+        "unidad": "m",
+        "descripcion": "DEMOLICION DE TUBERIAS DE CONCRETO DE DIAMETROS ENTRE 12 Y 24 plg (30 A 60 cm)."
+    },
+    {
+        "codigo_partida": "E132620050",
+        "unidad": "m",
+        "descripcion": "DEMOLICION DE TUBERIAS DE CONCRETO DE DIAMETROS MAYORES A 24 plg (60 cm)."
+    },
+    {
+        "codigo_partida": "E132711000",
+        "unidad": "m",
+        "descripcion": "DEMOLICION A MANO DE CERCAS DE ALAMBRE DE PUAS."
+    },
+    {
+        "codigo_partida": "E132712000",
+        "unidad": "m",
+        "descripcion": "DEMOLICION A MAQUINA DE CERCAS DE ALAMBRE DE PUAS."
+    },
+    {
+        "codigo_partida": "E132721000",
+        "unidad": "m",
+        "descripcion": "DEMOLICION A MANO DE CERCAS DE MALLA CICLON."
+    },
+    {
+        "codigo_partida": "E132722000",
+        "unidad": "m",
+        "descripcion": "DEMOLICION A MAQUINA DE CERCAS DE MALLA CICLON."
+    },
+    {
+        "codigo_partida": "E133110000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE PAVIMENTO DE CONCRETO CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E133120000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE PAVIMENTO DE CONCRETO CON EQUIPO PESADO."
+    },
+    {
+        "codigo_partida": "E133210000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE ACERAS Y CUNETAS DE CONCRETO CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E133220000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE ACERAS Y CUNETAS DE CONCRETO CON EQUIPO PESADO."
+    },
+    {
+        "codigo_partida": "E133310000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE BROCALES DE CONCRETO CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E133320000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE BROCALES DE CONCRETO CON EQUIPO PESADO."
+    },
+    {
+        "codigo_partida": "E133410000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE PAVIMENTO DE ASFALTO CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E133420000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE PAVIMENTO DE ASFALTO CON EQUIPO PESADO."
+    },
+    {
+        "codigo_partida": "E133510000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE PAVIMENTOS COMBINADOS DE CONCRETO Y ASFALTO CON EQUIPO LIVIANO (COMPRESOR)."
+    },
+    {
+        "codigo_partida": "E133520000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE PAVIMENTOS COMBINADOS DE CONCRETO Y ASFALTO CON EQUIPO PESADO."
+    },
+    {
+        "codigo_partida": "E133600000",
+        "unidad": "m3",
+        "descripcion": "DEMOLICION DE BASES Y SUB-BASES DE PAVIMENTOS."
+    },
+    {
+        "codigo_partida": "E134010000",
+        "unidad": "m3",
+        "descripcion": "CARGA A MANO DEL MATERIAL PROVENIENTE DE LAS DEMOLICIONES O PREPARACION DEL SITIO."
+    },
+    {
+        "codigo_partida": "E134020000",
+        "unidad": "m3",
+        "descripcion": "CARGA CON EQUIPO LIVIANO DEL MATERIAL PROVENIENTE DE LAS DEMOLICIONES O PREPARACION DEL SITIO."
+    },
+    {
+        "codigo_partida": "E134030000",
+        "unidad": "m3",
+        "descripcion": "CARGA CON EQUIPO PESADO DEL MATERIAL PROVENIENTE DE LAS DEMOLICIONES O PREPARACION DEL SITIO."
+    },
+    {
+        "codigo_partida": "E141100000",
+        "unidad": "kgf",
+        "descripcion": "DESARMADO, REMOCION, LIMPIEZA, CLASIFICACION, ACARREO INTERNO Y ALMACENAMIENTO EN SITIO, DE ESTRUCTURAS METALICAS."
+    },
+    {
+        "codigo_partida": "E141300000",
+        "unidad": "m2",
+        "descripcion": "REMOCION DE ALCANTARILLAS METALICAS, INCLUYENDO LAS OPERACIONES NECESARIAS PARA DESARMAR Y EXTRAER DE SU SITIO LOS DIFERENTES ELEMENTOS MEDIDOS POR EL AREA DE SU DESARROLLO."
+    },
+    {
+        "codigo_partida": "E141410000",
+        "unidad": "m",
+        "descripcion": "REMOCION DE CERCAS DE ALAMBRE DE PUAS CON RECUPERACION DE MATERIALES Y ALMACENAMIENTO."
+    },
+    {
+        "codigo_partida": "E141420000",
+        "unidad": "m",
+        "descripcion": "REMOCION DE CERCAS DE MALLA CICLON CON RECUPERACION DE MATERIALES Y ALMACENAMIENTO."
+    },
+    {
+        "codigo_partida": "E142001000",
+        "unidad": "tf",
+        "descripcion": "CARGA A MANO DE ESTRUCTURAS METALICAS PROVENIENTES DE LA PREPARACION DEL SITIO, PARA SU TRANSPORTE FUERA DEL SITIO DE LA OBRA (MEDIDA SOBRE CAMIONES)."
+    },
+    {
+        "codigo_partida": "E142002000",
+        "unidad": "tf",
+        "descripcion": "CARGA A MAQUINA DE ESTRUCTURAS METALICAS PROVENIENTES DE LA PREPARACION DEL SITIO, PARA SU TRANSPORTE FUERA DEL SITIO DE LA OBRA (MEDIDA SOBRE CAMIONES)."
+    }
+]
