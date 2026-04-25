@@ -20,7 +20,7 @@ DIR_REPORTES = "./"     # Salida del Linter (CSV)
 for d in [DIR_PDFS, DIR_PARTIDAS, DIR_EXTRACCION, DIR_REPORTES]:
     os.makedirs(d, exist_ok=True)
 
-api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyB847wR8tkxcpekj7OTzr6Zs89zX5ffqqo")
+api_key = os.environ.get("GEMINI_API_KEY", "")
 if not api_key:
     print("Advertencia: No se encontró la variable de entorno GEMINI_API_KEY.")
 

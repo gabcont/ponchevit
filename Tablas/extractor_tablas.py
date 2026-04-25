@@ -7,7 +7,7 @@ from pydantic import BaseModel, Field
 # ==========================================
 # CONFIGURACIÓN
 # ==========================================
-api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyB847wR8tkxcpekj7OTzr6Zs89zX5ffqqo")
+api_key = os.environ.get("GEMINI_API_KEY", "")
 if not api_key:
     print("Advertencia: No se encontró la variable de entorno GEMINI_API_KEY.")
 
