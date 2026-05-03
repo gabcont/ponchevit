@@ -1,0 +1,1 @@
+[ ] Carpeta 10 necesita adición de una columna de contenido "0" en todos los casos en el septimo digito.

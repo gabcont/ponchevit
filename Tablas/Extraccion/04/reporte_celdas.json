@@ -1,0 +1,214 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 454,
+        "y_fin": 609,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 609,
+        "y_fin": 1915,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 454,
+        "y_fin": 609,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 609,
+        "y_fin": 1914,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 454,
+        "y_fin": 609,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 609,
+        "y_fin": 1913,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 454,
+        "y_fin": 609,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 609,
+        "y_fin": 1913,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 453,
+        "y_fin": 608,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 608,
+        "y_fin": 1911,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 501,
+        "y_fin": 607,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 607,
+        "y_fin": 1909,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 500,
+        "y_fin": 605,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 605,
+        "y_fin": 1906,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 446,
+        "y_fin": 603,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 603,
+        "y_fin": 1904,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 444,
+        "y_fin": 602,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 602,
+        "y_fin": 1903,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 417,
+        "y_fin": 564,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1823,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 417,
+        "y_fin": 564,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1823,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 564,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1353,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1822,
+        "imagen": "columna_02/fila_02.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 564,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1353,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1822,
+        "imagen": "columna_03/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 564,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1353,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1821,
+        "imagen": "columna_04/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 563,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 563,
+        "y_fin": 1353,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1821,
+        "imagen": "columna_05/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 462,
+        "y_fin": 562,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 562,
+        "y_fin": 1352,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1352,
+        "y_fin": 1819,
+        "imagen": "columna_06/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 461,
+        "y_fin": 561,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 561,
+        "y_fin": 1350,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1350,
+        "y_fin": 1817,
+        "imagen": "columna_07/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 412,
+        "y_fin": 560,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 560,
+        "y_fin": 1348,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1348,
+        "y_fin": 1815,
+        "imagen": "columna_08/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "columna": 9,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 410,
+        "y_fin": 559,
+        "imagen": "columna_09_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ]
+      },
+      {
+        "celda": 1,
+        "y_inicio": 559,
+        "y_fin": 1347,
+        "imagen": "columna_09/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ]
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1347,
+        "y_fin": 1814,
+        "imagen": "columna_09/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ]
+      }
+    ]
+  }
+]
