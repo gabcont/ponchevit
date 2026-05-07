@@ -1,0 +1,795 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 333,
+        "y_fin": 472,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 2135,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 334,
+        "y_fin": 472,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "SUB-CAPITULO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 2134,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Albañilería",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 4,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 334,
+        "y_fin": 473,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACTIVIDAD"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 473,
+        "y_fin": 1874,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Revestimiento de pisos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Revestimiento de escalones",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Construcción de pendientes en losas horizontales",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Raseo en losas inclinadas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1874,
+        "y_fin": 2047,
+        "imagen": "columna_02/fila_02.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "8",
+              "descripcion": "Pulitura de pisos y escalones",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 3,
+        "y_inicio": 2047,
+        "y_fin": 2134,
+        "imagen": "columna_02/fila_03.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "9",
+              "descripcion": "Cielo raso (plafón)",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 4,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 335,
+        "y_fin": 474,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "UN"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 474,
+        "y_fin": 1874,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m2",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": "m2"
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1874,
+        "y_fin": 2047,
+        "imagen": "columna_03/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m2",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": "m2"
+            }
+          ]
+        }
+      },
+      {
+        "celda": 3,
+        "y_inicio": 2047,
+        "y_fin": 2134,
+        "imagen": "columna_03/fila_03.png",
+        "adyacentes_izquierda": [
+          3
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m2",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": "m2"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 4,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 335,
+        "y_fin": 474,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "MATERIALES"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 474,
+        "y_fin": 1874,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "01",
+              "descripcion": "Mortero de cemento",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "02",
+              "descripcion": "Mortero de cemento con endurecedor",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "03",
+              "descripcion": "Mortero de granito con cemento gris",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "04",
+              "descripcion": "Mortero de granito con cemento blanco",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "05",
+              "descripcion": "Mortero de granito sembrado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "06",
+              "descripcion": "Mortero de granito lavado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "07",
+              "descripcion": "Baldosas de vinyl",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "08",
+              "descripcion": "Mosaicos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "09",
+              "descripcion": "Baldosas de cerámica nacional",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "10",
+              "descripcion": "Baldosas de cerámica importada",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "11",
+              "descripcion": "Baldosas de granito",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "12",
+              "descripcion": "Baldosas de mármol nacional",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "13",
+              "descripcion": "Baldosas de mármol importado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "14",
+              "descripcion": "Lajas de piedra",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "15",
+              "descripcion": "Cantos rodados",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "17",
+              "descripcion": "Baldosas de arcilla",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1874,
+        "y_fin": 2047,
+        "imagen": "columna_04/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "30",
+              "descripcion": "Plomo",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "31",
+              "descripcion": "Cera",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "32",
+              "descripcion": "Plastificado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 3,
+        "y_inicio": 2047,
+        "y_fin": 2133,
+        "imagen": "columna_04/fila_03.png",
+        "adyacentes_izquierda": [
+          3
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "000000",
+              "descripcion": "Sin Especificar",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 4,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 335,
+        "y_fin": 474,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACABADO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 474,
+        "y_fin": 1873,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Liso",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Rústico",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Púlido",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Natural",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1873,
+        "y_fin": 2047,
+        "imagen": "columna_05/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Pulido",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 3,
+        "y_inicio": 2047,
+        "y_fin": 2133,
+        "imagen": "columna_05/fila_03.png",
+        "adyacentes_izquierda": [
+          3
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 4,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 334,
+        "y_fin": 473,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "JUNTAS-FLEJES"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 473,
+        "y_fin": 1872,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Sin juntas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Juntas abiertas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Flejes de Cobre",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Flejes de plástico",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1872,
+        "y_fin": 2046,
+        "imagen": "columna_06/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "0",
+              "descripcion": "Sin Especificar",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 3,
+        "y_inicio": 2046,
+        "y_fin": 2132,
+        "imagen": "columna_06/fila_03.png",
+        "adyacentes_izquierda": [
+          3
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 4,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 333,
+        "y_fin": 472,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ESPESOR"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 1872,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "16",
+              "descripcion": "e=16 mm",
+              "med_min": 16.0,
+              "med_max": 16.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "24",
+              "descripcion": "e=24 mm",
+              "med_min": 24.0,
+              "med_max": 24.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "32",
+              "descripcion": "e=32 mm",
+              "med_min": 32.0,
+              "med_max": 32.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "50",
+              "descripcion": "e=50 mm",
+              "med_min": 50.0,
+              "med_max": 50.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "60",
+              "descripcion": "e=60 mm",
+              "med_min": 60.0,
+              "med_max": 60.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "70",
+              "descripcion": "e=70 mm",
+              "med_min": 70.0,
+              "med_max": 70.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "80",
+              "descripcion": "e=80 mm",
+              "med_min": 80.0,
+              "med_max": 80.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "90",
+              "descripcion": "e=90 mm",
+              "med_min": 90.0,
+              "med_max": 90.0,
+              "un_medida": "mm"
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1872,
+        "y_fin": 2044,
+        "imagen": "columna_07/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "00",
+              "descripcion": "Sin Especificar",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 3,
+        "y_inicio": 2044,
+        "y_fin": 2131,
+        "imagen": "columna_07/fila_03.png",
+        "adyacentes_izquierda": [
+          3
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 333,
+        "y_fin": 472,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": true,
+          "nombre_columna": null
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 2130,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1,
+          2,
+          3
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  }
+]

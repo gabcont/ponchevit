@@ -1,0 +1,620 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 318,
+        "y_fin": 468,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 468,
+        "y_fin": 2148,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 318,
+        "y_fin": 468,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "SUB-CAPITULO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 468,
+        "y_fin": 2147,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Cerraduras",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 319,
+        "y_fin": 468,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "CLASE"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 468,
+        "y_fin": 2147,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Pomo",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Manilla",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Embutidas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Sobrepuestas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Antipánico",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 319,
+        "y_fin": 468,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "UN."
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 468,
+        "y_fin": 2147,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "pza",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 318,
+        "y_fin": 468,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACABADO EXTERIOR"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 468,
+        "y_fin": 2146,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Acero galvanizado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Acero anonizado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Cromado brillante",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Cromado mate",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Acero pintado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Acero niquelado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Madera",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "8",
+              "descripcion": "Bronce",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 467,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "TIPO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 467,
+        "y_fin": 2145,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Sin cilindro",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Cilindro fijo",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Cilindro móvil",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 467,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "MECANISMO DE CERROJO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 467,
+        "y_fin": 2144,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Sin cilindro",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Cilindro simple",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Cilindro gancho",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Cilindro para puerta s/maría",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Cilindro antipánico vertical",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Cilindro antipánico horizontal",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 467,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "CIERRE PESTILLO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 467,
+        "y_fin": 2143,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Sin pestillo",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Pestillo simple",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Pestillo de seguridad",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Pestillo para puerta s/maría",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Pestillo antipánico vertical",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Pestillo antipánico horizontal",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 467,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "FUNCIONAMIENTO EXTERIOR-INTERIOR"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 467,
+        "y_fin": 2144,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Libre",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Libre-botón",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Llave-libre",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Llave-botón",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Llave-llave",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Fija-libre",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Ciego-libre",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 9,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 468,
+        "imagen": "columna_09_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "DIMENSION"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 468,
+        "y_fin": 2143,
+        "imagen": "columna_09/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "0",
+              "descripcion": "Sin Especificar",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "1",
+              "descripcion": "16 mm",
+              "med_min": 16.0,
+              "med_max": 16.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "25 mm",
+              "med_min": 25.0,
+              "med_max": 25.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "30-35 mm",
+              "med_min": 30.0,
+              "med_max": 35.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "45 mm",
+              "med_min": 45.0,
+              "med_max": 45.0,
+              "un_medida": "mm"
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "60 mm",
+              "med_min": 60.0,
+              "med_max": 60.0,
+              "un_medida": "mm"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

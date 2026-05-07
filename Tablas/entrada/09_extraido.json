@@ -1,0 +1,659 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 315,
+        "y_fin": 470,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 470,
+        "y_fin": 2046,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 315,
+        "y_fin": 470,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "SUB-CAPITULO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 470,
+        "y_fin": 2046,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Carpintería",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 316,
+        "y_fin": 471,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACTIVIDAD"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 471,
+        "y_fin": 2047,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Suministro",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Transporte",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Colocación",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Suministro y transporte",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Suministro y colocación",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Transporte y colocación",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Suministro, transporte y comunicación",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 316,
+        "y_fin": 472,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ELEMENTO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 1506,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "01",
+              "descripcion": "Puertas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "02",
+              "descripcion": "Ventanas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "03",
+              "descripcion": "Tabiques",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1506,
+        "y_fin": 2047,
+        "imagen": "columna_03/fila_02.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 472,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "UN."
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 1507,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m2",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": "m2"
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1507,
+        "y_fin": 2048,
+        "imagen": "columna_04/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "01",
+              "descripcion": "Bloques huecos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "02",
+              "descripcion": "Bloques macizos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "03",
+              "descripcion": "Ladrillos huecos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "04",
+              "descripcion": "Ladrillos macizos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "05",
+              "descripcion": "Piedra natural",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "06",
+              "descripcion": "Bloques de hormigón celular",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "07",
+              "descripcion": "Paneles de yeso",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "08",
+              "descripcion": "Otros",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 472,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "MECANISMO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 1507,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Batientes",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Vaivén",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Correderas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Basculantes",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Arrollables",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Plegables",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Fijos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1507,
+        "y_fin": 2048,
+        "imagen": "columna_05/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 472,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "COMPOSICION"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 1507,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Maciza",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Entamborada con contraenchapada",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Entamborada con contraenchapada y formica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Entamboradas machihembrada una cara",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Entamboradas machihembrada dos caras",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1507,
+        "y_fin": 2048,
+        "imagen": "columna_06/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 473,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "TIPO DE MADERA"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 473,
+        "y_fin": 1507,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Blanda",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Semidura",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Dura",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Muy dura",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1507,
+        "y_fin": 2048,
+        "imagen": "columna_07/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 317,
+        "y_fin": 472,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "PAÑO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 472,
+        "y_fin": 1508,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Paño fijo",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Paño romanilla",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Paño basculante",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Paño de reja",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Paño fijo y paño de romanilla",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Paño fijo y paño de reja",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1508,
+        "y_fin": 2049,
+        "imagen": "columna_08/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  }
+]

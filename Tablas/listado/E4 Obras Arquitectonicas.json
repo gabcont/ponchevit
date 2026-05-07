@@ -1,0 +1,1797 @@
+[
+    {
+        "codigo_partida": "E411011010",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES HUECOS DE ARCILLA, ACABADO CORRIENTE, e =10 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411011012",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES HUECOS DE ARCILLA, ACABADO CORRIENTE, e =12 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411011015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES HUECOS DE ARCILLA, ACABADO CORRIENTE, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411011020",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES HUECOS DE ARCILLA, ACABADO CORRIENTE, e =20 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411011025",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES HUECOS DE ARCILLA, ACABADO CORRIENTE, e =25 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411021012",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE LADRILLOS MACIZOS, ACABADO CORRIENTE, e =12 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS LADRILLOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411021025",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE LADRILLOS MACIZOS, ACABADO CORRIENTE, e =25 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS LADRILLOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411022012",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE LADRILLOS MACIZOS, ACABADO OBRA LIMPIA POR UNA CARA, e =12 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS LADRILLOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411022025",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE LADRILLOS MACIZOS, ACABADO OBRA LIMPIA POR UNA CARA, e =25 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS LADRILLOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411023012",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE LADRILLOS MACIZOS, ACABADO OBRA LIMPIA POR DOS CARAS, e =12 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS LADRILLOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411023025",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE LADRILLOS MACIZOS, ACABADO OBRA LIMPIA POR DOS CARAS, e =25 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS LADRILLOS HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411041010",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO CORRIENTE, e =10 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411041015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO CORRIENTE, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411041020",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO CORRIENTE, e =20 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411042010",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO OBRA LIMPIA POR UNA CARA, e =10 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411042015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO OBRA LIMPIA POR UNA CARA, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411042020",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO OBRA LIMPIA POR UNA CARA, e =20 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411043010",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO OBRA LIMPIA POR DOS CARAS, e =10 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411043015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO OBRA LIMPIA POR DOS CARAS, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411043020",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUES DE CONCRETO, ACABADO OBRA LIMPIA POR DOS CARAS, e =20 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411053015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUE ORNAMENTAL DE ARCILLA, ACABADO OBRA LIMPIA POR DOS CARAS, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411063215",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUE ORNAMENTAL DE CONCRETO DE DOS HUECOS, ACABADO OBRA LIMPIA POR LAS DOS CARAS, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411063415",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUE ORNAMENTAL DE CONCRETO DE CUATRO HUECOS, ACABADO OBRA LIMPIA POR LAS DOS CARAS, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411063615",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUE ORNAMENTAL DE CONCRETO DE SEIS HUECOS, ACABADO OBRA LIMPIA POR LAS DOS CARAS, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411063815",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUE ORNAMENTAL DE CONCRETO DE OCHO HUECOS, ACABADO OBRA LIMPIA POR LAS DOS CARAS, e =15 cm NO INCLUYE MACHONES, DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E411073015",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PAREDES DE BLOQUE ORNAMENTAL DE CONCRETO TIPO PERSIANA, ACABADO OBRA LIMPIA POR DOS CARAS, e =15 cm NO INCLUYE MACHONES DINTELES Y BROCALES. INCLUYE TRANSPORTE DE LOS BLOQUES HASTA 50 km."
+    },
+    {
+        "codigo_partida": "E412102001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO A BASE DE CAL, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412102003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO A BASE DE CAL, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412102004",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO A BASE DE CAL, ACABADO SALPICADO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412102008",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO A BASE DE CAL, ACABADO RAYADO ( A ESPONJA ). INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412103001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO HIDROFUGO, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412103003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO HIDROFUGO, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412104003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON MORTERO DE YESO, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412105117",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON PORCELANA BLANCA, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412106117",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON PORCELANA DE COLOR, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412107007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON PORCELANA DECORADA, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412110007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON BALDOSAS DE CERAMICA NACIONAL, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412111007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON BALDOSAS DE CERAMICA IMPORTADA, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412113007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON BALDOSAS DE MARMOL NACIONAL, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412114007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON BALDOSAS DE MARMOL IMPORTADO,ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412115001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON PIEDRA DE LAJAS, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412116001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON CANTOS RODADOS, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412117007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN PAREDES CON BALDOSAS DE ARCILLA (TABLITAS), ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412119007",
+        "unidad": "m",
+        "descripcion": "RODAPIE DE VINYL."
+    },
+    {
+        "codigo_partida": "E412120009",
+        "unidad": "m",
+        "descripcion": "RODAPIE DE GRANITO EN BASE A CEMENTO GRIS."
+    },
+    {
+        "codigo_partida": "E412121009",
+        "unidad": "m",
+        "descripcion": "RODAPIE DE GRANITO EN BASE A CEMENTO BLANCO."
+    },
+    {
+        "codigo_partida": "E412202001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON MORTERO, A BASE DE CAL, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412202003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON MORTERO, A BASE DE CAL, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412202004",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON MORTERO, A BASE DE CAL, ACABADO SALPICADO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412202008",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON MORTERO, A BASE DE CAL, ACABADO RAYADO ( A ESPONJA ). INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412203001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON MORTERO, HIDROFUGO, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412205117",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON PORCELANA BLANCA, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412206117",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON PORCELANA DE COLOR, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412207007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON PORCELANA DECORADA, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412210007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON BALDOSAS DE CERAMICA NACIONAL, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412211007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON BALDOSAS DE CERAMICA IMPORTADA, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412213007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON BALDOSAS DE MARMOL NACIONAL, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412214007",
+        "unidad": "m",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON BALDOSAS DE MARMOL IMPORTADO, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412215001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON PIEDRA DE LAJAS, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E412216007",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN PAREDES CON CANTOS RODADOS, ACABADO NATURAL. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413102001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN TECHOS CON MORTERO A BASE DE CAL, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413102003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN TECHOS CON MORTERO A BASE DE CAL, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413102004",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN TECHOS CON MORTERO A BASE DE CAL, ACABADO SALPICADO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413103001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN TECHOS CON MORTERO HIDROFUGO, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413103003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN TECHOS CON MORTERO DE HIDROFUGO, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413104003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO INTERIOR EN TECHOS CON MORTERO DE YESO, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413202001",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN TECHOS CON MORTERO A BASE DE CAL, ACABADO RUSTICO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413202003",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN TECHOS CON MORTERO A BASE DE CAL, ACABADO LISO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413202004",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO EXTERIOR EN TECHOS CON MORTERO A BASE DE CAL, ACABADO SALPICADO. INCLUYE FRISO BASE."
+    },
+    {
+        "codigo_partida": "E413218007",
+        "unidad": "m2",
+        "descripcion": "RECUBRIMIENTO EXTERIOR EN TECHOS CON TEJAS CRIOLLAS. INCLUYENDO MORTERO DE CEMENTO."
+    },
+    {
+        "codigo_partida": "E414011150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE CEMENTO, ACABADO LISO SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414011450",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE CEMENTO, ACABADO LISO CON JUNTAS DE FLEJE DE PLASTICO. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414012150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE CEMENTO, ACABADO RUSTICO, SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414021150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE CEMENTO, CON ENDURECEDOR, ACABADO LISO SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414021450",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE CEMENTO, CON ENDURECEDOR, ACABADO LISO CON JUNTAS DE FLEJE PLASTICO. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414022150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE CEMENTO, CON ENDURECEDOR, ACABADO RUSTICO SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414031350",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE GRANITO CON CEMENTO GRIS, ACABADO LISO CON JUNTAS DE FLEJES DE COBRE e =3 mm. INCLUYE MORTERO BASE Y PASADA DE PIEDRAS PARA EL ACABADO FINAL."
+    },
+    {
+        "codigo_partida": "E414031450",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE GRANITO CON CEMENTO GRIS, ACABADO LISO CON JUNTAS DE FLEJES DE PLASTICO e =5 mm. INCLUYE MORTERO BASE Y PASADA DE PIEDRAS PARA EL ACABADO FINAL."
+    },
+    {
+        "codigo_partida": "E414041350",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE GRANITO CON CEMENTO BLANCO, ACABADO LISO CON JUNTAS DE FLEJES DE COBRE e = 3 mm. INCLUYE MORTERO BASE Y PASADA DE PIEDRAS PARA EL ACABADO FINAL."
+    },
+    {
+        "codigo_partida": "E414041450",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON MORTERO DE GRANITO CON CEMENTO BLANCO, ACABADO LISO CON JUNTAS DE FLEJES DE PLASTICO e = 5 mm. INCLUYE MORTERO BASE Y PASADA DE PIEDRAS PARA EL ACABADO FINAL."
+    },
+    {
+        "codigo_partida": "E414051450",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON GRANITO SEMBRADO, ACABADO LISO CON JUNTAS DE FLEJE PLASTICO e = 5 mm. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414064350",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON GRANITO LAVADO, ACABADO NATURAL, CON JUNTAS DE FLEJE DE COBRE e = 3 mm."
+    },
+    {
+        "codigo_partida": "E414064450",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON GRANITO LAVADO, ACABADO NATURAL, CON JUNTAS DE FLEJE DE PLASTICO e = 5 mm. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414074016",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE VINYL e =1.6 mm, ACABADO NATURAL. NO INCLUYE MORTERO O PISO DE BASE."
+    },
+    {
+        "codigo_partida": "E414074024",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE VINYL e =2.4 mm., ACABADO NATURAL. NO INCLUYE MORTERO O PISO DE BASE."
+    },
+    {
+        "codigo_partida": "E414074032",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE VINYL e =3.2 mm, ACABADO NATURAL. NO INCLUYE MORTERO O PISO DE BASE."
+    },
+    {
+        "codigo_partida": "E414094050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE CERAMICA NACIONAL, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414104050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE CERAMICA IMPORTADA, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414114050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE GRANITO ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414124050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE MARMOL NACIONAL, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414134050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE MARMOL IMPORTADO, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414144050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON PIEDRAS DE LAJAS, ACABADO RUSTICO. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414154050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON CANTOS RODADOS, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E414164050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE PISOS CON BALDOSAS DE ARCILLA, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415011150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON MORTERO DE CEMENTO, ACABADO LISO, SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415012150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON MORTERO DE CEMENTO, ACABADO RUSTICO, SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415021150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON MORTERO DE CEMENTO CON ENDURECEDOR, ACABADO LISO, SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415033150",
+        "unidad": "m2",
+        "descripcion": "REVESTIMIENTO DE ESCALONES CON MORTERO DE GRANITO CON CEMENTO GRIS, ACABADO PULIDO. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415043150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON MORTERO DE GRANITO CON CEMENTO BLANCO, SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415053150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON GRANITO SEMBRADO, ACABADO PULIDO, SIN JUNTAS. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415064150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON GRANITO LAVADO, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415074016",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE VINYL, e =1.6 mm, ACABADO NATURAL. NO INCLUYE PISO BASE."
+    },
+    {
+        "codigo_partida": "E415074024",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE VINYL, e =2.4 mm, ACABADO NATURAL. NO INCLUYE PISO BASE."
+    },
+    {
+        "codigo_partida": "E415074032",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE VINYL, e =3.2 mm, ACABADO NATURAL. NO INCLUYE PISO BASE."
+    },
+    {
+        "codigo_partida": "E415094050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE CERAMICA NACIONAL, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415104050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE CERAMICA IMPORTADA, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415124050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE MARMOL NACIONAL, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415134050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE MARMOL IMPORTADO, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415144050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON PIEDRAS DE LAJAS, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415154050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON CANTOS RODADOS, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E415164050",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE REVESTIMIENTO DE ESCALONES CON BALDOSAS DE ARCILLA, ACABADO NATURAL. INCLUYE MORTERO BASE."
+    },
+    {
+        "codigo_partida": "E416012150",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PENDIENTES EN LOSAS HORIZONTALES CON MORTERO DE CEMENTO-ARENA, e = 5 cm PROMEDIO."
+    },
+    {
+        "codigo_partida": "E416012160",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PENDIENTES EN LOSAS HORIZONTALES CON MORTERO DE CEMENTO-ARENA, e = 6 cm PROMEDIO."
+    },
+    {
+        "codigo_partida": "E416012170",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PENDIENTES EN LOSAS HORIZONTALES CON MORTERO DE CEMENTO-ARENA, e = 7 cm PROMEDIO."
+    },
+    {
+        "codigo_partida": "E416012180",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PENDIENTES EN LOSAS HORIZONTALES CON MORTERO DE CEMENTO-ARENA, e = 8 cm PROMEDIO."
+    },
+    {
+        "codigo_partida": "E416012190",
+        "unidad": "m2",
+        "descripcion": "CONSTRUCCION DE PENDIENTES EN LOSAS HORIZONTALES CON MORTERO DE CEMENTO-ARENA, e = 9 cm PROMEDIO."
+    },
+    {
+        "codigo_partida": "E421103301",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 3 mm REFORZADA CON VELO DE POLIESTER."
+    },
+    {
+        "codigo_partida": "E421103401",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 4 mm REFORZADA CON VELO DE POLIESTER."
+    },
+    {
+        "codigo_partida": "E421104201",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 2 mm REFORZADA CON VELO DE FIBRA DE VIDRIO."
+    },
+    {
+        "codigo_partida": "E421104301",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 3 mm REFORZADA CON VELO DE FIBRA DE VIDRIO."
+    },
+    {
+        "codigo_partida": "E421104401",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 4 mm REFORZADA CON VELO DE FIBRA DE VIDRIO."
+    },
+    {
+        "codigo_partida": "E421111001",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON DOS CAPAS DE ASFALTO SOPLADO Y REFUERZO DE UN VELO DE FIBRA DE VIDRIO ASFALTADO, APLICADA EN CALIENTE."
+    },
+    {
+        "codigo_partida": "E421111002",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON TRES CAPAS DE ASFALTO SOPLADO Y REFUERZO DE DOS VELOS DE FIBRA DE VIDRIO ASFALTADOS, APLICADA EN CALIENTE."
+    },
+    {
+        "codigo_partida": "E421111003",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON CUATRO CAPAS DE ASFALTO SOPLADO Y REFUERZO DE TRES VELOS DE FIBRA DE VIDRIO ASFALTADOS, APLICADA EN CALIENTE."
+    },
+    {
+        "codigo_partida": "E421121002",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON TRES CAPAS DE ASFALTO EMULSIONADO CON AGUA Y REFUERZO DE DOS VELOS DE FIBRA DE VIDRIO, APLICADA EN FRIO."
+    },
+    {
+        "codigo_partida": "E421121003",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS HORIZONTALES CON CUATRO CAPAS DE ASFALTO EMULSIONADO CON AGUA Y REFUERZO DE TRES VELOS DE FIBRA DE VIDRIO, APLICADA EN FRIO."
+    },
+    {
+        "codigo_partida": "E421203301",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON UNA MEMBRANA ASFALTICA (MANTO) DE ESPESOR 3 mm REFORZADA CON VELO DE POLIESTER."
+    },
+    {
+        "codigo_partida": "E421203401",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON UNA MEMBRANA ASFALTICA (MANTO) DE ESPESOR 4 mm REFORZADA CON VELO DE POLIESTER."
+    },
+    {
+        "codigo_partida": "E421204201",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 2 mm REFORZADA CON VELO DE FIBRA DE VIDRIO."
+    },
+    {
+        "codigo_partida": "E421204301",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON MEMBRANA ASFALTICA (MANTO) DE ESPESOR 3 mm REFORZADA CON VELO DE FIBRA DE VIDRIO."
+    },
+    {
+        "codigo_partida": "E421204401",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON MEMBRANA ASFALTICA (MANTO) DE 4 mm DE ESPESOR REFORZADA CON VELO DE FIBRA DE VIDRIO."
+    },
+    {
+        "codigo_partida": "E421211001",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON DOS CAPAS DE ASFALTO SOPLADO Y REFUERZO DE UN VELO DE FIBRA DE VIDRIO ASFALTADO, APLICADA EN CALIENTE."
+    },
+    {
+        "codigo_partida": "E421211002",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON TRES CAPAS DE ASFALTO SOPLADO Y REFUERZO DE DOS VELOS DE FIBRA DE VIDRIO, APLICADA EN CALIENTE."
+    },
+    {
+        "codigo_partida": "E421211003",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON CUATRO CAPAS DE ASFALTO SOPLADO Y REFUERZO DE TRES VELOS DE FIBRA DE VIDRIO, APLICADA EN CALIENTE."
+    },
+    {
+        "codigo_partida": "E421221001",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON DOS CAPAS DE ASFALTO EMULSIONADO CON AGUA Y REFUERZO DE UN VELO DE FIBRA DE VIDRIO, APLICADA EN FRIO."
+    },
+    {
+        "codigo_partida": "E421221002",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS CON TRES CAPAS DE ASFALTO EMULSIONADO CON AGUA Y REFUERZO DE DOS VELOS DE FIBRA DE VIDRIO, APLICADA EN FRIO."
+    },
+    {
+        "codigo_partida": "E421221003",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN LOSAS O PLACAS INCLINADAS EN FRIO CON CUATRO CAPAS DE ASFALTO EMULSIONADO CON AGUA Y REFUERZO DE TRES VELOS DE FIBRA DE VIDRIO, APLICADA EN FRIO."
+    },
+    {
+        "codigo_partida": "E421320002",
+        "unidad": "m2",
+        "descripcion": "CAPA IMPERMEABILIZANTE EN MUROS Y PAREDES A BASE DE ASFALTO APLICADO EN FRIO."
+    },
+    {
+        "codigo_partida": "E422002002",
+        "unidad": "m2",
+        "descripcion": "RECUBRIMIENTO DE LA CAPA IMPERMEABILIZANTE CON PINTURA DE BASE ASFALTICA CON ALUMINIO (REFLECTANTE)."
+    },
+    {
+        "codigo_partida": "E422003002",
+        "unidad": "m2",
+        "descripcion": "RECUBRIMIENTO DE LA CAPA IMPERMEABILIZANTE CON PINTURA DE BASE ACROVINILICA (COLOR)."
+    },
+    {
+        "codigo_partida": "E422101000",
+        "unidad": "m2",
+        "descripcion": "RECUBRIMIENTO DE LA CAPA IMPERMEABILIZANTE CON LOSETAS DE MORTERO DE ESPESOR 3 cm CON JUNTAS ASFALTICAS."
+    },
+    {
+        "codigo_partida": "E422205000",
+        "unidad": "m2",
+        "descripcion": "RECUBRIMIENTO DE LA CAPA IMPERMEABILIZANTE CON TEJAS ASFALTICAS."
+    },
+    {
+        "codigo_partida": "E437011114",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE BARRAS MACIZAS DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437011214",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE PERFILES DE HIERRO (REJA)."
+    },
+    {
+        "codigo_partida": "E437011261",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE PERFILES DE ALUMINIO Y VIDRIO. INCLUYENDO VIDRIO Y MARCO QUE CONFORMA LA ESTRUCTURA DE LA PUERTA."
+    },
+    {
+        "codigo_partida": "E437011311",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINA SENCILLA DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437011315",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINA SENCILLA DE HIERRO Y ROMANILLA FIJA DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437011316",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINA SENCILLA DE HIERRO Y PAÑO DE REJA."
+    },
+    {
+        "codigo_partida": "E437011411",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINAS ENTAMBORADAS DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437011415",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINAS ENTAMBORADAS DE HIERRO Y PAÑO DE ROMANILLA FIJA DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437011416",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINAS ENTAMBORADAS DE HIERRO Y PAÑO DE REJA."
+    },
+    {
+        "codigo_partida": "E437011451",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINAS ENTAMBORADAS DE HIERRO Y VISOR. INCLUYE VIDRIO."
+    },
+    {
+        "codigo_partida": "E437011454",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS BATIENTES DE LAMINAS ENTAMBORADAS DE HIERRO Y VIDRIO. INCLUYENDO VIDRIO CON PAÑO DE REJA."
+    },
+    {
+        "codigo_partida": "E437013114",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS CORREDERAS O PORTONES DE BARRAS MACIZAS DE HIERRO. INCLUYE ESTRUCTURA DE SOPORTE."
+    },
+    {
+        "codigo_partida": "E437013214",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS CORREDERAS O PORTONES DE PERFILES DE HIERRO (REJA). INCLUYE ESTRUCTURA DE SOPORTE."
+    },
+    {
+        "codigo_partida": "E437013311",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS CORREDERAS O PORTONES DE LAMINA SENCILLA DE HIERRO. INCLUYE ESTRUCTURA DE SOPORTE."
+    },
+    {
+        "codigo_partida": "E437013312",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS CORREDERAS LAMINA SENCILLA HIERRO CON PAÑO DE ROMANILLA."
+    },
+    {
+        "codigo_partida": "E437013411",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS CORREDERAS CON LAMINA ENTAMBORADA DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437013451",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS CORREDERAS CON LAMINA ENTAMBORADA DE HIERRO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437015114",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS ARROLLABLES CON MECANISMO MANUAL, DE PAÑO DE REJA."
+    },
+    {
+        "codigo_partida": "E437015310",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS ARROLLABLES CON MECANISMO MANUAL, LAMINA SENCILLA HIERRO."
+    },
+    {
+        "codigo_partida": "E437021211",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BATIENTES DE PERFILES DE HIERRO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437021231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BATIENTES DE PERFILES DE ALUMINIO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437021241",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BATIENTES DE PERFILES DE ALUMINIO ANODIZADO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437021251",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BATIENTES DE PERFILES DE HIERRO Y VIDRIO. INCLUYENDO VIDRIO CON PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E437021261",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BATIENTES DE PERFILES DE ALUMINIO Y VIDRIO. INCLUYENDO VIDRIO CON PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E437021291",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BATIENTES DE PERFILES DE ALUMINIO ANODIZADO Y VIDRIO, CON PAÑO FIJO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437023211",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS CORREDERAS DE PERFILES DE HIERRO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437023231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS CORREDERAS DE PERFILES DE ALUMINIO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437023241",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS CORREDERAS DE PERFILES DE ALUMINIO ANODIZADO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437023251",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS CORREDERAS DE PERFILES DE HIERRO Y VIDRIO. INCLUYENDO VIDRIO CON PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E437023261",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS CORREDERAS DE PERFILES DE ALUMINIO Y VIDRIO. INCLUYENDO VIDRIO CON PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E437023291",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS CORREDERAS DE PERFILES DE ALUMINIO ANODIZADO Y VIDRIO. INCLUYENDO VIDRIO Y PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E437024213",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BASCULANTES DE PERFILES DE HIERRO, SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437024253",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS BASCULANTES DE PERFILES DE HIERRO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437027211",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS RIGIDAS DE PERFILES DE HIERRO CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437027231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS RIGIDAS DE PERFILES DE ALUMINIO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437027241",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS RIGIDAS DE PERFILES DE ALUMINIO ANODIZADO, CON PAÑO FIJO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437027251",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS RIGIDAS DE PERFILES DE HIERRO Y VIDRIO, CON PAÑO FIJO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437027261",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS RIGIDAS DE PERFILES DE ALUMINIO Y VIDRIO, CON PAÑO FIJO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437027291",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO,TRANSPORTE Y COLOCACION DE VENTANAS RIGIDAS DE PERFILES DE ALUMINIO ANODIZADO Y VIDRIO, CON PAÑO FIJO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437028232",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS DE ROMANILLA DE PERFILES DE ALUMINIO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437028242",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS DE ROMANILLA DE PERFILES DE ALUMINIO ANODIZADO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437028262",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS DE ROMANILLA DE PERFILES DE ALUMINIO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437028292",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS DE ROMANILLA DE PERFILES DE ALUMINIO ANODIZADO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437029231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS PIVOTANTES DE PERFILES DE ALUMINIO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437029241",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS PIVOTANTES DE PERFILES DE ALUMINIO ANODIZADO. SIN INCLUIR VIDRIO."
+    },
+    {
+        "codigo_partida": "E437029261",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS PIVOTANTES DE PERFILES DE ALUMINIO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437029291",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE VENTANAS PIVOTANTES DE PERFILES DE ALUMINIO ANODIZADO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437037261",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE PERFILES DE ALUMINIO Y VIDRIO. INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437037271",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE PERFILES DE ALUMINIO Y FORMICA."
+    },
+    {
+        "codigo_partida": "E437037281",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE PERFILES DE ALUMINIO, FORMICA Y VIDRIO.INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E437037311",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE LAMINA SENCILLA DE HIERRO. MEDIDO SEGUN EL AREA EFECTIVA DE TABIQUE."
+    },
+    {
+        "codigo_partida": "E437037411",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE LAMINAS ENTAMBORADAS DE HIERRO. MEDIDOS SEGUN AREA EFECTIVA DE TABIQUE."
+    },
+    {
+        "codigo_partida": "E437037451",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE LAMINA ENTAMBORADOS DE HIERRO Y VIDRIO."
+    },
+    {
+        "codigo_partida": "E437043111",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REJAS CORREDERAS DE BARRAS DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437043211",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REJAS CORREDERAS DE PERFILES DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437047111",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REJAS DE BARRAS MACIZAS DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437047211",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REJAS DE PERFILES DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437057111",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE BARANDAS DE BARRAS MACIZAS DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437057211",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE BARANDAS DE PERFILES DE HIERRO."
+    },
+    {
+        "codigo_partida": "E437057231",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE BARANDAS DE PERFILES DE ALUMINIO."
+    },
+    {
+        "codigo_partida": "E437057241",
+        "unidad": "kgf",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE BARANDAS DE PERFILES DE ALUMINIO ANODIZADO."
+    },
+    {
+        "codigo_partida": "E437060210",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PASAMANOS DE PERFILES DE HIERRO. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E437060230",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PASAMANOS DE PERFILES DE ALUMINIO. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E437060240",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PASAMANOS DE PERFILES DE ALUMINIO ANODIZADO. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E437071010",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE MARCOS DE CHAPA DOBLADA DE HIERRO, EN PAREDES DE 10 cm DE ESPESOR."
+    },
+    {
+        "codigo_partida": "E437071015",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE MARCOS DE CHAPA DOBLADA DE HIERRO, EN PAREDES DE 15 cm DE ESPESOR."
+    },
+    {
+        "codigo_partida": "E437071020",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE MARCOS DE CHAPA DOBLADA DE HIERRO, EN PAREDES DE 20 cm DE ESPESOR."
+    },
+    {
+        "codigo_partida": "E447011131",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA MACIZA, TIPO BATIENTE."
+    },
+    {
+        "codigo_partida": "E447011231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA ENTAMBORADA, TIPO BATIENTE."
+    },
+    {
+        "codigo_partida": "E447011233",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA ENTAMBORADA, TIPO BATIENTE CON PAÑO DE VISOR, INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E447011301",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA ENTAMBORADA CON FORMICA, TIPO BATIENTE DE PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E447012231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA ENTAMBORADA, TIPO VAIVEN."
+    },
+    {
+        "codigo_partida": "E447012233",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA ENTAMBORADA, TIPO VAIVEN CON PAÑO DE VISOR, INCLUYENDO VIDRIO."
+    },
+    {
+        "codigo_partida": "E447013231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PUERTAS DE MADERA ENTAMBORADA, TIPO CORREDERA."
+    },
+    {
+        "codigo_partida": "E447030300",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE MADERA."
+    },
+    {
+        "codigo_partida": "E447037231",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE TABIQUES DE MADERA ENTAMBORADA."
+    },
+    {
+        "codigo_partida": "E447050300",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE BARANDAS DE MADERA."
+    },
+    {
+        "codigo_partida": "E447060300",
+        "unidad": "m3",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE PASAMANOS DE MADERA."
+    },
+    {
+        "codigo_partida": "E447070210",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE MARCOS DE MADERA, EN PAREDES DE 10 cm."
+    },
+    {
+        "codigo_partida": "E447070215",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE MARCOS DE MADERA, EN PAREDES DE 15 cm."
+    },
+    {
+        "codigo_partida": "E447070220",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE MARCOS DE MADERA, EN PAREDES DE 20 cm."
+    },
+    {
+        "codigo_partida": "E447070300",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE RODAPIE DE MADERA."
+    },
+    {
+        "codigo_partida": "E447080300",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE ESCALONES DE MADERA."
+    },
+    {
+        "codigo_partida": "E447090301",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REVESTIMIENTO DE MADERA EN PAREDES."
+    },
+    {
+        "codigo_partida": "E447090302",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REVESTIMIENTO DE MADERA EN PISOS (PARQUET)."
+    },
+    {
+        "codigo_partida": "E447090303",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REVESTIMIENTO DE MADERA EN ESCALONES (PARQUET)."
+    },
+    {
+        "codigo_partida": "E447090304",
+        "unidad": "m2",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE REVESTIMIENTO DE MADERA MACHIHEMBRADA EN ESTRUCTURAS (TECHOS)."
+    },
+    {
+        "codigo_partida": "E447100300",
+        "unidad": "m",
+        "descripcion": "SUMINISTRO, TRANSPORTE Y COLOCACION DE RODAPIE DE MADERA."
+    },
+    {
+        "codigo_partida": "E451111103",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES E INCOLOROS, NO REBORDADO e =3 mm INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111104",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES E INCOLOROS, NO REBORDADO e =4 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111105",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES E INCOLOROS, NO REBORDADO e =5 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111106",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES E INCOLOROS, NO REBORDADOS e =6 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111203",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES, DE COLOR, NO REBORDADOS e =3 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111204",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES, DE COLOR, NO REBORDADO e =4 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111205",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES, DE COLOR, NO REBORDADOS e =5 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451111206",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES, DE COLOR, NO REBORDADOS e =6 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451112103",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSLUCIDOS, NO REBORDADOS e =3 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451112104",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSLUCIDOS, INCOLOROS, NO REBORDADOS e =4 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451112105",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSLUCIDOS, NO REBORDADOS, e =5 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451112106",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSLUCIDOS, NO REBORDADOS, e =6 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451121104",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES INCOLOROS, REBORDADOS, e =4 mm."
+    },
+    {
+        "codigo_partida": "E451121105",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES INCOLOROS, REBORDADOS, e =5 mm."
+    },
+    {
+        "codigo_partida": "E451121204",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES, DE COLOR, REBORDADOS, e =4 mm."
+    },
+    {
+        "codigo_partida": "E451121205",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSPARENTES, DE COLOR, REBORDADOS, e =5 mm."
+    },
+    {
+        "codigo_partida": "E451122104",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSLUCIDOS, INCOLO-ROS, REBORDADOS, e =4 mm."
+    },
+    {
+        "codigo_partida": "E451122105",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, LISOS, TRANSLUCIDOS, INCOLO-ROS, REBORDADOS, e =5 mm."
+    },
+    {
+        "codigo_partida": "E451312104",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS INCOLOROS, NO REBORDADOS, e = 4 mm, INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451312105",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS INCOLOROS, NO REBORDADOS, e = 5 mm, INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451312204",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS DE COLOR, NO REBORDADOS, e = 4 mm, INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451312205",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS DE COLOR, NO REBORDADOS, e = 5 mm, INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451322104",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS INCOLOROS, REBORDADOS, e = 4 mm."
+    },
+    {
+        "codigo_partida": "E451322105",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS INCOLOROS, REBORDADOS, e = 5 mm."
+    },
+    {
+        "codigo_partida": "E451322204",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS DE COLOR, REBORDADOS, e = 4 mm."
+    },
+    {
+        "codigo_partida": "E451322205",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, ESCARCHADOS DE COLOR, REBORDADOS, e = 5 mm."
+    },
+    {
+        "codigo_partida": "E451411108",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS INCOLOROS, NO REBORDADOS, e = 8 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451411110",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS INCOLOROS, NO REBORDADOS, e = 10 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451411112",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS INCOLOROS, NO REBORDADOS, e = 12 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451411208",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS DE COLOR, NO REBORDADOS, e = 8 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451411210",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS DE COLOR, NO REBORDADOS, e = 10 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451411212",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS DE COLOR, NO REBORDADOS, e = 12 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451421108",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS INCOLOROS, REBORDADOS, e = 8 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451421110",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS INCOLOROS, REBORDADOS, e = 10 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451421112",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS INCOLOROS, REBORDADOS, e = 12 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451421208",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS DE COLOR, REBORDADOS, e = 8 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451421210",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS DE COLOR, REBORDADOS, e = 10 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451421212",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, TEMPLADOS DE COLOR, REBORDADOS, e = 12 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451500005",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, REFLECTANTES (TRANSPAREN-TES EN UNA SOLA DIRECCION ), e = 5 mm.INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451500008",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, REFLECTANTES (TRANSPARENTES EN UNA SOLA DIRECCION ), e = 8 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451500010",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, REFLECTANTES (TRANSPARENTES EN UN SOLO SENTIDO ), e = 10 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451500012",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, REFLECTANTES (TRANSPAREN-ES EN UNA SOLA DIRECCION ), e = 12 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451600019",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, DE SEGURIDAD, e = 19 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451600032",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, DE SEGURIDAD, e = 32 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451600042",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, DE SEGURIDAD, e = 42 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E451600061",
+        "unidad": "m2",
+        "descripcion": "VIDRIOS PLANOS, DE SEGURIDAD, e = 61 mm. INCLUYE ELEMENTOS DE FIJACION."
+    },
+    {
+        "codigo_partida": "E452600019",
+        "unidad": "m2",
+        "descripcion": "PUERTAS DE VIDRIO DE SEGURIDAD DE ESPESOR 19 mm. INCLUYE HERRAJES."
+    },
+    {
+        "codigo_partida": "E461000101",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN COLUMNAS METALICAS."
+    },
+    {
+        "codigo_partida": "E461000201",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN VIGAS METALICAS DE ALMA LLENA."
+    },
+    {
+        "codigo_partida": "E461000401",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN CERCHAS METALICAS."
+    },
+    {
+        "codigo_partida": "E461000500",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN PAREDES. NCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E461000601",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN TABIQUES METALICOS."
+    },
+    {
+        "codigo_partida": "E461000701",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN PUERTAS METALICAS."
+    },
+    {
+        "codigo_partida": "E461000801",
+        "unidad": "m",
+        "descripcion": "ESMALTE EN MARCOS METALICOS."
+    },
+    {
+        "codigo_partida": "E461001011",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN VENTANAS DE LAMINAS METALICAS."
+    },
+    {
+        "codigo_partida": "E461001021",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN VENTANAS METALICAS BASCULANTES."
+    },
+    {
+        "codigo_partida": "E461001031",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN VENTANAS METALICAS BATIENTES, CORREDERAS O PAÑO FIJO."
+    },
+    {
+        "codigo_partida": "E461001101",
+        "unidad": "m2",
+        "descripcion": "ESMALTE EN BARANDAS Y REJAS METALICAS."
+    },
+    {
+        "codigo_partida": "E461001201",
+        "unidad": "m",
+        "descripcion": "ESMALTE EN PASAMANOS METALICOS."
+    },
+    {
+        "codigo_partida": "E462000102",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN COLUMNAS DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462000202",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN VIGAS DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462000402",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN CERCHAS DE MADERA.INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462000602",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN TABIQUES DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462000702",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN PUERTAS DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462000802",
+        "unidad": "m",
+        "descripcion": "BARNIZ EN MARCOS DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462001032",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN VENTANAS BATIENTES DE MADERA. INCLUYE FONDO SELLADOR Y BASTIDOR. (SE MEDIRA SEGUN AREA NETA )."
+    },
+    {
+        "codigo_partida": "E462001102",
+        "unidad": "m2",
+        "descripcion": "BARNIZ EN BARANDAS DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E462001202",
+        "unidad": "m",
+        "descripcion": "BARNIZ EN PASAMANOS DE MADERA. INCLUYE FONDO SELLADOR."
+    },
+    {
+        "codigo_partida": "E463100103",
+        "unidad": "m2",
+        "descripcion": "CAUCHO INTERIOR EN COLUMNAS. INCLUYEND FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463100203",
+        "unidad": "m2",
+        "descripcion": "CAUCHO INTERIOR EN VIGAS. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463100303",
+        "unidad": "m2",
+        "descripcion": "CAUCHO INTERIOR EN LOSAS. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463100503",
+        "unidad": "m2",
+        "descripcion": "CAUCHO INTERIOR EN PAREDES. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463200103",
+        "unidad": "m2",
+        "descripcion": "CAUCHO EXTERIOR EN COLUMNAS. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463200203",
+        "unidad": "m2",
+        "descripcion": "CAUCHO EXTERIOR EN VIGAS. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463200303",
+        "unidad": "m2",
+        "descripcion": "CAUCHO EXTERIOR EN LOSAS. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E463200503",
+        "unidad": "m2",
+        "descripcion": "CAUCHO EXTERIOR EN PAREDES. INCLUYENDO FONDO ANTIALCALINO."
+    },
+    {
+        "codigo_partida": "E464000001",
+        "unidad": "m2",
+        "descripcion": "FONDO ANTICORROSIVO PARA ELEMENTOS Y ESTRUCTURAS METALICAS."
+    },
+    {
+        "codigo_partida": "E471311210",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, SIN CILINDRO, SIN CERROJO, DE PESTILLO. AMBOS POMOS LIBRES."
+    },
+    {
+        "codigo_partida": "E471311220",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, SIN CILINDRO, SIN CERROJO, PESTILLO SIMPLE. POMO EXTERIOR LIBRE, POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E4711311320",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, SIN CILINDRO, SIN CERROJO, PESTILLO DE SEGURIDAD. POMO EXTERIOR LIBRE, POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471311360",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, SIN CILINDRO, SIN CERROJO, PESTILLO DE SEGURIDAD. POMO EXTERIOR FIJO, POMO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E471321230",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, CILINDRO FIJO, SIN CERROJO, PESTILLO SIMPLE. POMO EXTERIOR CON LLAVE. POMO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E471321240",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, CILINDRO FIJO, SIN CERROJO, PESTILLO SIMPLE. POMO EXTERIOR CON LLAVE. POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471321330",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, CILINDRO FIJO, SIN CERROJO, PESTILLO DE SEGURIDAD. POMO EXTERIOR CON LLAVE. POMO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E471321340",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, CILINDRO FIJO, SIN CERROJO, PESTILLO DE SEGURIDAD. POMO EXTERIOR CON LLAVE. POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471321350",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO BRILLANTE, CILINDRO FIJO, SIN CERROJO, PESTILLO DE SEGURIDAD. AMBOS POMOS CON LLAVE."
+    },
+    {
+        "codigo_partida": "E471411210",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, SIN CILINDRO, SIN CERROJO, DE PESTILLO. AMBOS POMOS LIBRES."
+    },
+    {
+        "codigo_partida": "E471411220",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, SIN CILINDRO, SIN CERROJO, PESTILLO SIMPLE . POMO EXTERIOR LIBRE. POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471411320",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, SIN CILINDRO, SIN CERROJO,PESTILLO DE SEGURIDAD POMO EXTERIOR LIBRE. POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471411360",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, SIN CILINDRO, SIN CERROJO, DE PESTILLO DE SEGURIDAD. POMO EXTERIOR FIJO. POMO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E471421230",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, CILINDRO FIJO, SIN CERROJO, PESTILLO SIMPLE POMO EXTERIOR CON LLAVE. POMO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E471421240",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, CILINDRO FIJO , SIN CERROJO, PESTILLO SIMPLE POMO EXTERIOR CON LLAVE. POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471421330",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, CILINDRO FIJO , SIN CERROJO, PESTILLO DE SEGURIDAD . POMO EXTERIOR CON LLAVE. POMO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E471421340",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, CILINDRO FIJO , SIN CERROJO, PESTILLO DE SEGURIDAD. POMO EXTERIOR CON LLAVE. POMO INTERIOR CON BOTON."
+    },
+    {
+        "codigo_partida": "E471421350",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE POMO, ACABADO CROMO MATE, CILINDRO FIJO , SIN CERROJO, PESTILLO DE SEGURIDAD . AMBOS POMOS CON LLAVE."
+    },
+    {
+        "codigo_partida": "E473632252",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO SIMPLE. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 25 mm."
+    },
+    {
+        "codigo_partida": "E473632253",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO SIMPLE. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 35 mm."
+    },
+    {
+        "codigo_partida": "E473632254",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO SIMPLE. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 45 mm."
+    },
+    {
+        "codigo_partida": "E473632256",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO SIMPLE. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 60 mm."
+    },
+    {
+        "codigo_partida": "E473632452",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO DE RODILLO. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 25mm."
+    },
+    {
+        "codigo_partida": "E473632453",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO DE RODILLO. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 35mm."
+    },
+    {
+        "codigo_partida": "E473633151",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO DE GANCHO, SIN PESTILLO. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 16 mm."
+    },
+    {
+        "codigo_partida": "E473633153",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE EMBUTIR, ACABADO DE ACERO NIQUELADO. CILINDRO MOVIL, CERROJO DE GANCHO, SIN PESTILLO. AMBOS LADOS CON LLAVE. DISTANCIA DEL CILINDRO AL BORDE DE 30 mm."
+    },
+    {
+        "codigo_partida": "E474122150",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE SOBREPONER, ACABADO DE ACERO GALVANIZADO. CILINDRO FIJO, CERROJO SIMPLE, SIN PESTILLO. AMBOS LADOS CON LLAVE, PARA PUERTAS TIPO SANTA MARIA."
+    },
+    {
+        "codigo_partida": "E474522250",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE SOBREPONER, ACABADO DE ACERO PINTADO. CILINDRO FIJO, CERROJO SIMPLE, PESTILLO SIMPLE. AMBOS LADOS CON LLAVE."
+    },
+    {
+        "codigo_partida": "E474532250",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA DE SOBREPONER, ACABADO DE ACERO PINTADO. CILINDRO MOVIL, CERROJO SIMPLE, PESTILLO SIMPLE. AMBOS LADOS CON LLAVE."
+    },
+    {
+        "codigo_partida": "E475411570",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA ANTIPANICO, ACABADO CROMO MATE. SIN CILINDRO, SIN CERROJO, PESTILLO VERTICAL. LADO EXTERIOR CIEGO, LADO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E475411670",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA ANTIPANICO, ACABADO CROMO MATE. SIN CILINDRO, SIN CERROJO, PESTILLO HORIZONTAL.LADO EXTERIOR CIEGO, LADO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E475425130",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA ANTIPANICO, ACABADO CROMO MATE. CILINDRO FIJO, CERROJO VERTICAL, SIN PESTILLO. LADO EXTERIOR CON LLAVE, LADO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E475426130",
+        "unidad": "pza.",
+        "descripcion": "CERRADURA ANTIPANICO, ACABADO CROMO MATE. CILINDRO FIJO, CERROJO HORIZONTAL, SIN PESTILLO. LADO EXTERIOR CON LLAVE, LADO INTERIOR LIBRE."
+    },
+    {
+        "codigo_partida": "E491112107",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 0.75 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491112108",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 0.80-0.85 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491112109",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 0.90-0.95 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E479112111",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 1.10 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491112207",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 0.75 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491112208",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 0.80-0.85 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491112209",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 0.90-0.95 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491112211",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 1.10 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491113109",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 20-30 cm, CON RETEN, PARA PUERTAS DE 0.90-0.95 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491113111",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 20-30 cm, CON RETEN, PARA PUERTAS DE 1.10 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491113209",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 20-30 cm, SIN RETEN, PARA PUERTAS DE 0.90-0.95 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491113211",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA RECTANGULAR, ANCHO 20-30 cm, SIN RETEN, PARA PUERTAS DE 1.10 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491132107",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA T INVERTIDA, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 0.75 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491132108",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA T INVERTIDA, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 0.80-0.85 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491132109",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA T INVERTIDA, ANCHO 10-20 cm, CON RETEN, PARA PUERTAS DE 0.90-0.95 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491132207",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA T INVERTIDA, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 0.75 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491132208",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA T INVERTIDA, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 0.80-0.85 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491132209",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA SOBRE HOJA, FORMA T INVERTIDA, ANCHO 10-20 cm, SIN RETEN, PARA PUERTAS DE 0.90-0.95 m DE ANCHO."
+    },
+    {
+        "codigo_partida": "E491413009",
+        "unidad": "pza.",
+        "descripcion": "CIERRAPUERTA EMBUTIDO EN PISO, FORMA RECTANGULAR, ANCHO 20-30 cm, PARA PUERTA DE 0.90-0.95 m DE ANCHO."
+    }
+]

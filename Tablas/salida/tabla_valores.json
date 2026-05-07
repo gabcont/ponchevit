@@ -1,0 +1,2762 @@
+[
+  {
+    "Id_Valor": "VAL_00001",
+    "Descripcion_UI": "Albañilería",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00002",
+    "Descripcion_UI": "Construcción de paredes",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00003",
+    "Descripcion_UI": "m2",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": "m2"
+  },
+  {
+    "Id_Valor": "VAL_00004",
+    "Descripcion_UI": "Bloques huecos de arcilla",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00005",
+    "Descripcion_UI": "Ladrillos macizos de arcilla",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00006",
+    "Descripcion_UI": "Ladrillos perforado de arcilla",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00007",
+    "Descripcion_UI": "Bloques de concreto",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00008",
+    "Descripcion_UI": "Bloque ornamental de arcilla",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00009",
+    "Descripcion_UI": "Bloques ornamentales de concreto",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00010",
+    "Descripcion_UI": "Bloque de concreto tipo persiana",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00011",
+    "Descripcion_UI": "Panelas de yeso",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00012",
+    "Descripcion_UI": "Bloques de vidrio",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00013",
+    "Descripcion_UI": "Corriente",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00014",
+    "Descripcion_UI": "Obra limpia una cara",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00015",
+    "Descripcion_UI": "Obra limpia dos caras",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00016",
+    "Descripcion_UI": "Sin Especificar",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00017",
+    "Descripcion_UI": "2 huecos",
+    "Tipo_Parametro": "Nº HUECOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00018",
+    "Descripcion_UI": "4 huecos",
+    "Tipo_Parametro": "Nº HUECOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00019",
+    "Descripcion_UI": "6 huecos",
+    "Tipo_Parametro": "Nº HUECOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00020",
+    "Descripcion_UI": "8 huecos",
+    "Tipo_Parametro": "Nº HUECOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00021",
+    "Descripcion_UI": "e = 10 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 10.0,
+    "Num_Max": 10.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00022",
+    "Descripcion_UI": "e = 12 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 12.0,
+    "Num_Max": 12.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00023",
+    "Descripcion_UI": "e = 15 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 15.0,
+    "Num_Max": 15.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00024",
+    "Descripcion_UI": "e = 20 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 20.0,
+    "Num_Max": 20.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00025",
+    "Descripcion_UI": "e = 25 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 25.0,
+    "Num_Max": 25.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00026",
+    "Descripcion_UI": "e",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 15.0,
+    "Num_Max": 15.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00027",
+    "Descripcion_UI": "Revestimiento de paredes",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00028",
+    "Descripcion_UI": "Revestimiento de techos",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00029",
+    "Descripcion_UI": "m",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00030",
+    "Descripcion_UI": "Interior",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00031",
+    "Descripcion_UI": "Exterior",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00032",
+    "Descripcion_UI": "Mortero de cemento",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00033",
+    "Descripcion_UI": "Mortero de cal",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00034",
+    "Descripcion_UI": "Mortero hidrófugo",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00035",
+    "Descripcion_UI": "Mortero de yeso",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00036",
+    "Descripcion_UI": "Porcelana blanca de 11 x 11",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": 11.0,
+    "Num_Max": 11.0,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00037",
+    "Descripcion_UI": "Porcelana de color de 11 x 11",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": 11.0,
+    "Num_Max": 11.0,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00038",
+    "Descripcion_UI": "Porcelana decorada",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00039",
+    "Descripcion_UI": "Baldosas traslúcidas",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00040",
+    "Descripcion_UI": "Mosaicos",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00041",
+    "Descripcion_UI": "Cerámica Nacional",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00042",
+    "Descripcion_UI": "Cerámica Importada",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00043",
+    "Descripcion_UI": "Mortero vitrificado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00044",
+    "Descripcion_UI": "Mármol nacional",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00045",
+    "Descripcion_UI": "Mármol importado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00046",
+    "Descripcion_UI": "Lajas de piedra",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00047",
+    "Descripcion_UI": "Cantos rodados",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00048",
+    "Descripcion_UI": "Baldosas de arcilla",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00049",
+    "Descripcion_UI": "Tejas criollas",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00050",
+    "Descripcion_UI": "Rodapie de vinyl",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00051",
+    "Descripcion_UI": "Rodapie de granito gris",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00052",
+    "Descripcion_UI": "Rodapie de granito blanco",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00053",
+    "Descripcion_UI": "Rodapie de ceramica",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00054",
+    "Descripcion_UI": "Rústico",
+    "Tipo_Parametro": "ACABADOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00055",
+    "Descripcion_UI": "Liso",
+    "Tipo_Parametro": "ACABADOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00056",
+    "Descripcion_UI": "Salpicado",
+    "Tipo_Parametro": "ACABADOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00057",
+    "Descripcion_UI": "Natural",
+    "Tipo_Parametro": "ACABADOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00058",
+    "Descripcion_UI": "Rayado",
+    "Tipo_Parametro": "ACABADOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00059",
+    "Descripcion_UI": "Revestimiento de pisos",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00060",
+    "Descripcion_UI": "Revestimiento de escalones",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00061",
+    "Descripcion_UI": "Construcción de pendientes en losas horizontales",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00062",
+    "Descripcion_UI": "Raseo en losas inclinadas",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00063",
+    "Descripcion_UI": "Pulitura de pisos y escalones",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00064",
+    "Descripcion_UI": "Cielo raso (plafón)",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00065",
+    "Descripcion_UI": "Mortero de cemento con endurecedor",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00066",
+    "Descripcion_UI": "Mortero de granito con cemento gris",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00067",
+    "Descripcion_UI": "Mortero de granito con cemento blanco",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00068",
+    "Descripcion_UI": "Mortero de granito sembrado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00069",
+    "Descripcion_UI": "Mortero de granito lavado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00070",
+    "Descripcion_UI": "Baldosas de vinyl",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00071",
+    "Descripcion_UI": "Baldosas de cerámica nacional",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00072",
+    "Descripcion_UI": "Baldosas de cerámica importada",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00073",
+    "Descripcion_UI": "Baldosas de granito",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00074",
+    "Descripcion_UI": "Baldosas de mármol nacional",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00075",
+    "Descripcion_UI": "Baldosas de mármol importado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00076",
+    "Descripcion_UI": "Plomo",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00077",
+    "Descripcion_UI": "Cera",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00078",
+    "Descripcion_UI": "Plastificado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00079",
+    "Descripcion_UI": "Púlido",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00080",
+    "Descripcion_UI": "Pulido",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00081",
+    "Descripcion_UI": "Sin juntas",
+    "Tipo_Parametro": "JUNTAS-FLEJES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00082",
+    "Descripcion_UI": "Juntas abiertas",
+    "Tipo_Parametro": "JUNTAS-FLEJES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00083",
+    "Descripcion_UI": "Flejes de Cobre",
+    "Tipo_Parametro": "JUNTAS-FLEJES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00084",
+    "Descripcion_UI": "Flejes de plástico",
+    "Tipo_Parametro": "JUNTAS-FLEJES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00085",
+    "Descripcion_UI": "e=16 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 16.0,
+    "Num_Max": 16.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00086",
+    "Descripcion_UI": "e=24 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 24.0,
+    "Num_Max": 24.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00087",
+    "Descripcion_UI": "e=32 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 32.0,
+    "Num_Max": 32.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00088",
+    "Descripcion_UI": "e=50 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 50.0,
+    "Num_Max": 50.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00089",
+    "Descripcion_UI": "e=60 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 60.0,
+    "Num_Max": 60.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00090",
+    "Descripcion_UI": "e=70 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 70.0,
+    "Num_Max": 70.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00091",
+    "Descripcion_UI": "e=80 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 80.0,
+    "Num_Max": 80.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00092",
+    "Descripcion_UI": "e=90 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 90.0,
+    "Num_Max": 90.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00093",
+    "Descripcion_UI": "Impermeabilización",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00094",
+    "Descripcion_UI": "Capa impermeabilizante asfáltica",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00095",
+    "Descripcion_UI": "m2",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00096",
+    "Descripcion_UI": "Losas o placas horizontales de concreto",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00097",
+    "Descripcion_UI": "Losas o placas inclinadas de concreto",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00098",
+    "Descripcion_UI": "Muros y paredes de concreto",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00099",
+    "Descripcion_UI": "Techos de madera",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00100",
+    "Descripcion_UI": "Jardineras",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00101",
+    "Descripcion_UI": "Sub-bases o bases de piscinas",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00102",
+    "Descripcion_UI": "Ductos",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00103",
+    "Descripcion_UI": "Tanques",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00104",
+    "Descripcion_UI": "Tuberías",
+    "Tipo_Parametro": "UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00105",
+    "Descripcion_UI": "Asfalto oxidado o soplado aplicado en caliente.",
+    "Tipo_Parametro": "CEMENTANTE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00106",
+    "Descripcion_UI": "Emulsión asfáltica en frío",
+    "Tipo_Parametro": "CEMENTANTE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00107",
+    "Descripcion_UI": "Velo de fibra de vidrio",
+    "Tipo_Parametro": "REFUERZO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00108",
+    "Descripcion_UI": "Membrana asfáltica con velo de fibra de vidrio",
+    "Tipo_Parametro": "REFUERZO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00109",
+    "Descripcion_UI": "Membrana asfáltica con velo de poliester",
+    "Tipo_Parametro": "REFUERZO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00110",
+    "Descripcion_UI": "Membrana asfáltica con velo de vidrio y poliester",
+    "Tipo_Parametro": "REFUERZO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00111",
+    "Descripcion_UI": "Membrana asfáltica con acabado incorporado granulado",
+    "Tipo_Parametro": "REFUERZO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00112",
+    "Descripcion_UI": "Membrana asfáltica con acabado incorporado de foil de aluminio",
+    "Tipo_Parametro": "REFUERZO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00113",
+    "Descripcion_UI": "e",
+    "Tipo_Parametro": "ESPESOR REFUERZO",
+    "Num_Min": 2.0,
+    "Num_Max": 2.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00114",
+    "Descripcion_UI": "e",
+    "Tipo_Parametro": "ESPESOR REFUERZO",
+    "Num_Min": 3.0,
+    "Num_Max": 3.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00115",
+    "Descripcion_UI": "e",
+    "Tipo_Parametro": "ESPESOR REFUERZO",
+    "Num_Min": 4.0,
+    "Num_Max": 4.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00116",
+    "Descripcion_UI": "Un Velo",
+    "Tipo_Parametro": "Nº DE VELOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00117",
+    "Descripcion_UI": "Dos velos",
+    "Tipo_Parametro": "Nº DE VELOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00118",
+    "Descripcion_UI": "Tres velos",
+    "Tipo_Parametro": "Nº DE VELOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00119",
+    "Descripcion_UI": "Recubrimiento de capa impermeabilizante",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00120",
+    "Descripcion_UI": "Losetas de mortero de cemento-arena",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00121",
+    "Descripcion_UI": "Pintura asfaltica en base aluminio.",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00122",
+    "Descripcion_UI": "Pintura asfaltica en base acrílica",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00123",
+    "Descripcion_UI": "Granito apisonado",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00124",
+    "Descripcion_UI": "Tejas asfálticas con velo de fibra de vidrio",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00125",
+    "Descripcion_UI": "Baldosas",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00126",
+    "Descripcion_UI": "Juntas",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00127",
+    "Descripcion_UI": "Cubrejuntas",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00128",
+    "Descripcion_UI": "Construcción o de vaciado",
+    "Tipo_Parametro": "TIPOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00129",
+    "Descripcion_UI": "Dilatación",
+    "Tipo_Parametro": "TIPOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00130",
+    "Descripcion_UI": "Sísmica",
+    "Tipo_Parametro": "TIPOS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00131",
+    "Descripcion_UI": "Horizontales",
+    "Tipo_Parametro": "FORMAS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00132",
+    "Descripcion_UI": "Verticales",
+    "Tipo_Parametro": "FORMAS",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00133",
+    "Descripcion_UI": "Moldeables en obra",
+    "Tipo_Parametro": "SELLADOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00134",
+    "Descripcion_UI": "Preformados",
+    "Tipo_Parametro": "SELLADOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00135",
+    "Descripcion_UI": "Base asfáltica",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00136",
+    "Descripcion_UI": "Base acrílica",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00137",
+    "Descripcion_UI": "Caucho butílico",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00138",
+    "Descripcion_UI": "Caucho polisulfurado",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00139",
+    "Descripcion_UI": "Caucho siliconado",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00140",
+    "Descripcion_UI": "Epóxica",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00141",
+    "Descripcion_UI": "Resina elastomérica",
+    "Tipo_Parametro": "NATURALEZA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00142",
+    "Descripcion_UI": "En frío",
+    "Tipo_Parametro": "APLICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00143",
+    "Descripcion_UI": "En caliente",
+    "Tipo_Parametro": "APLICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00144",
+    "Descripcion_UI": "1 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 1.0,
+    "Num_Max": 1.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00145",
+    "Descripcion_UI": "2 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 2.0,
+    "Num_Max": 2.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00146",
+    "Descripcion_UI": "3 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 3.0,
+    "Num_Max": 3.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00147",
+    "Descripcion_UI": "4 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 4.0,
+    "Num_Max": 4.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00148",
+    "Descripcion_UI": "5 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 5.0,
+    "Num_Max": 5.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00149",
+    "Descripcion_UI": "7 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 7.0,
+    "Num_Max": 7.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00150",
+    "Descripcion_UI": "10 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 10.0,
+    "Num_Max": 10.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00151",
+    "Descripcion_UI": "10-20 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 10.0,
+    "Num_Max": 20.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00152",
+    "Descripcion_UI": "20-50 cm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 20.0,
+    "Num_Max": 50.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00153",
+    "Descripcion_UI": "Herrería",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00154",
+    "Descripcion_UI": "Suministro",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00155",
+    "Descripcion_UI": "Transporte",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00156",
+    "Descripcion_UI": "Colocación",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00157",
+    "Descripcion_UI": "Suministro y transporte",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00158",
+    "Descripcion_UI": "Suministro y colocación",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00159",
+    "Descripcion_UI": "Transporte y colocación",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00160",
+    "Descripcion_UI": "Suministro, transporte y colocación",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00161",
+    "Descripcion_UI": "Puertas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00162",
+    "Descripcion_UI": "Ventanas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00163",
+    "Descripcion_UI": "Tabiques",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00164",
+    "Descripcion_UI": "Rejas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00165",
+    "Descripcion_UI": "Barandas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00166",
+    "Descripcion_UI": "Pasamanos",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00167",
+    "Descripcion_UI": "Batientes",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00168",
+    "Descripcion_UI": "Vaivén",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00169",
+    "Descripcion_UI": "Correderas",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00170",
+    "Descripcion_UI": "Basculantes",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00171",
+    "Descripcion_UI": "Arrollables",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00172",
+    "Descripcion_UI": "Plegables",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00173",
+    "Descripcion_UI": "Rígidas",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00174",
+    "Descripcion_UI": "Romanilla",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00175",
+    "Descripcion_UI": "Pivotantes",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00176",
+    "Descripcion_UI": "Barras",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00177",
+    "Descripcion_UI": "Perfiles",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00178",
+    "Descripcion_UI": "Lámina sencilla",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00179",
+    "Descripcion_UI": "Láminas entamboradas",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00180",
+    "Descripcion_UI": "Hierro",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00181",
+    "Descripcion_UI": "Fórmica",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00182",
+    "Descripcion_UI": "Aluminio",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00183",
+    "Descripcion_UI": "Aluminio anodizado",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00184",
+    "Descripcion_UI": "Hierro y vidrio",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00185",
+    "Descripcion_UI": "Aluminio y vidrio",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00186",
+    "Descripcion_UI": "Aluminio y fórmica",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00187",
+    "Descripcion_UI": "Aluminio, fórmica y vidrio",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00188",
+    "Descripcion_UI": "Aluminio anodizado y vidrio",
+    "Tipo_Parametro": "MATERIALES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00189",
+    "Descripcion_UI": "Paño fijo",
+    "Tipo_Parametro": "PAÑO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00190",
+    "Descripcion_UI": "Paño romanilla",
+    "Tipo_Parametro": "PAÑO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00191",
+    "Descripcion_UI": "Paño basculante",
+    "Tipo_Parametro": "PAÑO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00192",
+    "Descripcion_UI": "Paño de reja",
+    "Tipo_Parametro": "PAÑO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00193",
+    "Descripcion_UI": "Paño fijo y paño de romanilla",
+    "Tipo_Parametro": "PAÑO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00194",
+    "Descripcion_UI": "Paño fijo y paño de reja",
+    "Tipo_Parametro": "PAÑO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00195",
+    "Descripcion_UI": "Marcos de chapa doblada",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00196",
+    "Descripcion_UI": "Marcos tubulares",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00197",
+    "Descripcion_UI": "Láminas de revestimiento",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00198",
+    "Descripcion_UI": "Guardacantos",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00199",
+    "Descripcion_UI": "Cerramientos laminados",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00200",
+    "Descripcion_UI": "Rodapié",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00201",
+    "Descripcion_UI": "Alumino",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00202",
+    "Descripcion_UI": "Alumino anodizado",
+    "Tipo_Parametro": "MATERIAL",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00203",
+    "Descripcion_UI": "espesor 10 cm",
+    "Tipo_Parametro": "ESPESOR-PARED",
+    "Num_Min": 10.0,
+    "Num_Max": 10.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00204",
+    "Descripcion_UI": "espesor 12 cm",
+    "Tipo_Parametro": "ESPESOR-PARED",
+    "Num_Min": 12.0,
+    "Num_Max": 12.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00205",
+    "Descripcion_UI": "espesor 15 cm",
+    "Tipo_Parametro": "ESPESOR-PARED",
+    "Num_Min": 15.0,
+    "Num_Max": 15.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00206",
+    "Descripcion_UI": "espesor 20 cm",
+    "Tipo_Parametro": "ESPESOR-PARED",
+    "Num_Min": 20.0,
+    "Num_Max": 20.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00207",
+    "Descripcion_UI": "espesor 25 cm",
+    "Tipo_Parametro": "ESPESOR-PARED",
+    "Num_Min": 25.0,
+    "Num_Max": 25.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00208",
+    "Descripcion_UI": "Carpintería",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00209",
+    "Descripcion_UI": "Suministro, transporte y comunicación",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00210",
+    "Descripcion_UI": "Bloques huecos",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00211",
+    "Descripcion_UI": "Bloques macizos",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00212",
+    "Descripcion_UI": "Ladrillos huecos",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00213",
+    "Descripcion_UI": "Ladrillos macizos",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00214",
+    "Descripcion_UI": "Piedra natural",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00215",
+    "Descripcion_UI": "Bloques de hormigón celular",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00216",
+    "Descripcion_UI": "Paneles de yeso",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00217",
+    "Descripcion_UI": "Otros",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00218",
+    "Descripcion_UI": "Fijos",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00219",
+    "Descripcion_UI": "Maciza",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00220",
+    "Descripcion_UI": "Entamborada con contraenchapada",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00221",
+    "Descripcion_UI": "Entamborada con contraenchapada y formica",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00222",
+    "Descripcion_UI": "Entamboradas machihembrada una cara",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00223",
+    "Descripcion_UI": "Entamboradas machihembrada dos caras",
+    "Tipo_Parametro": "COMPOSICION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00224",
+    "Descripcion_UI": "Blanda",
+    "Tipo_Parametro": "TIPO DE MADERA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00225",
+    "Descripcion_UI": "Semidura",
+    "Tipo_Parametro": "TIPO DE MADERA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00226",
+    "Descripcion_UI": "Dura",
+    "Tipo_Parametro": "TIPO DE MADERA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00227",
+    "Descripcion_UI": "Muy dura",
+    "Tipo_Parametro": "TIPO DE MADERA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00228",
+    "Descripcion_UI": "Marcos",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00229",
+    "Descripcion_UI": "Escalones",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00230",
+    "Descripcion_UI": "Revestimiento",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00231",
+    "Descripcion_UI": "Zócalos (rodapié)",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00232",
+    "Descripcion_UI": "Closets",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00233",
+    "Descripcion_UI": "m",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": "m"
+  },
+  {
+    "Id_Valor": "VAL_00234",
+    "Descripcion_UI": "pza",
+    "Tipo_Parametro": "UN.",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00235",
+    "Descripcion_UI": "Paredes",
+    "Tipo_Parametro": "ESPESOR PAREDES/UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00236",
+    "Descripcion_UI": "Pisos",
+    "Tipo_Parametro": "ESPESOR PAREDES/UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00237",
+    "Descripcion_UI": "Estructuras",
+    "Tipo_Parametro": "ESPESOR PAREDES/UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00238",
+    "Descripcion_UI": "Tabiques y entrepaños",
+    "Tipo_Parametro": "ESPESOR PAREDES/UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00239",
+    "Descripcion_UI": "Forros",
+    "Tipo_Parametro": "ESPESOR PAREDES/UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00240",
+    "Descripcion_UI": "Gavetas",
+    "Tipo_Parametro": "ESPESOR PAREDES/UBICACION",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00241",
+    "Descripcion_UI": "Acabado natural",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00242",
+    "Descripcion_UI": "Revestimiento en fórmica",
+    "Tipo_Parametro": "ACABADO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00243",
+    "Descripcion_UI": "5: Elementos de iluminación natural",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00244",
+    "Descripcion_UI": "Vidrios",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00245",
+    "Descripcion_UI": "Claraboyas",
+    "Tipo_Parametro": "ACTIVIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00246",
+    "Descripcion_UI": "Lisos",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00247",
+    "Descripcion_UI": "Esmerilados",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00248",
+    "Descripcion_UI": "Escarchados",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00249",
+    "Descripcion_UI": "Templados",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00250",
+    "Descripcion_UI": "Reflectantes",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00251",
+    "Descripcion_UI": "De Seguridad",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00252",
+    "Descripcion_UI": "De pantalla en fachadas (cortina)",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00253",
+    "Descripcion_UI": "Reforzados",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00254",
+    "Descripcion_UI": "Vitrales",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00255",
+    "Descripcion_UI": "No rebordeados",
+    "Tipo_Parametro": "ACABADO EN BORDES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00256",
+    "Descripcion_UI": "Rebordeados",
+    "Tipo_Parametro": "ACABADO EN BORDES",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00257",
+    "Descripcion_UI": "Transparentes",
+    "Tipo_Parametro": "VISIBILIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00258",
+    "Descripcion_UI": "Traslúcidos",
+    "Tipo_Parametro": "VISIBILIDAD",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00259",
+    "Descripcion_UI": "Incoloro",
+    "Tipo_Parametro": "COLOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00260",
+    "Descripcion_UI": "De color",
+    "Tipo_Parametro": "COLOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00261",
+    "Descripcion_UI": "e = 3 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 3.0,
+    "Num_Max": 3.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00262",
+    "Descripcion_UI": "e = 4 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 4.0,
+    "Num_Max": 4.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00263",
+    "Descripcion_UI": "e = 5 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 5.0,
+    "Num_Max": 5.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00264",
+    "Descripcion_UI": "e = 6 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 6.0,
+    "Num_Max": 6.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00265",
+    "Descripcion_UI": "e = 8 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 8.0,
+    "Num_Max": 8.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00266",
+    "Descripcion_UI": "e = 10 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 10.0,
+    "Num_Max": 10.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00267",
+    "Descripcion_UI": "e = 12 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 12.0,
+    "Num_Max": 12.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00268",
+    "Descripcion_UI": "e = 19 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 19.0,
+    "Num_Max": 19.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00269",
+    "Descripcion_UI": "e = 32 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 32.0,
+    "Num_Max": 32.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00270",
+    "Descripcion_UI": "e = 42 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 42.0,
+    "Num_Max": 42.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00271",
+    "Descripcion_UI": "e = 61 mm",
+    "Tipo_Parametro": "ESPESOR",
+    "Num_Min": 61.0,
+    "Num_Max": 61.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00272",
+    "Descripcion_UI": "Pintura",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00273",
+    "Descripcion_UI": "Esmalte",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00274",
+    "Descripcion_UI": "Barniz",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00275",
+    "Descripcion_UI": "Caucho",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00276",
+    "Descripcion_UI": "Anticorrosivo",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00277",
+    "Descripcion_UI": "Columnas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00278",
+    "Descripcion_UI": "Vigas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00279",
+    "Descripcion_UI": "Losas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00280",
+    "Descripcion_UI": "Cerchas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00281",
+    "Descripcion_UI": "Hojas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00282",
+    "Descripcion_UI": "Barandas y rejas",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00283",
+    "Descripcion_UI": "Lámina",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00284",
+    "Descripcion_UI": "Basculante",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00285",
+    "Descripcion_UI": "Batiente, corredera o paño fijo",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00286",
+    "Descripcion_UI": "Metal",
+    "Tipo_Parametro": "SUPERFICIE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00287",
+    "Descripcion_UI": "Madera",
+    "Tipo_Parametro": "SUPERFICIE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00288",
+    "Descripcion_UI": "Superficie con friso",
+    "Tipo_Parametro": "SUPERFICIE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00289",
+    "Descripcion_UI": "Cerraduras",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00290",
+    "Descripcion_UI": "Pomo",
+    "Tipo_Parametro": "CLASE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00291",
+    "Descripcion_UI": "Manilla",
+    "Tipo_Parametro": "CLASE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00292",
+    "Descripcion_UI": "Embutidas",
+    "Tipo_Parametro": "CLASE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00293",
+    "Descripcion_UI": "Sobrepuestas",
+    "Tipo_Parametro": "CLASE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00294",
+    "Descripcion_UI": "Antipánico",
+    "Tipo_Parametro": "CLASE",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00295",
+    "Descripcion_UI": "Acero galvanizado",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00296",
+    "Descripcion_UI": "Acero anonizado",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00297",
+    "Descripcion_UI": "Cromado brillante",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00298",
+    "Descripcion_UI": "Cromado mate",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00299",
+    "Descripcion_UI": "Acero pintado",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00300",
+    "Descripcion_UI": "Acero niquelado",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00301",
+    "Descripcion_UI": "Bronce",
+    "Tipo_Parametro": "ACABADO EXTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00302",
+    "Descripcion_UI": "Sin cilindro",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00303",
+    "Descripcion_UI": "Cilindro fijo",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00304",
+    "Descripcion_UI": "Cilindro móvil",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00305",
+    "Descripcion_UI": "Cilindro simple",
+    "Tipo_Parametro": "MECANISMO DE CERROJO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00306",
+    "Descripcion_UI": "Cilindro gancho",
+    "Tipo_Parametro": "MECANISMO DE CERROJO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00307",
+    "Descripcion_UI": "Cilindro para puerta s/maría",
+    "Tipo_Parametro": "MECANISMO DE CERROJO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00308",
+    "Descripcion_UI": "Cilindro antipánico vertical",
+    "Tipo_Parametro": "MECANISMO DE CERROJO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00309",
+    "Descripcion_UI": "Cilindro antipánico horizontal",
+    "Tipo_Parametro": "MECANISMO DE CERROJO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00310",
+    "Descripcion_UI": "Sin pestillo",
+    "Tipo_Parametro": "CIERRE PESTILLO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00311",
+    "Descripcion_UI": "Pestillo simple",
+    "Tipo_Parametro": "CIERRE PESTILLO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00312",
+    "Descripcion_UI": "Pestillo de seguridad",
+    "Tipo_Parametro": "CIERRE PESTILLO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00313",
+    "Descripcion_UI": "Pestillo para puerta s/maría",
+    "Tipo_Parametro": "CIERRE PESTILLO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00314",
+    "Descripcion_UI": "Pestillo antipánico vertical",
+    "Tipo_Parametro": "CIERRE PESTILLO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00315",
+    "Descripcion_UI": "Pestillo antipánico horizontal",
+    "Tipo_Parametro": "CIERRE PESTILLO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00316",
+    "Descripcion_UI": "Libre",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00317",
+    "Descripcion_UI": "Libre-botón",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00318",
+    "Descripcion_UI": "Llave-libre",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00319",
+    "Descripcion_UI": "Llave-botón",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00320",
+    "Descripcion_UI": "Llave-llave",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00321",
+    "Descripcion_UI": "Fija-libre",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00322",
+    "Descripcion_UI": "Ciego-libre",
+    "Tipo_Parametro": "FUNCIONAMIENTO EXTERIOR-INTERIOR",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00323",
+    "Descripcion_UI": "16 mm",
+    "Tipo_Parametro": "DIMENSION",
+    "Num_Min": 16.0,
+    "Num_Max": 16.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00324",
+    "Descripcion_UI": "25 mm",
+    "Tipo_Parametro": "DIMENSION",
+    "Num_Min": 25.0,
+    "Num_Max": 25.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00325",
+    "Descripcion_UI": "30-35 mm",
+    "Tipo_Parametro": "DIMENSION",
+    "Num_Min": 30.0,
+    "Num_Max": 35.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00326",
+    "Descripcion_UI": "45 mm",
+    "Tipo_Parametro": "DIMENSION",
+    "Num_Min": 45.0,
+    "Num_Max": 45.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00327",
+    "Descripcion_UI": "60 mm",
+    "Tipo_Parametro": "DIMENSION",
+    "Num_Min": 60.0,
+    "Num_Max": 60.0,
+    "Unidad": "mm"
+  },
+  {
+    "Id_Valor": "VAL_00328",
+    "Descripcion_UI": "Accesorios",
+    "Tipo_Parametro": "SUB-CAPITULO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00329",
+    "Descripcion_UI": "Cierra-puerta",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00330",
+    "Descripcion_UI": "Pasadores",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00331",
+    "Descripcion_UI": "Placas de empuje",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00332",
+    "Descripcion_UI": "Tope",
+    "Tipo_Parametro": "ELEMENTO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00333",
+    "Descripcion_UI": "Sobrepuesto",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00334",
+    "Descripcion_UI": "Embutido",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00335",
+    "Descripcion_UI": "Bisagra",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00336",
+    "Descripcion_UI": "Embutido en",
+    "Tipo_Parametro": "TIPO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00337",
+    "Descripcion_UI": "Rectangular",
+    "Tipo_Parametro": "FORMA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00338",
+    "Descripcion_UI": "Barril",
+    "Tipo_Parametro": "FORMA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00339",
+    "Descripcion_UI": "\"T\" invertida",
+    "Tipo_Parametro": "FORMA",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00340",
+    "Descripcion_UI": "Menor de 10 cm",
+    "Tipo_Parametro": "ANCHO-CP",
+    "Num_Min": null,
+    "Num_Max": 10.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00341",
+    "Descripcion_UI": "Entre 10 - 20 cm",
+    "Tipo_Parametro": "ANCHO-CP",
+    "Num_Min": 10.0,
+    "Num_Max": 20.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00342",
+    "Descripcion_UI": "Entre 20 - 30 cm",
+    "Tipo_Parametro": "ANCHO-CP",
+    "Num_Min": 20.0,
+    "Num_Max": 30.0,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00343",
+    "Descripcion_UI": "Mayor de 30 cm",
+    "Tipo_Parametro": "ANCHO-CP",
+    "Num_Min": 30.0,
+    "Num_Max": null,
+    "Unidad": "cm"
+  },
+  {
+    "Id_Valor": "VAL_00344",
+    "Descripcion_UI": "Con retén",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  },
+  {
+    "Id_Valor": "VAL_00345",
+    "Descripcion_UI": "Sin retén",
+    "Tipo_Parametro": "MECANISMO",
+    "Num_Min": null,
+    "Num_Max": null,
+    "Unidad": null
+  }
+]

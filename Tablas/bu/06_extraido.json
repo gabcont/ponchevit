@@ -1,0 +1,643 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 417,
+        "y_fin": 564,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1823,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 417,
+        "y_fin": 564,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "SUB-CAPITULO"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1823,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Impermeabilización",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 564,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACTIVIDAD"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1353,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "Juntas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1822,
+        "imagen": "columna_02/fila_02.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Cubrejuntas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 564,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "UN."
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1353,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1822,
+        "imagen": "columna_03/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 564,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "TIPOS"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 564,
+        "y_fin": 1353,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Construcción o de vaciado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Dilatación",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Sísmica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1821,
+        "imagen": "columna_04/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "000000",
+              "descripcion": "Sin Especificar",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 416,
+        "y_fin": 563,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "FORMAS"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 563,
+        "y_fin": 1353,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Horizontales",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Verticales",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1353,
+        "y_fin": 1821,
+        "imagen": "columna_05/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 462,
+        "y_fin": 562,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "SELLADOR"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 562,
+        "y_fin": 1352,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Moldeables en obra",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Preformados",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1352,
+        "y_fin": 1819,
+        "imagen": "columna_06/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 461,
+        "y_fin": 561,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "NATURALEZA"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 561,
+        "y_fin": 1350,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Base asfáltica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Base acrílica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Caucho butílico",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "Caucho polisulfurado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "Caucho siliconado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "Epóxica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "Resina elastomérica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1350,
+        "y_fin": 1817,
+        "imagen": "columna_07/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 412,
+        "y_fin": 560,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "APLICACION"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 560,
+        "y_fin": 1348,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "En frío",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "En caliente",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1348,
+        "y_fin": 1815,
+        "imagen": "columna_08/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 9,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 410,
+        "y_fin": 559,
+        "imagen": "columna_09_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ESPESOR"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 559,
+        "y_fin": 1347,
+        "imagen": "columna_09/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "1 cm",
+              "med_min": 1.0,
+              "med_max": 1.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "2 cm",
+              "med_min": 2.0,
+              "med_max": 2.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "3 cm",
+              "med_min": 3.0,
+              "med_max": 3.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "4",
+              "descripcion": "4 cm",
+              "med_min": 4.0,
+              "med_max": 4.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "5",
+              "descripcion": "5 cm",
+              "med_min": 5.0,
+              "med_max": 5.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "6",
+              "descripcion": "7 cm",
+              "med_min": 7.0,
+              "med_max": 7.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "7",
+              "descripcion": "10 cm",
+              "med_min": 10.0,
+              "med_max": 10.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "8",
+              "descripcion": "10-20 cm",
+              "med_min": 10.0,
+              "med_max": 20.0,
+              "un_medida": "cm"
+            },
+            {
+              "codigo_aporte": "9",
+              "descripcion": "20-50 cm",
+              "med_min": 20.0,
+              "med_max": 50.0,
+              "un_medida": "cm"
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1347,
+        "y_fin": 1814,
+        "imagen": "columna_09/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  }
+]

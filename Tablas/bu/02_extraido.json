@@ -1,0 +1,564 @@
+[
+  {
+    "columna": 0,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 334,
+        "y_fin": 486,
+        "imagen": "columna_00_cabecera.png",
+        "adyacentes_izquierda": []
+      },
+      {
+        "celda": 1,
+        "y_inicio": 486,
+        "y_fin": 2059,
+        "imagen": "columna_00/fila_01.png",
+        "adyacentes_izquierda": []
+      }
+    ]
+  },
+  {
+    "columna": 1,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 334,
+        "y_fin": 486,
+        "imagen": "columna_01_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "FASE"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 486,
+        "y_fin": 2059,
+        "imagen": "columna_01/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Albañilería",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 2,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 334,
+        "y_fin": 486,
+        "imagen": "columna_02_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACTIVIDAD"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 486,
+        "y_fin": 2058,
+        "imagen": "columna_02/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Revestimiento de paredes",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "3",
+              "descripcion": "Revestimiento de techos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 3,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 333,
+        "y_fin": 486,
+        "imagen": "columna_03_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "UN."
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 486,
+        "y_fin": 1717,
+        "imagen": "columna_03/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m2",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": "m2"
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1717,
+        "y_fin": 2058,
+        "imagen": "columna_03/fila_02.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": null,
+              "descripcion": "m",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 4,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 333,
+        "y_fin": 486,
+        "imagen": "columna_04_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "UBICACION"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 486,
+        "y_fin": 1716,
+        "imagen": "columna_04/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "1",
+              "descripcion": "Interior",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "2",
+              "descripcion": "Exterior",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1716,
+        "y_fin": 2057,
+        "imagen": "columna_04/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 5,
+    "num_celdas": 3,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 332,
+        "y_fin": 485,
+        "imagen": "columna_05_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "MATERIALES"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 485,
+        "y_fin": 1715,
+        "imagen": "columna_05/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "01",
+              "descripcion": "Mortero de cemento",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "02",
+              "descripcion": "Mortero de cal",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "03",
+              "descripcion": "Mortero hidrófugo",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "04",
+              "descripcion": "Mortero de yeso",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "05",
+              "descripcion": "Porcelana blanca de 11 x 11",
+              "med_min": 11.0,
+              "med_max": 11.0,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "06",
+              "descripcion": "Porcelana de color de 11 x 11",
+              "med_min": 11.0,
+              "med_max": 11.0,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "07",
+              "descripcion": "Porcelana decorada",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "08",
+              "descripcion": "Baldosas traslúcidas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "09",
+              "descripcion": "Mosaicos",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "10",
+              "descripcion": "Cerámica Nacional",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "11",
+              "descripcion": "Cerámica Importada",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "12",
+              "descripcion": "Mortero vitrificado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "13",
+              "descripcion": "Mármol nacional",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "14",
+              "descripcion": "Mármol importado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "15",
+              "descripcion": "Lajas de piedra",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "16",
+              "descripcion": "Cantos rodados",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "17",
+              "descripcion": "Baldosas de arcilla",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "18",
+              "descripcion": "Tejas criollas",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      },
+      {
+        "celda": 2,
+        "y_inicio": 1715,
+        "y_fin": 2056,
+        "imagen": "columna_05/fila_02.png",
+        "adyacentes_izquierda": [
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "19",
+              "descripcion": "Rodapie de vinyl",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "20",
+              "descripcion": "Rodapie de granito gris",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "21",
+              "descripcion": "Rodapie de granito blanco",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "22",
+              "descripcion": "Rodapie de ceramica",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 6,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 331,
+        "y_fin": 483,
+        "imagen": "columna_06_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": false,
+          "nombre_columna": "ACABADOS"
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 483,
+        "y_fin": 2056,
+        "imagen": "columna_06/fila_01.png",
+        "adyacentes_izquierda": [
+          1,
+          2
+        ],
+        "datos_ia": {
+          "es_puente_vacio": false,
+          "valores": [
+            {
+              "codigo_aporte": "001",
+              "descripcion": "Rústico",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "003",
+              "descripcion": "Liso",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "004",
+              "descripcion": "Salpicado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "007",
+              "descripcion": "Natural",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            },
+            {
+              "codigo_aporte": "008",
+              "descripcion": "Rayado",
+              "med_min": null,
+              "med_max": null,
+              "un_medida": null
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "columna": 7,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 330,
+        "y_fin": 482,
+        "imagen": "columna_07_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": true,
+          "nombre_columna": null
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 482,
+        "y_fin": 2055,
+        "imagen": "columna_07/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  },
+  {
+    "columna": 8,
+    "num_celdas": 2,
+    "celdas": [
+      {
+        "celda": 0,
+        "y_inicio": 329,
+        "y_fin": 482,
+        "imagen": "columna_08_cabecera.png",
+        "adyacentes_izquierda": [
+          0
+        ],
+        "datos_ia": {
+          "es_vacia": true,
+          "nombre_columna": null
+        }
+      },
+      {
+        "celda": 1,
+        "y_inicio": 482,
+        "y_fin": 2054,
+        "imagen": "columna_08/fila_01.png",
+        "adyacentes_izquierda": [
+          1
+        ],
+        "datos_ia": {
+          "es_puente_vacio": true,
+          "valores": []
+        }
+      }
+    ]
+  }
+]
