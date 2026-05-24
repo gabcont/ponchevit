@@ -13,6 +13,7 @@ DIR_LISTADO = "./listado"
 # Generadores de IDs globales para unificar múltiples archivos
 contador_valores = 1
 contador_conexiones = 1
+contador_columnas = 1
 
 def generar_id_valor():
     global contador_valores
@@ -26,6 +27,12 @@ def generar_id_conexion():
     contador_conexiones += 1
     return id_conn
 
+def generar_id_columna():
+    global contador_columnas
+    id_col = f"COL_{contador_columnas:03d}"
+    contador_columnas += 1
+    return id_col
+
 # ==========================================
 # 2. ENSAMBLAJE MASIVO DEL GRAFO
 # ==========================================
@@ -36,18 +43,38 @@ def procesar_archivos_entrada():
     archivos = glob.glob(os.path.join(DIR_ENTRADA, "*.json"))
     if not archivos:
         print(f"Error: No hay archivos JSON en '{DIR_ENTRADA}'")
-        return None, None
+        return None, None, None
 
     tabla_valores = {}
     tabla_conexiones = []
+    tabla_columnas = {}
     
+    def obtener_id_columna(nombre):
+        if not nombre:
+            nombre = "DESCONOCIDO"
+        nombre_norm = str(nombre).strip().upper()
+        if nombre_norm == "MATERIALES":
+            nombre_norm = "MATERIAL"
+            
+        if nombre_norm == "UN":
+            nombre_norm = "UN."
+
+        if nombre_norm not in tabla_columnas:
+            tabla_columnas[nombre_norm] = {
+                "Id_Columna": generar_id_columna(),
+                "Nombre": nombre_norm
+            }
+        return tabla_columnas[nombre_norm]["Id_Columna"]
+
+    id_columna_raiz = obtener_id_columna("CAPITULO")
+
     # Creamos un único nodo raíz para todo el proyecto E4
     id_conexion_raiz_global = generar_id_conexion()
     tabla_conexiones.append({
         "Id_Conexion": id_conexion_raiz_global,
         "Parent_Id": None,
         "Codigo_Aportado": "E4",
-        "Columna_Tipo": "CAPITULO",
+        "Id_Columna": id_columna_raiz,
         "Id_Valor_Asociado": None
     })
 
@@ -69,6 +96,7 @@ def procesar_archivos_entrada():
             celda_cabecera = next((c for c in columna['celdas'] if c['celda'] == 0), None)
             if not celda_cabecera or not celda_cabecera.get('datos_ia'): continue
             nombre_columna = celda_cabecera['datos_ia'].get('nombre_columna', "DESCONOCIDO")
+            id_columna_actual = obtener_id_columna(nombre_columna)
 
             for celda in columna['celdas']:
                 id_celda = celda['celda']
@@ -99,12 +127,12 @@ def procesar_archivos_entrada():
                     # legítimo para rellenar los vacantes y llegar a 10 dígitos. 
                     # No debemos ignorar los ceros.
                     
-                    firma_valor = f"{val.get('descripcion')}|{val.get('med_min')}|{val.get('un_medida')}"
+                    firma_valor = f"{val.get('descripcion')}|{val.get('med_min')}|{val.get('un_medida')}|{id_columna_actual}"
                     if firma_valor not in tabla_valores:
                         tabla_valores[firma_valor] = {
                             "Id_Valor": generar_id_valor(),
                             "Descripcion_UI": val.get('descripcion'),
-                            "Tipo_Parametro": nombre_columna,
+                            "Id_Columna": id_columna_actual,
                             "Num_Min": val.get('med_min'),
                             "Num_Max": val.get('med_max'),
                             "Unidad": val.get('un_medida')
@@ -124,7 +152,7 @@ def procesar_archivos_entrada():
                             "Id_Conexion": id_nueva_conexion,
                             "Parent_Id": padre['id_conexion_padre'],
                             "Codigo_Aportado": codigo_aporte,
-                            "Columna_Tipo": nombre_columna,
+                            "Id_Columna": id_columna_actual,
                             "Id_Valor_Asociado": id_valor_asignado
                         })
                         
@@ -136,7 +164,8 @@ def procesar_archivos_entrada():
                 mapa_rastreo[(id_columna, id_celda)] = nuevas_conexiones_activas
 
     lista_valores_final = list(tabla_valores.values())
-    return lista_valores_final, tabla_conexiones
+    lista_columnas_final = list(tabla_columnas.values())
+    return lista_valores_final, tabla_conexiones, lista_columnas_final
 
 # ==========================================
 # 3. ALGORITMO DFS Y VALIDACIÓN
@@ -229,14 +258,16 @@ if __name__ == "__main__":
     os.makedirs(DIR_SALIDA, exist_ok=True)
     
     print("1. Extrayendo e integrando datos...")
-    valores, conexiones = procesar_archivos_entrada()
+    valores, conexiones, columnas = procesar_archivos_entrada()
     
-    if valores and conexiones:
+    if valores and conexiones and columnas:
         # Exportar BD a JSON
         with open(os.path.join(DIR_SALIDA, 'tabla_valores.json'), 'w', encoding='utf-8') as f:
             json.dump(valores, f, indent=2, ensure_ascii=False)
         with open(os.path.join(DIR_SALIDA, 'tabla_conexiones.json'), 'w', encoding='utf-8') as f:
             json.dump(conexiones, f, indent=2, ensure_ascii=False)
+        with open(os.path.join(DIR_SALIDA, 'tabla_columnas.json'), 'w', encoding='utf-8') as f:
+            json.dump(columnas, f, indent=2, ensure_ascii=False)
         print("-> Tablas de base de datos exportadas a JSON.")
 
         print("2. Generando Permutaciones Matemáticas (Grafo DFS)...")

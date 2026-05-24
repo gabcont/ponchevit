@@ -1,0 +1,182 @@
+[
+  {
+    "Id_Columna": "COL_001",
+    "Nombre": "CAPITULO"
+  },
+  {
+    "Id_Columna": "COL_002",
+    "Nombre": "SUB-CAPITULO"
+  },
+  {
+    "Id_Columna": "COL_003",
+    "Nombre": "ACTIVIDAD"
+  },
+  {
+    "Id_Columna": "COL_004",
+    "Nombre": "UN."
+  },
+  {
+    "Id_Columna": "COL_005",
+    "Nombre": "MATERIAL"
+  },
+  {
+    "Id_Columna": "COL_006",
+    "Nombre": "ACABADO"
+  },
+  {
+    "Id_Columna": "COL_007",
+    "Nombre": "DÍGITOS VACANTES"
+  },
+  {
+    "Id_Columna": "COL_008",
+    "Nombre": "Nº HUECOS"
+  },
+  {
+    "Id_Columna": "COL_009",
+    "Nombre": "ESPESOR"
+  },
+  {
+    "Id_Columna": "COL_010",
+    "Nombre": "FASE"
+  },
+  {
+    "Id_Columna": "COL_011",
+    "Nombre": "UBICACION"
+  },
+  {
+    "Id_Columna": "COL_012",
+    "Nombre": "ACABADOS"
+  },
+  {
+    "Id_Columna": "COL_013",
+    "Nombre": "DESCONOCIDO"
+  },
+  {
+    "Id_Columna": "COL_014",
+    "Nombre": "JUNTAS-FLEJES"
+  },
+  {
+    "Id_Columna": "COL_015",
+    "Nombre": "CEMENTANTE"
+  },
+  {
+    "Id_Columna": "COL_016",
+    "Nombre": "REFUERZO"
+  },
+  {
+    "Id_Columna": "COL_017",
+    "Nombre": "ESPESOR REFUERZO"
+  },
+  {
+    "Id_Columna": "COL_018",
+    "Nombre": "Nº DE VELOS"
+  },
+  {
+    "Id_Columna": "COL_019",
+    "Nombre": "TIPOS"
+  },
+  {
+    "Id_Columna": "COL_020",
+    "Nombre": "FORMAS"
+  },
+  {
+    "Id_Columna": "COL_021",
+    "Nombre": "SELLADOR"
+  },
+  {
+    "Id_Columna": "COL_022",
+    "Nombre": "NATURALEZA"
+  },
+  {
+    "Id_Columna": "COL_023",
+    "Nombre": "APLICACION"
+  },
+  {
+    "Id_Columna": "COL_024",
+    "Nombre": "ELEMENTO"
+  },
+  {
+    "Id_Columna": "COL_025",
+    "Nombre": "MECANISMO"
+  },
+  {
+    "Id_Columna": "COL_026",
+    "Nombre": "COMPOSICION"
+  },
+  {
+    "Id_Columna": "COL_027",
+    "Nombre": "PAÑO"
+  },
+  {
+    "Id_Columna": "COL_028",
+    "Nombre": "(DÍGITOS VACANTES)"
+  },
+  {
+    "Id_Columna": "COL_029",
+    "Nombre": "ESPESOR-PARED"
+  },
+  {
+    "Id_Columna": "COL_030",
+    "Nombre": "TIPO DE MADERA"
+  },
+  {
+    "Id_Columna": "COL_031",
+    "Nombre": "ESPESOR PAREDES/UBICACION"
+  },
+  {
+    "Id_Columna": "COL_032",
+    "Nombre": "TIPO"
+  },
+  {
+    "Id_Columna": "COL_033",
+    "Nombre": "ACABADO EN BORDES"
+  },
+  {
+    "Id_Columna": "COL_034",
+    "Nombre": "VISIBILIDAD"
+  },
+  {
+    "Id_Columna": "COL_035",
+    "Nombre": "COLOR"
+  },
+  {
+    "Id_Columna": "COL_036",
+    "Nombre": "SUPERFICIE"
+  },
+  {
+    "Id_Columna": "COL_037",
+    "Nombre": "CLASE"
+  },
+  {
+    "Id_Columna": "COL_038",
+    "Nombre": "ACABADO EXTERIOR"
+  },
+  {
+    "Id_Columna": "COL_039",
+    "Nombre": "MECANISMO DE CERROJO"
+  },
+  {
+    "Id_Columna": "COL_040",
+    "Nombre": "CIERRE PESTILLO"
+  },
+  {
+    "Id_Columna": "COL_041",
+    "Nombre": "FUNCIONAMIENTO EXTERIOR-INTERIOR"
+  },
+  {
+    "Id_Columna": "COL_042",
+    "Nombre": "DIMENSION"
+  },
+  {
+    "Id_Columna": "COL_043",
+    "Nombre": "FORMA"
+  },
+  {
+    "Id_Columna": "COL_044",
+    "Nombre": "ANCHO-CP"
+  },
+  {
+    "Id_Columna": "COL_045",
+    "Nombre": "ANCHO-PUERTA"
+  }
+]
