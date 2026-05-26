@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Ponchevit</Name>
+		<FullClassName>Ponchevit.App</FullClassName>
+		<Text>Ponchevit</Text>
+		<Description>Complemento para implementar normativa Covenin de partidas de construcción</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\Windows 11\AppData\Roaming\Autodesk\Revit\Addins\2026\Ponchevit.dll</Assembly>
+		<AddInId>1bfbb086-06af-4ddf-b84b-99d3fad0366f</AddInId>
+		<VendorId>USM</VendorId>
+		<VendorDescription>Universidad Santa María</VendorDescription>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,12 @@
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\bin\Debug\net8.0\Ponchevit.deps.json
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\bin\Debug\net8.0\Ponchevit.dll
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\bin\Debug\net8.0\Ponchevit.pdb
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.csproj.AssemblyReference.cache
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.dll
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\refint\Ponchevit.dll
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.pdb
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\ref\Ponchevit.dll
