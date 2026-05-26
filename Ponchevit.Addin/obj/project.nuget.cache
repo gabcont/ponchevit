@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c95mauGz7/o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Addin\\Ponchevit.Addin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Pernia\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512",
+    "C:\\Users\\Miguel Pernia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Pernia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Miguel Pernia\\.nuget\\packages\\nice3point.revit.sdk\\6.2.2\\nice3point.revit.sdk.6.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

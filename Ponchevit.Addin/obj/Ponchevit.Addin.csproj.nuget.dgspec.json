@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Addin\\Ponchevit.Addin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Addin\\Ponchevit.Addin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Addin\\Ponchevit.Addin.csproj",
+        "projectName": "Ponchevit.Addin",
+        "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Addin\\Ponchevit.Addin.csproj",
+        "packagesPath": "C:\\Users\\Miguel Pernia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Addin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Miguel Pernia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj": {
+                "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj"
+              },
+              "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Data\\Ponchevit.Data.csproj": {
+                "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Data\\Ponchevit.Data.csproj"
+              },
+              "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Presentation\\Ponchevit.Presentation.csproj": {
+                "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Presentation\\Ponchevit.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Nice3point.Revit.Sdk": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj",
+        "projectName": "Ponchevit.Core",
+        "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj",
+        "packagesPath": "C:\\Users\\Miguel Pernia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Miguel Pernia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Nice3point.Revit.Sdk": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Data\\Ponchevit.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Data\\Ponchevit.Data.csproj",
+        "projectName": "Ponchevit.Data",
+        "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Data\\Ponchevit.Data.csproj",
+        "packagesPath": "C:\\Users\\Miguel Pernia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Miguel Pernia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Presentation\\Ponchevit.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Presentation\\Ponchevit.Presentation.csproj",
+        "projectName": "Ponchevit.Presentation",
+        "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Presentation\\Ponchevit.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Miguel Pernia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Miguel Pernia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj": {
+                "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

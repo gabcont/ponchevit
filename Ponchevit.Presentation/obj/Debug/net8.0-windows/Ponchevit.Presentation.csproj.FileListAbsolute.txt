@@ -1,0 +1,15 @@
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\bin\Debug\net8.0-windows\Ponchevit.Presentation.deps.json
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\bin\Debug\net8.0-windows\Ponchevit.Presentation.dll
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\bin\Debug\net8.0-windows\Ponchevit.Presentation.pdb
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\bin\Debug\net8.0-windows\Ponchevit.Core.dll
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\bin\Debug\net8.0-windows\Ponchevit.Core.pdb
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.csproj.AssemblyReference.cache
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.AssemblyInfoInputs.cache
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.AssemblyInfo.cs
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevi.F13A3917.Up2Date
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.dll
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\refint\Ponchevit.Presentation.dll
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\Ponchevit.Presentation.pdb
+C:\Users\Miguel Pernia\ponchevit\Ponchevit.Presentation\obj\Debug\net8.0-windows\ref\Ponchevit.Presentation.dll

@@ -1,0 +1,4 @@
+C:\Users\Miguel Pernia\Ponchevit\Ponchevit.Core\obj\Debug\net8.0\Ponchevit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Pernia\Ponchevit\Ponchevit.Core\obj\Debug\net8.0\Ponchevit.Core.AssemblyInfoInputs.cache
+C:\Users\Miguel Pernia\Ponchevit\Ponchevit.Core\obj\Debug\net8.0\Ponchevit.Core.AssemblyInfo.cs
+C:\Users\Miguel Pernia\Ponchevit\Ponchevit.Core\obj\Debug\net8.0\Ponchevit.Core.csproj.CoreCompileInputs.cache

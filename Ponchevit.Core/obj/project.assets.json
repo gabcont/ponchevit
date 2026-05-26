@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Nice3point.Revit.Sdk/6.2.2": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Nice3point.Revit.Sdk/6.2.2": {
+      "sha512": "Li3UQ4yET0ypHScGXcLnIfzJWJ2DCFBygK2HwOtuVAtPn/ztkd5Sj3RgQskVu+AHv4fk6KCl8HSafM6u85pfyA==",
+      "type": "package",
+      "path": "nice3point.revit.sdk/6.2.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.md",
+        "Readme.md",
+        "Sdk/Nice3point.Revit.Common.props",
+        "Sdk/Nice3point.Revit.Common.targets",
+        "Sdk/Nice3point.Revit.GenerateCompatibleDefineConstants.targets",
+        "Sdk/Nice3point.Revit.ImplicitUsings.targets",
+        "Sdk/Nice3point.Revit.PatchManifest.targets",
+        "Sdk/Nice3point.Revit.Publish.targets",
+        "Sdk/Nice3point.Revit.Repack.targets",
+        "Sdk/Sdk.props",
+        "Sdk/Sdk.targets",
+        "images/PackageIcon.png",
+        "nice3point.revit.sdk.6.2.2.nupkg.sha512",
+        "nice3point.revit.sdk.nuspec",
+        "tasks/net10.0/Nice3point.Revit.Sdk.dll",
+        "tasks/net48/Nice3point.Revit.Sdk.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Nice3point.Revit.Sdk >= 6.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Miguel Pernia\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj",
+      "projectName": "Ponchevit.Core",
+      "projectPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\Ponchevit.Core.csproj",
+      "packagesPath": "C:\\Users\\Miguel Pernia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Miguel Pernia\\ponchevit\\Ponchevit.Core\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Miguel Pernia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "Nice3point.Revit.Sdk": {
+            "target": "Package",
+            "version": "[6.2.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

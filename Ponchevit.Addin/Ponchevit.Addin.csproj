@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ponchevit.Core\Ponchevit.Core.csproj" />
+    <ProjectReference Include="..\Ponchevit.Data\Ponchevit.Data.csproj" />
+    <ProjectReference Include="..\Ponchevit.Presentation\Ponchevit.Presentation.csproj" />
+  </ItemGroup>
+
+<PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CreateAddinManifest>true</CreateAddinManifest>
+    <AddinDestinationPath>$(AppData)\Autodesk\Revit\Addins\2026\</AddinDestinationPath>
+</PropertyGroup>
+
+<ItemGroup>
+    <PackageReference Include="Nice3point.Revit.Sdk" Version="6.2.2" />
+  <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+</ItemGroup>
+
+<ItemGroup>
+  <Reference Include="RevitAPI">
+    <HintPath>C:\Program Files\Autodesk\Revit 2026\RevitAPI.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+  <Reference Include="RevitAPIUI">
+    <HintPath>C:\Program Files\Autodesk\Revit 2026\RevitAPIUI.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+</ItemGroup>
+
+<ItemGroup>
+  <EmbeddedResource Include="Resources\*.xaml" />
+</ItemGroup>
+
+</Project>
