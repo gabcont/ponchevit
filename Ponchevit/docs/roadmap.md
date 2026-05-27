@@ -21,7 +21,7 @@ Exit criteria: `dotnet build Ponchevit.slnx` succeeds; add-in still loads in Rev
 
 Exit criteria: all Domain/Data tests green. No RevitAPI reference anywhere under `Domain/` or `Data/`.
 
-- [ ] 1.1 — Domain/Model: DAG types (Columna, Valor, Conexion) + flat catalog types (Capitulo, Subcapitulo, Seccion, Partida) + CodigoCovenin value type (parses e.g. E411011015 → Capítulo/Subcapítulo/Sección).
+- [x] 1.1 — Domain/Model: DAG types (Columna, Valor, Conexion) + flat catalog types (Capitulo, Subcapitulo, Seccion, Partida) + CodigoCovenin value type (2346b8d)
 - [ ] 1.2 — Domain/Graph/EmptyBridgeResolver — handles `Codigo_Aportado=""`, inherits Parent_Id.
 - [ ] 1.3 — Domain/Graph/CodeAssembler — root→leaf concat, 10-digit firewall, exposes ComputePrefix(connectionId).
 - [ ] 1.4 — Domain/Query/PrefixPathQuery — DAG-derived; no dependency on stored mask columns (which don't exist yet).
