@@ -1,0 +1,278 @@
+[
+  {
+    "id": "SUBCAP_001",
+    "capitulo_id": "CAP_001",
+    "codigo": "E01",
+    "titulo": "DESARROLLO DE PROYECTOS"
+  },
+  {
+    "id": "SUBCAP_002",
+    "capitulo_id": "CAP_002",
+    "codigo": "E11",
+    "titulo": "INSTALACIONES PROVISIONALES"
+  },
+  {
+    "id": "SUBCAP_003",
+    "capitulo_id": "CAP_002",
+    "codigo": "E12",
+    "titulo": "LIMPIEZA DEL TERRENO"
+  },
+  {
+    "id": "SUBCAP_004",
+    "capitulo_id": "CAP_002",
+    "codigo": "E13",
+    "titulo": "DEMOLICIONES"
+  },
+  {
+    "id": "SUBCAP_005",
+    "capitulo_id": "CAP_002",
+    "codigo": "E14",
+    "titulo": "REMOCIONES"
+  },
+  {
+    "id": "SUBCAP_006",
+    "capitulo_id": "CAP_003",
+    "codigo": "E21",
+    "titulo": "EXCAVACIONES."
+  },
+  {
+    "id": "SUBCAP_007",
+    "capitulo_id": "CAP_003",
+    "codigo": "E22",
+    "titulo": "CONSTRUCCION DE TERRAPLENES PARA TERRAZAS"
+  },
+  {
+    "id": "SUBCAP_008",
+    "capitulo_id": "CAP_003",
+    "codigo": "E23",
+    "titulo": "CONSTRUCCION DE RELLENO COMPACTADO CON PASO DE MAQUINA"
+  },
+  {
+    "id": "SUBCAP_009",
+    "capitulo_id": "CAP_003",
+    "codigo": "E24",
+    "titulo": "MUROS DE SUELO ARMADO."
+  },
+  {
+    "id": "SUBCAP_010",
+    "capitulo_id": "CAP_003",
+    "codigo": "E25",
+    "titulo": "MUROS DE GAVIONES"
+  },
+  {
+    "id": "SUBCAP_011",
+    "capitulo_id": "CAP_004",
+    "codigo": "E31",
+    "titulo": "OBRAS PREPARATORIAS PARA ESTRUCTURAS"
+  },
+  {
+    "id": "SUBCAP_012",
+    "capitulo_id": "CAP_004",
+    "codigo": "E32",
+    "titulo": "INFRAESTRUCTURA DE CONCRETO."
+  },
+  {
+    "id": "SUBCAP_013",
+    "capitulo_id": "CAP_004",
+    "codigo": "E33",
+    "titulo": "SUPERESTRUCTURA DE CONCRETO."
+  },
+  {
+    "id": "SUBCAP_014",
+    "capitulo_id": "CAP_004",
+    "codigo": "E34",
+    "titulo": "ENCOFRADOS"
+  },
+  {
+    "id": "SUBCAP_015",
+    "capitulo_id": "CAP_004",
+    "codigo": "E35",
+    "titulo": "ARMADURA DE REFUERZO"
+  },
+  {
+    "id": "SUBCAP_016",
+    "capitulo_id": "CAP_004",
+    "codigo": "E36",
+    "titulo": "ESTRUCTURAS METALICAS"
+  },
+  {
+    "id": "SUBCAP_017",
+    "capitulo_id": "CAP_004",
+    "codigo": "E37",
+    "titulo": "ESTRUCTURAS DE MADERA"
+  },
+  {
+    "id": "SUBCAP_018",
+    "capitulo_id": "CAP_004",
+    "codigo": "E39",
+    "titulo": "CUBIERTAS DE TECHO"
+  },
+  {
+    "id": "SUBCAP_019",
+    "capitulo_id": "CAP_005",
+    "codigo": "E41",
+    "titulo": "ALBAÑILERIA."
+  },
+  {
+    "id": "SUBCAP_020",
+    "capitulo_id": "CAP_005",
+    "codigo": "E42",
+    "titulo": "IMPERMEABILIZACION."
+  },
+  {
+    "id": "SUBCAP_021",
+    "capitulo_id": "CAP_005",
+    "codigo": "E43",
+    "titulo": "HERRERIA"
+  },
+  {
+    "id": "SUBCAP_022",
+    "capitulo_id": "CAP_005",
+    "codigo": "E44",
+    "titulo": "CARPINTERIA"
+  },
+  {
+    "id": "SUBCAP_023",
+    "capitulo_id": "CAP_005",
+    "codigo": "E45",
+    "titulo": "VIDRIOS, PLASTICOS Y SIMILARES"
+  },
+  {
+    "id": "SUBCAP_024",
+    "capitulo_id": "CAP_005",
+    "codigo": "E46",
+    "titulo": "ACABADOS CON PINTURAS"
+  },
+  {
+    "id": "SUBCAP_025",
+    "capitulo_id": "CAP_005",
+    "codigo": "E47",
+    "titulo": "CERRAJERIA"
+  },
+  {
+    "id": "SUBCAP_026",
+    "capitulo_id": "CAP_005",
+    "codigo": "E49",
+    "titulo": "ACCESORIOS PARA PUERTAS Y VENTANAS"
+  },
+  {
+    "id": "SUBCAP_027",
+    "capitulo_id": "CAP_006",
+    "codigo": "E51",
+    "titulo": "TUBERIAS."
+  },
+  {
+    "id": "SUBCAP_028",
+    "capitulo_id": "CAP_006",
+    "codigo": "E52",
+    "titulo": "CABLES"
+  },
+  {
+    "id": "SUBCAP_029",
+    "capitulo_id": "CAP_006",
+    "codigo": "E53",
+    "titulo": "CAJAS DE CONEXION"
+  },
+  {
+    "id": "SUBCAP_030",
+    "capitulo_id": "CAP_006",
+    "codigo": "E54",
+    "titulo": "TOMAS Y CONTROLES"
+  },
+  {
+    "id": "SUBCAP_031",
+    "capitulo_id": "CAP_006",
+    "codigo": "E55",
+    "titulo": "TABLERO PARA ELECTRICIDAD"
+  },
+  {
+    "id": "SUBCAP_032",
+    "capitulo_id": "CAP_006",
+    "codigo": "E56",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS"
+  },
+  {
+    "id": "SUBCAP_033",
+    "capitulo_id": "CAP_006",
+    "codigo": "E57",
+    "titulo": "TRANSFORMADORES."
+  },
+  {
+    "id": "SUBCAP_034",
+    "capitulo_id": "CAP_006",
+    "codigo": "E58",
+    "titulo": "LUMINARIAS"
+  },
+  {
+    "id": "SUBCAP_035",
+    "capitulo_id": "CAP_006",
+    "codigo": "E59",
+    "titulo": "VARIOS"
+  },
+  {
+    "id": "SUBCAP_036",
+    "capitulo_id": "CAP_007",
+    "codigo": "E61",
+    "titulo": "TUBERIAS"
+  },
+  {
+    "id": "SUBCAP_037",
+    "capitulo_id": "CAP_007",
+    "codigo": "E62",
+    "titulo": "PUNTOS SANITARIOS"
+  },
+  {
+    "id": "SUBCAP_038",
+    "capitulo_id": "CAP_007",
+    "codigo": "E63",
+    "titulo": "LLAVES DE PASO."
+  },
+  {
+    "id": "SUBCAP_039",
+    "capitulo_id": "CAP_007",
+    "codigo": "E64",
+    "titulo": "VALVULAS"
+  },
+  {
+    "id": "SUBCAP_040",
+    "capitulo_id": "CAP_007",
+    "codigo": "E65",
+    "titulo": "GRIFOS, GRUPOS MEZCLADORES PARA DUCHAS Y BANERAS, DUCHAS TELE - FONO."
+  },
+  {
+    "id": "SUBCAP_041",
+    "capitulo_id": "CAP_007",
+    "codigo": "E66",
+    "titulo": "ARTEFACTOS SANITARIOS"
+  },
+  {
+    "id": "SUBCAP_042",
+    "capitulo_id": "CAP_009",
+    "codigo": "E801",
+    "titulo": "BASES Y SUB-BASES"
+  },
+  {
+    "id": "SUBCAP_043",
+    "capitulo_id": "CAP_009",
+    "codigo": "E802",
+    "titulo": "OBRAS DE CONCRETO"
+  },
+  {
+    "id": "SUBCAP_044",
+    "capitulo_id": "CAP_009",
+    "codigo": "E803",
+    "titulo": "PAVIMENTOS ASFALTICOS."
+  },
+  {
+    "id": "SUBCAP_045",
+    "capitulo_id": "CAP_009",
+    "codigo": "E804",
+    "titulo": "BOCAS DE VISITA PREFABRICADAS"
+  },
+  {
+    "id": "SUBCAP_046",
+    "capitulo_id": "CAP_009",
+    "codigo": "E812",
+    "titulo": "DISPOSICION FINAL DE AGUAS RESIDUALES"
+  }
+]

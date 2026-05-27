@@ -1,0 +1,52 @@
+[
+  {
+    "id": "CAP_001",
+    "codigo": "E0",
+    "titulo": "ESTUDIOS Y PROYECTOS"
+  },
+  {
+    "id": "CAP_002",
+    "codigo": "E1",
+    "titulo": "OBRAS PRELIMINARES"
+  },
+  {
+    "id": "CAP_003",
+    "codigo": "E2",
+    "titulo": "MOVIMIENTO DE TIERRA Y URBANISMO"
+  },
+  {
+    "id": "CAP_004",
+    "codigo": "E3",
+    "titulo": "ESTRUCTURAS"
+  },
+  {
+    "id": "CAP_005",
+    "codigo": "E4",
+    "titulo": "OBRAS ARQUITECTONICAS"
+  },
+  {
+    "id": "CAP_006",
+    "codigo": "E5",
+    "titulo": "INSTALACIONES ELECTRICAS"
+  },
+  {
+    "id": "CAP_007",
+    "codigo": "E6",
+    "titulo": "INSTALACIONES SANITARIAS Y ESPECIALES"
+  },
+  {
+    "id": "CAP_008",
+    "codigo": "E7",
+    "titulo": "INSTALACIONES ELECTROMECANICAS"
+  },
+  {
+    "id": "CAP_009",
+    "codigo": "E8",
+    "titulo": "OBRAS DE SERVICIO Y VARIOS"
+  },
+  {
+    "id": "CAP_010",
+    "codigo": "E9",
+    "titulo": "TRANSPORTES."
+  }
+]

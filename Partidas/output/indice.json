@@ -1,0 +1,1232 @@
+[
+  {
+    "tipo": "capitulo",
+    "codigo": "E0",
+    "titulo": "ESTUDIOS Y PROYECTOS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E01",
+    "titulo": "DESARROLLO DE PROYECTOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E0121",
+    "titulo": "LEVANTAMIENTO TOPOGRAFICO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E013",
+    "titulo": "ESTUDIOS GEOTECNICOS Y DE SUELOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01501",
+    "titulo": "PROYECTO DE ARQUITECTURA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01502",
+    "titulo": "PROYECTO DE ESTRUCTURA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01503",
+    "titulo": "PROYECTO DE INSTALACIONES SANITARIAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01504",
+    "titulo": "PROYECTO DE INSTALACIONES ELECTRICAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01505",
+    "titulo": "PROYECTO DE INSTALACIONES MECANICAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01506",
+    "titulo": "PROYECTO DE AREAS DE SERVICIO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E01507",
+    "titulo": "PROYECTOS ESPECIALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E015xxx5xx",
+    "titulo": "MODIFICACIONES EN UN PROYECTO PARA"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E1",
+    "titulo": "OBRAS PRELIMINARES"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E11",
+    "titulo": "INSTALACIONES PROVISIONALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E111",
+    "titulo": "CONSTRUCCIONES CONVENCIONALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E112",
+    "titulo": "CONSTRUCCIONES PREFABRICADAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E113",
+    "titulo": "CERCAS Y PORTONES"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E12",
+    "titulo": "LIMPIEZA DEL TERRENO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E121",
+    "titulo": "DEFORESTACION"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E122",
+    "titulo": "TALA DE VEGETACION HERBACEA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E123",
+    "titulo": "TALA Y DESRAIZAMIENTO DE ARBOLES INDIVIDUALES"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E13",
+    "titulo": "DEMOLICIONES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E131",
+    "titulo": "DEMOLICIONES DE CONSTRUCCIONES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E132",
+    "titulo": "DEMOLICIONES DE ELEMENTOS AISLADOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E133",
+    "titulo": "DEMOLICIONES DE PAVIMENTOS Y SIMILARES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E134",
+    "titulo": "CARGA DE MATERIAL PROCEDENTE DE LA DEMOLICION."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E14",
+    "titulo": "REMOCIONES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E141",
+    "titulo": "REMOCIONES DE ELEMENTOS METALICOS O COMBINADOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E142",
+    "titulo": "CARGA DE ELEMENTOS PROCEDENTES DE REMOCIONES"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E2",
+    "titulo": "MOVIMIENTO DE TIERRA Y URBANISMO"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E21",
+    "titulo": "EXCAVACIONES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E211",
+    "titulo": "BANQUEOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E213",
+    "titulo": "REMOCION DE LA CAPA VEGETAL O TIERRA DESECHABLE"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E212",
+    "titulo": "PRESTAMOS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E22",
+    "titulo": "CONSTRUCCION DE TERRAPLENES PARA TERRAZAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E23",
+    "titulo": "CONSTRUCCION DE RELLENO COMPACTADO CON PASO DE MAQUINA"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E24",
+    "titulo": "MUROS DE SUELO ARMADO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E242",
+    "titulo": "PANELES PREFABRICADOS DE CONCRETO ARMADO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E243",
+    "titulo": "CONEXIONES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E244",
+    "titulo": "TIRAS DE ANCLAJES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E245",
+    "titulo": "RELLENO COMPACTADO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E246",
+    "titulo": "CONCRETO PARA EL ASIENTO DE LOS PANE - LES PREFABRICADOS Y VIGAS DE CORONA - MIENTO DE LOS MUROS DE SUELO ARMADO"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E25",
+    "titulo": "MUROS DE GAVIONES"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E3",
+    "titulo": "ESTRUCTURAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E31",
+    "titulo": "OBRAS PREPARATORIAS PARA ESTRUCTURAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E311",
+    "titulo": "EXCAVACION EN CORTE PARA ASIENTO DE FUNDACIONES Y ZANJAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E312",
+    "titulo": "EXCAVACION EN PRESTAMO PARA RELLENO DE ZANJAS Y FUNDACIONES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E313",
+    "titulo": "CARGA DEL MATERIAL PROVENIENTE DE LAS EXCAVACIONES EN ZANJAS Y FUNDACIONES Y SITIOS DE PRESTAMOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E315",
+    "titulo": "ENTIBADO DE LAS PAREDES DE LA EXCAVACION"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E316",
+    "titulo": "ACHICAMIENTO DE LAS EXCAVACIONES PARA ESTRUCTURAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E317",
+    "titulo": "COMPACTACIONES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E318",
+    "titulo": "CONCRETO EN OBRAS PREPARATORIAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E319",
+    "titulo": "BASES GRANULARES EN OBRAS PREPARATORIAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E32",
+    "titulo": "INFRAESTRUCTURA DE CONCRETO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E321",
+    "titulo": "PILOTES, MUROS ESPECIALES Y OBRAS AFINES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E332101",
+    "titulo": "a E32110. PILOTES PREFABRICADOS DE CONCRETO ARMADO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32114",
+    "titulo": "a E3215. PILOTES HINCADOS Y VACIADOS EN SITIO, CON TUBO MOLDE RECUPERABLE Y BASE ENSANCHADA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32117",
+    "titulo": "a E32122. PILOTES PERFORADOS CON EX- TRACCION DE TIERRA, CON O SIN CAMISA DE PROTECCION."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32130",
+    "titulo": "a E32133. PILAS DE GRAN DIAMETRO Y MUROS COLADOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32143",
+    "titulo": "a E32149. TABLESTACAS, PERFILES Y TU - BOS METALICOS COMO PILOTES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32163",
+    "titulo": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32164",
+    "titulo": "PODA DE PILOTE"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E32165",
+    "titulo": "CORTE DE TABLESTACAS, PERFILES Y TU - BOS METALICOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E322",
+    "titulo": "CABEZALES DE PILOTES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E323",
+    "titulo": "BASES Y ESCALONES DE FUNDACIONES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E324",
+    "titulo": "PEDESTALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E325",
+    "titulo": "VIGAS DE RIOSTRAS, TIRANTES Y FUNDACIONES PARA PAREDES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E326",
+    "titulo": "LOSAS DE FUNDACION"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E327",
+    "titulo": "VIGAS DE FUNDACION"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E328",
+    "titulo": "BASES DE PAVIMENTO"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E33",
+    "titulo": "SUPERESTRUCTURA DE CONCRETO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E331",
+    "titulo": "COLUMNAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E332",
+    "titulo": "VIGAS Y MACIZADOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E333",
+    "titulo": "LOSAS, PLACAS Y PERGOLAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E334",
+    "titulo": "MACHONES, VIGAS DE CORONA Y APOYOS DE LOSAS, DINTELES Y ARRIOSTRAMIENTOS DE PAREDES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E335",
+    "titulo": "ESCALERAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E336",
+    "titulo": "GRADERIAS Y TRIBUNAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E337",
+    "titulo": "ELEMENTOS ARQUITECTONICOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E339",
+    "titulo": "MUROS ESTRUCTURALES"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E34",
+    "titulo": "ENCOFRADOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E341",
+    "titulo": "ENCOFRADOS EN INFRAESTRUCTURA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E342",
+    "titulo": "ENCOFRADOS EN SUPERESTRUCTURA"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E35",
+    "titulo": "ARMADURA DE REFUERZO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E351",
+    "titulo": "ARMADURA DE REFUERZO PARA INFRAESTRUCTURA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E352",
+    "titulo": "ARMADURA DE REFUERZO PARA SUPERESTRUCTURA"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E36",
+    "titulo": "ESTRUCTURAS METALICAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E361",
+    "titulo": "INFRAESTRUCTURA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E362",
+    "titulo": "SUPERESTRUCTURA"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E37",
+    "titulo": "ESTRUCTURAS DE MADERA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E371",
+    "titulo": "ESTRUCTURAS DE MADERA PARA INFRAESTRUCTURA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E372",
+    "titulo": "ESTRUCTURAS DE MADERA PARA SUPERESTRUCTURA"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E39",
+    "titulo": "CUBIERTAS DE TECHO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E391",
+    "titulo": "CUBIERTAS DE TECHO TIPO LAMINAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E392",
+    "titulo": "CUBIERTAS DE TECHO TIPO PANEL"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E393",
+    "titulo": "CABALLETES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E394",
+    "titulo": "CANALES Y BAJANTES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E395",
+    "titulo": "ELEMENTOS COMPLEMENTARIOS DE VENTILACION E ILUMINACION NATURAL"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E4",
+    "titulo": "OBRAS ARQUITECTONICAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E41",
+    "titulo": "ALBAÑILERIA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E411",
+    "titulo": "CONSTRUCCIONES DE PAREDES Y TABIQUES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E412",
+    "titulo": "REVESTIMIENTOS DE PAREDES Y TABIQUES, ESCALERAS, COLUMNAS Y MUROS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E413",
+    "titulo": "REVESTIMIENTOS DE TECHOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E414",
+    "titulo": "REVESTIMIENTOS DE PISOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E415",
+    "titulo": "REVESTIMIENTOS DE ESCALONES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E416",
+    "titulo": "CONSTRUCCION DE PENDIENTES EN LOSAS Y PLACAS HORIZONTALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E417",
+    "titulo": "RASEO EN LOSAS Y PLACAS INCLINADAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E418",
+    "titulo": "ACABADO DE PISOS Y ESCALONES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E419",
+    "titulo": "CIELOS RASOS."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E42",
+    "titulo": "IMPERMEABILIZACION."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E421",
+    "titulo": "CAPA IMPERMEABILIZANTE ASFALTICA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E422",
+    "titulo": "RECUBRIMIENTO DE LA CAPA IMPERMEABILIZANTE"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E423",
+    "titulo": "JUNTAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E424",
+    "titulo": "CUBREJUNTAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E43",
+    "titulo": "HERRERIA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43701",
+    "titulo": "PUERTAS METALICAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43702",
+    "titulo": "VENTANAS METALICAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43703",
+    "titulo": "TABIQUES METALICOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43704",
+    "titulo": "REJAS METALICAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43705",
+    "titulo": "BARANDAS METALICAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43706",
+    "titulo": "PASAMANOS METALICOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43707",
+    "titulo": "MARCOS METALICOS DE CHAPA DOBLADA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43708",
+    "titulo": "MARCOS METALICOS TUBULARES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43709",
+    "titulo": "LAMINAS METALICAS DE REVESTIMIENTOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43710",
+    "titulo": "GUARDACANTOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43711",
+    "titulo": "CERRAMIENTOS LAMINADOS DE FACHADAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E43712",
+    "titulo": "RODAPIES"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E44",
+    "titulo": "CARPINTERIA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44701",
+    "titulo": "PUERTAS DE MADERA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44702",
+    "titulo": "VENTANAS DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44703",
+    "titulo": "TABIQUES DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44704",
+    "titulo": "REJAS DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44705",
+    "titulo": "BARANDAS DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44706",
+    "titulo": "PASAMANOS DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44707",
+    "titulo": "MARCOS DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44708",
+    "titulo": "ESCALONES DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44709",
+    "titulo": "REVESTIMIENTOS DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44710",
+    "titulo": "RODAPIES DE MADERA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E44711",
+    "titulo": "CLOSETS DE MADERA."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E45",
+    "titulo": "VIDRIOS, PLASTICOS Y SIMILARES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E451",
+    "titulo": "VIDRIOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E452",
+    "titulo": "PUERTAS DE VIDRIO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E453",
+    "titulo": "CLARABOYAS."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E46",
+    "titulo": "ACABADOS CON PINTURAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E461",
+    "titulo": "PINTURAS DE ESMALTE."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E462",
+    "titulo": "PINTURAS DE BARNIZ."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E463",
+    "titulo": "PINTURAS DE CAUCHO O ACROVINILICAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E464",
+    "titulo": "PINTURAS ANTICORROSIVAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E465",
+    "titulo": "PINTURAS EPOXICAS."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E47",
+    "titulo": "CERRAJERIA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E471",
+    "titulo": "CERRADURAS DE POMO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E472",
+    "titulo": "CERRADURAS DE MANILLA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E473",
+    "titulo": "CERRADURAS EMBUTIDAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E474",
+    "titulo": "CERRADURAS SOBREPUESTAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E475",
+    "titulo": "CERRADURAS ANTIPANICO."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E49",
+    "titulo": "ACCESORIOS PARA PUERTAS Y VENTANAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E491",
+    "titulo": "CIERRAPUERTAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E492",
+    "titulo": "PASADORES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E493",
+    "titulo": "PLACAS DE EMPUJE."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E494",
+    "titulo": "TOPES."
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E5",
+    "titulo": "INSTALACIONES ELECTRICAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E51",
+    "titulo": "TUBERIAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E511",
+    "titulo": "TUBERIA PLASTICA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E512",
+    "titulo": "TUBERIA DE HIERRO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E513",
+    "titulo": "TUBERIA DE ALUMINIO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E514",
+    "titulo": "TUBERIA DE ASBESTO CEMENTO."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E52",
+    "titulo": "CABLES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E521",
+    "titulo": "CABLES DE COBRE."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E522",
+    "titulo": "CABLES DE ALUMINIO."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E53",
+    "titulo": "CAJAS DE CONEXION"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E531",
+    "titulo": "CAJETINES METALICOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E532",
+    "titulo": "CAJETINES DE PLASTICOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E533",
+    "titulo": "CAJAS DE PASO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E534",
+    "titulo": "CONDULET DE ALUMINIO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E535",
+    "titulo": "CAJAS PARA INTERRUPTORES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E536",
+    "titulo": "CAJAS PARA MEDIDORES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E537",
+    "titulo": "CAJAS PARA TELEFONIA, SONIDO, INTERCOMUNICACION Y SIMILARES."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E54",
+    "titulo": "TOMAS Y CONTROLES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E541",
+    "titulo": "INTERRUPTORES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E542",
+    "titulo": "TOMACORRIENTES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E543",
+    "titulo": "CUCHILLAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E544",
+    "titulo": "REGLETAS TELEFONICAS."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E55",
+    "titulo": "TABLERO PARA ELECTRICIDAD"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E551",
+    "titulo": "TABLEROS METALICOS EMBUTIDOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E552",
+    "titulo": "TABLEROS METALICOS SUPERFICIALES."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E56",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E561",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS CON ENCHUFE."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E562",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS CON GANCHOS (UÑAS)."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E563",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS CON TORNILLOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E564",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS TERMINALES FRONTALES."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E57",
+    "titulo": "TRANSFORMADORES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E571",
+    "titulo": "TRANSFORMADORES SECOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E572",
+    "titulo": "TRANSFORMADORES EN ACEITE."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E58",
+    "titulo": "LUMINARIAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E581",
+    "titulo": "LAMPARAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E582",
+    "titulo": "REFLECTORES."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E59",
+    "titulo": "VARIOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E591",
+    "titulo": "DISPOSITIVOS DE LOS SISTEMAS DE DETECCION DE INCENDIOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E592",
+    "titulo": "DISPOSITIVOS DE LOS SISTEMAS DE INTERCOMUNICACION, TELEFONIA Y SONIDO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E593",
+    "titulo": "DISPOSITIVOS DE LOS SISTEMAS DE ALARMA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E594",
+    "titulo": "DISPOSITIVOS PARA LOS SISTEMAS DE CIRCUITOS CERRADOS DE TELEVISION."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E595",
+    "titulo": "DISPOSITIVOS PARA LOS SISTEMAS DE ANTENAS, LUCES DE OBSTRUCCION Y PARARRAYOS"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E6",
+    "titulo": "INSTALACIONES SANITARIAS Y ESPECIALES"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E61",
+    "titulo": "TUBERIAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E611",
+    "titulo": "TUBERIAS PARA AGUAS CLARAS Y ESPECIALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E612",
+    "titulo": "TUBERIAS PARA AGUAS RESIDUALES Y DE LLUVIA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E613",
+    "titulo": "TUBERIAS PARA VENTILACION Y ESPECIALES."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E62",
+    "titulo": "PUNTOS SANITARIOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E621",
+    "titulo": "PUNTOS DE AGUAS CLARAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E622",
+    "titulo": "PUNTOS DE AGUAS RESIDUALES."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E63",
+    "titulo": "LLAVES DE PASO."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E64",
+    "titulo": "VALVULAS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E65",
+    "titulo": "GRIFOS, GRUPOS MEZCLADORES PARA DUCHAS Y BANERAS, DUCHAS TELE - FONO."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E66",
+    "titulo": "ARTEFACTOS SANITARIOS"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E7",
+    "titulo": "INSTALACIONES ELECTROMECANICAS"
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E8",
+    "titulo": "OBRAS DE SERVICIO Y VARIOS"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E801",
+    "titulo": "BASES Y SUB-BASES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8011",
+    "titulo": "BASES Y SUB-BASES DE GRANZON NATURAL"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8012",
+    "titulo": "BASES Y SUB-BASES DE PIEDRA PICADA"
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E802",
+    "titulo": "OBRAS DE CONCRETO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8021",
+    "titulo": "MATERIALES DE REFUERZO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8022",
+    "titulo": "ENCOFRADO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8023",
+    "titulo": "CONCRETO MEZCLADO EN SITIO."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E803",
+    "titulo": "PAVIMENTOS ASFALTICOS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8031",
+    "titulo": "MEZCLAS ASFALTICAS EN FRIO."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8032",
+    "titulo": "MEZCLAS ASFALTICAS EN CALIENTE."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E804",
+    "titulo": "BOCAS DE VISITA PREFABRICADAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8116",
+    "titulo": "PLANTAS XEROFILAS."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8117",
+    "titulo": "TIERRA ABONADA."
+  },
+  {
+    "tipo": "subcapitulo",
+    "codigo": "E812",
+    "titulo": "DISPOSICION FINAL DE AGUAS RESIDUALES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8121",
+    "titulo": "SUMIDEROS Y LAGUNAS DE OXIDACION."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E8122",
+    "titulo": "TANQUE SEPTICO."
+  },
+  {
+    "tipo": "capitulo",
+    "codigo": "E9",
+    "titulo": "TRANSPORTES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E901",
+    "titulo": "TRANSPORTE DE MAQUINARIA PESADA CON PESO DE 10 A 30 TF."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E902",
+    "titulo": "TRANSPORTE DE MAQUINARIA PESADA CON PESO MAYOR DE 30 TF"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E903",
+    "titulo": "TRANSPORTE DE MATERIAL PROVENIENTE DE LAS OBRAS PRELIMINARES."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E904",
+    "titulo": "TRANSPORTE DE MATERIAL PROVENIENTE DE MOVIMIENTO DE TIERRA, BASES Y SUB-BASES, AGREGADOS PARA CONCRETOS Y MORTEROS, PAVIMENTOS ASFALTICOS, MUROS DE GAVIONES"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E905",
+    "titulo": "TRANSPORTE DE CEMENTOS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E906",
+    "titulo": "TRANSPORTE DE BLOQUES DE ARCILLA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E907",
+    "titulo": "TRANSPORTE DE BLOQUES DE CONCRETO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E908",
+    "titulo": "TRANSPORTE DE LADRILLOS Y OTROS ELEMENTOS MACIZOS DE ARCILLA."
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E909",
+    "titulo": "TRANSPORTE DE ESTRUCTURAS METALICAS"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E910",
+    "titulo": "TRANSPORTE DE ESTRUCTURAS DE MADERA"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E911",
+    "titulo": "TRANSPORTE DE LOS ELEMENTOS PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E913",
+    "titulo": "TRANSPORTE DE MEZCLAS ASFALTICAS EN CALIENTE"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E914",
+    "titulo": "TRANSPORTE DE MEZCLAS ASFALTICAS EN FRIO"
+  },
+  {
+    "tipo": "seccion",
+    "codigo": "E915",
+    "titulo": "TRANSPORTE DE ELEMENTOS PREFABRICADOS DE CONCRETO ARMADO, TABLESTACAS, PERFILES Y TUBOS METALICOS."
+  }
+]

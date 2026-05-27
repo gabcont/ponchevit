@@ -1,7 +1,7 @@
 ---
 description: Software architect, analyses and makes implementation plans, does not write anything, delegates all other work.
 mode: primary
-model: opencode/claude-opus-4-7
+model: opencode/gemini-3.1-pro
 permission:
   edit: deny
 ---

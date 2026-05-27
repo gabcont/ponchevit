@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "SEC_001",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E0121",
+    "titulo": "LEVANTAMIENTO TOPOGRAFICO"
+  },
+  {
+    "id": "SEC_002",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E013",
+    "titulo": "ESTUDIOS GEOTECNICOS Y DE SUELOS"
+  },
+  {
+    "id": "SEC_003",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01501",
+    "titulo": "PROYECTO DE ARQUITECTURA"
+  },
+  {
+    "id": "SEC_004",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01502",
+    "titulo": "PROYECTO DE ESTRUCTURA"
+  },
+  {
+    "id": "SEC_005",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01503",
+    "titulo": "PROYECTO DE INSTALACIONES SANITARIAS"
+  },
+  {
+    "id": "SEC_006",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01504",
+    "titulo": "PROYECTO DE INSTALACIONES ELECTRICAS"
+  },
+  {
+    "id": "SEC_007",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01505",
+    "titulo": "PROYECTO DE INSTALACIONES MECANICAS"
+  },
+  {
+    "id": "SEC_008",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01506",
+    "titulo": "PROYECTO DE AREAS DE SERVICIO"
+  },
+  {
+    "id": "SEC_009",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E01507",
+    "titulo": "PROYECTOS ESPECIALES"
+  },
+  {
+    "id": "SEC_010",
+    "capitulo_id": "CAP_001",
+    "subcapitulo_id": "SUBCAP_001",
+    "codigo": "E015xxx5xx",
+    "titulo": "MODIFICACIONES EN UN PROYECTO PARA"
+  },
+  {
+    "id": "SEC_011",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_002",
+    "codigo": "E111",
+    "titulo": "CONSTRUCCIONES CONVENCIONALES"
+  },
+  {
+    "id": "SEC_012",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_002",
+    "codigo": "E112",
+    "titulo": "CONSTRUCCIONES PREFABRICADAS"
+  },
+  {
+    "id": "SEC_013",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_002",
+    "codigo": "E113",
+    "titulo": "CERCAS Y PORTONES"
+  },
+  {
+    "id": "SEC_014",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_003",
+    "codigo": "E121",
+    "titulo": "DEFORESTACION"
+  },
+  {
+    "id": "SEC_015",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_003",
+    "codigo": "E122",
+    "titulo": "TALA DE VEGETACION HERBACEA"
+  },
+  {
+    "id": "SEC_016",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_003",
+    "codigo": "E123",
+    "titulo": "TALA Y DESRAIZAMIENTO DE ARBOLES INDIVIDUALES"
+  },
+  {
+    "id": "SEC_017",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_004",
+    "codigo": "E131",
+    "titulo": "DEMOLICIONES DE CONSTRUCCIONES."
+  },
+  {
+    "id": "SEC_018",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_004",
+    "codigo": "E132",
+    "titulo": "DEMOLICIONES DE ELEMENTOS AISLADOS"
+  },
+  {
+    "id": "SEC_019",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_004",
+    "codigo": "E133",
+    "titulo": "DEMOLICIONES DE PAVIMENTOS Y SIMILARES"
+  },
+  {
+    "id": "SEC_020",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_004",
+    "codigo": "E134",
+    "titulo": "CARGA DE MATERIAL PROCEDENTE DE LA DEMOLICION."
+  },
+  {
+    "id": "SEC_021",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_005",
+    "codigo": "E141",
+    "titulo": "REMOCIONES DE ELEMENTOS METALICOS O COMBINADOS"
+  },
+  {
+    "id": "SEC_022",
+    "capitulo_id": "CAP_002",
+    "subcapitulo_id": "SUBCAP_005",
+    "codigo": "E142",
+    "titulo": "CARGA DE ELEMENTOS PROCEDENTES DE REMOCIONES"
+  },
+  {
+    "id": "SEC_023",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_006",
+    "codigo": "E211",
+    "titulo": "BANQUEOS"
+  },
+  {
+    "id": "SEC_024",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_006",
+    "codigo": "E213",
+    "titulo": "REMOCION DE LA CAPA VEGETAL O TIERRA DESECHABLE"
+  },
+  {
+    "id": "SEC_025",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_006",
+    "codigo": "E212",
+    "titulo": "PRESTAMOS"
+  },
+  {
+    "id": "SEC_026",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_009",
+    "codigo": "E242",
+    "titulo": "PANELES PREFABRICADOS DE CONCRETO ARMADO"
+  },
+  {
+    "id": "SEC_027",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_009",
+    "codigo": "E243",
+    "titulo": "CONEXIONES"
+  },
+  {
+    "id": "SEC_028",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_009",
+    "codigo": "E244",
+    "titulo": "TIRAS DE ANCLAJES"
+  },
+  {
+    "id": "SEC_029",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_009",
+    "codigo": "E245",
+    "titulo": "RELLENO COMPACTADO"
+  },
+  {
+    "id": "SEC_030",
+    "capitulo_id": "CAP_003",
+    "subcapitulo_id": "SUBCAP_009",
+    "codigo": "E246",
+    "titulo": "CONCRETO PARA EL ASIENTO DE LOS PANE - LES PREFABRICADOS Y VIGAS DE CORONA - MIENTO DE LOS MUROS DE SUELO ARMADO"
+  },
+  {
+    "id": "SEC_031",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E311",
+    "titulo": "EXCAVACION EN CORTE PARA ASIENTO DE FUNDACIONES Y ZANJAS"
+  },
+  {
+    "id": "SEC_032",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E312",
+    "titulo": "EXCAVACION EN PRESTAMO PARA RELLENO DE ZANJAS Y FUNDACIONES"
+  },
+  {
+    "id": "SEC_033",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E313",
+    "titulo": "CARGA DEL MATERIAL PROVENIENTE DE LAS EXCAVACIONES EN ZANJAS Y FUNDACIONES Y SITIOS DE PRESTAMOS"
+  },
+  {
+    "id": "SEC_034",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E315",
+    "titulo": "ENTIBADO DE LAS PAREDES DE LA EXCAVACION"
+  },
+  {
+    "id": "SEC_035",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E316",
+    "titulo": "ACHICAMIENTO DE LAS EXCAVACIONES PARA ESTRUCTURAS"
+  },
+  {
+    "id": "SEC_036",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E317",
+    "titulo": "COMPACTACIONES."
+  },
+  {
+    "id": "SEC_037",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E318",
+    "titulo": "CONCRETO EN OBRAS PREPARATORIAS"
+  },
+  {
+    "id": "SEC_038",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_011",
+    "codigo": "E319",
+    "titulo": "BASES GRANULARES EN OBRAS PREPARATORIAS"
+  },
+  {
+    "id": "SEC_039",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E321",
+    "titulo": "PILOTES, MUROS ESPECIALES Y OBRAS AFINES"
+  },
+  {
+    "id": "SEC_040",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E332101",
+    "titulo": "a E32110. PILOTES PREFABRICADOS DE CONCRETO ARMADO."
+  },
+  {
+    "id": "SEC_041",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32114",
+    "titulo": "a E3215. PILOTES HINCADOS Y VACIADOS EN SITIO, CON TUBO MOLDE RECUPERABLE Y BASE ENSANCHADA."
+  },
+  {
+    "id": "SEC_042",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32117",
+    "titulo": "a E32122. PILOTES PERFORADOS CON EX- TRACCION DE TIERRA, CON O SIN CAMISA DE PROTECCION."
+  },
+  {
+    "id": "SEC_043",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32130",
+    "titulo": "a E32133. PILAS DE GRAN DIAMETRO Y MUROS COLADOS."
+  },
+  {
+    "id": "SEC_044",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32143",
+    "titulo": "a E32149. TABLESTACAS, PERFILES Y TU - BOS METALICOS COMO PILOTES"
+  },
+  {
+    "id": "SEC_045",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32163",
+    "titulo": "SUMINISTRO, TRANSPORTE, PREPARACION Y COLOCACION DE ACERO DE REFUERZO."
+  },
+  {
+    "id": "SEC_046",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32164",
+    "titulo": "PODA DE PILOTE"
+  },
+  {
+    "id": "SEC_047",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E32165",
+    "titulo": "CORTE DE TABLESTACAS, PERFILES Y TU - BOS METALICOS"
+  },
+  {
+    "id": "SEC_048",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E322",
+    "titulo": "CABEZALES DE PILOTES"
+  },
+  {
+    "id": "SEC_049",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E323",
+    "titulo": "BASES Y ESCALONES DE FUNDACIONES."
+  },
+  {
+    "id": "SEC_050",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E324",
+    "titulo": "PEDESTALES"
+  },
+  {
+    "id": "SEC_051",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E325",
+    "titulo": "VIGAS DE RIOSTRAS, TIRANTES Y FUNDACIONES PARA PAREDES"
+  },
+  {
+    "id": "SEC_052",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E326",
+    "titulo": "LOSAS DE FUNDACION"
+  },
+  {
+    "id": "SEC_053",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E327",
+    "titulo": "VIGAS DE FUNDACION"
+  },
+  {
+    "id": "SEC_054",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_012",
+    "codigo": "E328",
+    "titulo": "BASES DE PAVIMENTO"
+  },
+  {
+    "id": "SEC_055",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E331",
+    "titulo": "COLUMNAS"
+  },
+  {
+    "id": "SEC_056",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E332",
+    "titulo": "VIGAS Y MACIZADOS"
+  },
+  {
+    "id": "SEC_057",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E333",
+    "titulo": "LOSAS, PLACAS Y PERGOLAS"
+  },
+  {
+    "id": "SEC_058",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E334",
+    "titulo": "MACHONES, VIGAS DE CORONA Y APOYOS DE LOSAS, DINTELES Y ARRIOSTRAMIENTOS DE PAREDES."
+  },
+  {
+    "id": "SEC_059",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E335",
+    "titulo": "ESCALERAS"
+  },
+  {
+    "id": "SEC_060",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E336",
+    "titulo": "GRADERIAS Y TRIBUNAS"
+  },
+  {
+    "id": "SEC_061",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E337",
+    "titulo": "ELEMENTOS ARQUITECTONICOS"
+  },
+  {
+    "id": "SEC_062",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_013",
+    "codigo": "E339",
+    "titulo": "MUROS ESTRUCTURALES"
+  },
+  {
+    "id": "SEC_063",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_014",
+    "codigo": "E341",
+    "titulo": "ENCOFRADOS EN INFRAESTRUCTURA"
+  },
+  {
+    "id": "SEC_064",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_014",
+    "codigo": "E342",
+    "titulo": "ENCOFRADOS EN SUPERESTRUCTURA"
+  },
+  {
+    "id": "SEC_065",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_015",
+    "codigo": "E351",
+    "titulo": "ARMADURA DE REFUERZO PARA INFRAESTRUCTURA"
+  },
+  {
+    "id": "SEC_066",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_015",
+    "codigo": "E352",
+    "titulo": "ARMADURA DE REFUERZO PARA SUPERESTRUCTURA"
+  },
+  {
+    "id": "SEC_067",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_016",
+    "codigo": "E361",
+    "titulo": "INFRAESTRUCTURA"
+  },
+  {
+    "id": "SEC_068",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_016",
+    "codigo": "E362",
+    "titulo": "SUPERESTRUCTURA"
+  },
+  {
+    "id": "SEC_069",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_017",
+    "codigo": "E371",
+    "titulo": "ESTRUCTURAS DE MADERA PARA INFRAESTRUCTURA"
+  },
+  {
+    "id": "SEC_070",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_017",
+    "codigo": "E372",
+    "titulo": "ESTRUCTURAS DE MADERA PARA SUPERESTRUCTURA"
+  },
+  {
+    "id": "SEC_071",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_018",
+    "codigo": "E391",
+    "titulo": "CUBIERTAS DE TECHO TIPO LAMINAS"
+  },
+  {
+    "id": "SEC_072",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_018",
+    "codigo": "E392",
+    "titulo": "CUBIERTAS DE TECHO TIPO PANEL"
+  },
+  {
+    "id": "SEC_073",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_018",
+    "codigo": "E393",
+    "titulo": "CABALLETES"
+  },
+  {
+    "id": "SEC_074",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_018",
+    "codigo": "E394",
+    "titulo": "CANALES Y BAJANTES"
+  },
+  {
+    "id": "SEC_075",
+    "capitulo_id": "CAP_004",
+    "subcapitulo_id": "SUBCAP_018",
+    "codigo": "E395",
+    "titulo": "ELEMENTOS COMPLEMENTARIOS DE VENTILACION E ILUMINACION NATURAL"
+  },
+  {
+    "id": "SEC_076",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E411",
+    "titulo": "CONSTRUCCIONES DE PAREDES Y TABIQUES."
+  },
+  {
+    "id": "SEC_077",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E412",
+    "titulo": "REVESTIMIENTOS DE PAREDES Y TABIQUES, ESCALERAS, COLUMNAS Y MUROS."
+  },
+  {
+    "id": "SEC_078",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E413",
+    "titulo": "REVESTIMIENTOS DE TECHOS."
+  },
+  {
+    "id": "SEC_079",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E414",
+    "titulo": "REVESTIMIENTOS DE PISOS."
+  },
+  {
+    "id": "SEC_080",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E415",
+    "titulo": "REVESTIMIENTOS DE ESCALONES."
+  },
+  {
+    "id": "SEC_081",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E416",
+    "titulo": "CONSTRUCCION DE PENDIENTES EN LOSAS Y PLACAS HORIZONTALES"
+  },
+  {
+    "id": "SEC_082",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E417",
+    "titulo": "RASEO EN LOSAS Y PLACAS INCLINADAS."
+  },
+  {
+    "id": "SEC_083",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E418",
+    "titulo": "ACABADO DE PISOS Y ESCALONES."
+  },
+  {
+    "id": "SEC_084",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_019",
+    "codigo": "E419",
+    "titulo": "CIELOS RASOS."
+  },
+  {
+    "id": "SEC_085",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_020",
+    "codigo": "E421",
+    "titulo": "CAPA IMPERMEABILIZANTE ASFALTICA"
+  },
+  {
+    "id": "SEC_086",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_020",
+    "codigo": "E422",
+    "titulo": "RECUBRIMIENTO DE LA CAPA IMPERMEABILIZANTE"
+  },
+  {
+    "id": "SEC_087",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_020",
+    "codigo": "E423",
+    "titulo": "JUNTAS"
+  },
+  {
+    "id": "SEC_088",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_020",
+    "codigo": "E424",
+    "titulo": "CUBREJUNTAS"
+  },
+  {
+    "id": "SEC_089",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43701",
+    "titulo": "PUERTAS METALICAS."
+  },
+  {
+    "id": "SEC_090",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43702",
+    "titulo": "VENTANAS METALICAS."
+  },
+  {
+    "id": "SEC_091",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43703",
+    "titulo": "TABIQUES METALICOS."
+  },
+  {
+    "id": "SEC_092",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43704",
+    "titulo": "REJAS METALICAS."
+  },
+  {
+    "id": "SEC_093",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43705",
+    "titulo": "BARANDAS METALICAS."
+  },
+  {
+    "id": "SEC_094",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43706",
+    "titulo": "PASAMANOS METALICOS."
+  },
+  {
+    "id": "SEC_095",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43707",
+    "titulo": "MARCOS METALICOS DE CHAPA DOBLADA."
+  },
+  {
+    "id": "SEC_096",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43708",
+    "titulo": "MARCOS METALICOS TUBULARES."
+  },
+  {
+    "id": "SEC_097",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43709",
+    "titulo": "LAMINAS METALICAS DE REVESTIMIENTOS."
+  },
+  {
+    "id": "SEC_098",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43710",
+    "titulo": "GUARDACANTOS."
+  },
+  {
+    "id": "SEC_099",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43711",
+    "titulo": "CERRAMIENTOS LAMINADOS DE FACHADAS"
+  },
+  {
+    "id": "SEC_100",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_021",
+    "codigo": "E43712",
+    "titulo": "RODAPIES"
+  },
+  {
+    "id": "SEC_101",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44701",
+    "titulo": "PUERTAS DE MADERA"
+  },
+  {
+    "id": "SEC_102",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44702",
+    "titulo": "VENTANAS DE MADERA."
+  },
+  {
+    "id": "SEC_103",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44703",
+    "titulo": "TABIQUES DE MADERA."
+  },
+  {
+    "id": "SEC_104",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44704",
+    "titulo": "REJAS DE MADERA."
+  },
+  {
+    "id": "SEC_105",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44705",
+    "titulo": "BARANDAS DE MADERA."
+  },
+  {
+    "id": "SEC_106",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44706",
+    "titulo": "PASAMANOS DE MADERA."
+  },
+  {
+    "id": "SEC_107",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44707",
+    "titulo": "MARCOS DE MADERA."
+  },
+  {
+    "id": "SEC_108",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44708",
+    "titulo": "ESCALONES DE MADERA."
+  },
+  {
+    "id": "SEC_109",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44709",
+    "titulo": "REVESTIMIENTOS DE MADERA."
+  },
+  {
+    "id": "SEC_110",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44710",
+    "titulo": "RODAPIES DE MADERA."
+  },
+  {
+    "id": "SEC_111",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_022",
+    "codigo": "E44711",
+    "titulo": "CLOSETS DE MADERA."
+  },
+  {
+    "id": "SEC_112",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_023",
+    "codigo": "E451",
+    "titulo": "VIDRIOS."
+  },
+  {
+    "id": "SEC_113",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_023",
+    "codigo": "E452",
+    "titulo": "PUERTAS DE VIDRIO."
+  },
+  {
+    "id": "SEC_114",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_023",
+    "codigo": "E453",
+    "titulo": "CLARABOYAS."
+  },
+  {
+    "id": "SEC_115",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_024",
+    "codigo": "E461",
+    "titulo": "PINTURAS DE ESMALTE."
+  },
+  {
+    "id": "SEC_116",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_024",
+    "codigo": "E462",
+    "titulo": "PINTURAS DE BARNIZ."
+  },
+  {
+    "id": "SEC_117",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_024",
+    "codigo": "E463",
+    "titulo": "PINTURAS DE CAUCHO O ACROVINILICAS."
+  },
+  {
+    "id": "SEC_118",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_024",
+    "codigo": "E464",
+    "titulo": "PINTURAS ANTICORROSIVAS."
+  },
+  {
+    "id": "SEC_119",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_024",
+    "codigo": "E465",
+    "titulo": "PINTURAS EPOXICAS."
+  },
+  {
+    "id": "SEC_120",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_025",
+    "codigo": "E471",
+    "titulo": "CERRADURAS DE POMO."
+  },
+  {
+    "id": "SEC_121",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_025",
+    "codigo": "E472",
+    "titulo": "CERRADURAS DE MANILLA."
+  },
+  {
+    "id": "SEC_122",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_025",
+    "codigo": "E473",
+    "titulo": "CERRADURAS EMBUTIDAS."
+  },
+  {
+    "id": "SEC_123",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_025",
+    "codigo": "E474",
+    "titulo": "CERRADURAS SOBREPUESTAS."
+  },
+  {
+    "id": "SEC_124",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_025",
+    "codigo": "E475",
+    "titulo": "CERRADURAS ANTIPANICO."
+  },
+  {
+    "id": "SEC_125",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_026",
+    "codigo": "E491",
+    "titulo": "CIERRAPUERTAS."
+  },
+  {
+    "id": "SEC_126",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_026",
+    "codigo": "E492",
+    "titulo": "PASADORES."
+  },
+  {
+    "id": "SEC_127",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_026",
+    "codigo": "E493",
+    "titulo": "PLACAS DE EMPUJE."
+  },
+  {
+    "id": "SEC_128",
+    "capitulo_id": "CAP_005",
+    "subcapitulo_id": "SUBCAP_026",
+    "codigo": "E494",
+    "titulo": "TOPES."
+  },
+  {
+    "id": "SEC_129",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_027",
+    "codigo": "E511",
+    "titulo": "TUBERIA PLASTICA."
+  },
+  {
+    "id": "SEC_130",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_027",
+    "codigo": "E512",
+    "titulo": "TUBERIA DE HIERRO."
+  },
+  {
+    "id": "SEC_131",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_027",
+    "codigo": "E513",
+    "titulo": "TUBERIA DE ALUMINIO."
+  },
+  {
+    "id": "SEC_132",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_027",
+    "codigo": "E514",
+    "titulo": "TUBERIA DE ASBESTO CEMENTO."
+  },
+  {
+    "id": "SEC_133",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_028",
+    "codigo": "E521",
+    "titulo": "CABLES DE COBRE."
+  },
+  {
+    "id": "SEC_134",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_028",
+    "codigo": "E522",
+    "titulo": "CABLES DE ALUMINIO."
+  },
+  {
+    "id": "SEC_135",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E531",
+    "titulo": "CAJETINES METALICOS"
+  },
+  {
+    "id": "SEC_136",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E532",
+    "titulo": "CAJETINES DE PLASTICOS."
+  },
+  {
+    "id": "SEC_137",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E533",
+    "titulo": "CAJAS DE PASO"
+  },
+  {
+    "id": "SEC_138",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E534",
+    "titulo": "CONDULET DE ALUMINIO."
+  },
+  {
+    "id": "SEC_139",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E535",
+    "titulo": "CAJAS PARA INTERRUPTORES."
+  },
+  {
+    "id": "SEC_140",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E536",
+    "titulo": "CAJAS PARA MEDIDORES."
+  },
+  {
+    "id": "SEC_141",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_029",
+    "codigo": "E537",
+    "titulo": "CAJAS PARA TELEFONIA, SONIDO, INTERCOMUNICACION Y SIMILARES."
+  },
+  {
+    "id": "SEC_142",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_030",
+    "codigo": "E541",
+    "titulo": "INTERRUPTORES."
+  },
+  {
+    "id": "SEC_143",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_030",
+    "codigo": "E542",
+    "titulo": "TOMACORRIENTES."
+  },
+  {
+    "id": "SEC_144",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_030",
+    "codigo": "E543",
+    "titulo": "CUCHILLAS."
+  },
+  {
+    "id": "SEC_145",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_030",
+    "codigo": "E544",
+    "titulo": "REGLETAS TELEFONICAS."
+  },
+  {
+    "id": "SEC_146",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_031",
+    "codigo": "E551",
+    "titulo": "TABLEROS METALICOS EMBUTIDOS."
+  },
+  {
+    "id": "SEC_147",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_031",
+    "codigo": "E552",
+    "titulo": "TABLEROS METALICOS SUPERFICIALES."
+  },
+  {
+    "id": "SEC_148",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_032",
+    "codigo": "E561",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS CON ENCHUFE."
+  },
+  {
+    "id": "SEC_149",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_032",
+    "codigo": "E562",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS CON GANCHOS (UÑAS)."
+  },
+  {
+    "id": "SEC_150",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_032",
+    "codigo": "E563",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS CON TORNILLOS."
+  },
+  {
+    "id": "SEC_151",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_032",
+    "codigo": "E564",
+    "titulo": "INTERRUPTORES TERMOMAGNETICOS TERMINALES FRONTALES."
+  },
+  {
+    "id": "SEC_152",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_033",
+    "codigo": "E571",
+    "titulo": "TRANSFORMADORES SECOS."
+  },
+  {
+    "id": "SEC_153",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_033",
+    "codigo": "E572",
+    "titulo": "TRANSFORMADORES EN ACEITE."
+  },
+  {
+    "id": "SEC_154",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_034",
+    "codigo": "E581",
+    "titulo": "LAMPARAS."
+  },
+  {
+    "id": "SEC_155",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_034",
+    "codigo": "E582",
+    "titulo": "REFLECTORES."
+  },
+  {
+    "id": "SEC_156",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_035",
+    "codigo": "E591",
+    "titulo": "DISPOSITIVOS DE LOS SISTEMAS DE DETECCION DE INCENDIOS."
+  },
+  {
+    "id": "SEC_157",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_035",
+    "codigo": "E592",
+    "titulo": "DISPOSITIVOS DE LOS SISTEMAS DE INTERCOMUNICACION, TELEFONIA Y SONIDO."
+  },
+  {
+    "id": "SEC_158",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_035",
+    "codigo": "E593",
+    "titulo": "DISPOSITIVOS DE LOS SISTEMAS DE ALARMA"
+  },
+  {
+    "id": "SEC_159",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_035",
+    "codigo": "E594",
+    "titulo": "DISPOSITIVOS PARA LOS SISTEMAS DE CIRCUITOS CERRADOS DE TELEVISION."
+  },
+  {
+    "id": "SEC_160",
+    "capitulo_id": "CAP_006",
+    "subcapitulo_id": "SUBCAP_035",
+    "codigo": "E595",
+    "titulo": "DISPOSITIVOS PARA LOS SISTEMAS DE ANTENAS, LUCES DE OBSTRUCCION Y PARARRAYOS"
+  },
+  {
+    "id": "SEC_161",
+    "capitulo_id": "CAP_007",
+    "subcapitulo_id": "SUBCAP_036",
+    "codigo": "E611",
+    "titulo": "TUBERIAS PARA AGUAS CLARAS Y ESPECIALES"
+  },
+  {
+    "id": "SEC_162",
+    "capitulo_id": "CAP_007",
+    "subcapitulo_id": "SUBCAP_036",
+    "codigo": "E612",
+    "titulo": "TUBERIAS PARA AGUAS RESIDUALES Y DE LLUVIA"
+  },
+  {
+    "id": "SEC_163",
+    "capitulo_id": "CAP_007",
+    "subcapitulo_id": "SUBCAP_036",
+    "codigo": "E613",
+    "titulo": "TUBERIAS PARA VENTILACION Y ESPECIALES."
+  },
+  {
+    "id": "SEC_164",
+    "capitulo_id": "CAP_007",
+    "subcapitulo_id": "SUBCAP_037",
+    "codigo": "E621",
+    "titulo": "PUNTOS DE AGUAS CLARAS."
+  },
+  {
+    "id": "SEC_165",
+    "capitulo_id": "CAP_007",
+    "subcapitulo_id": "SUBCAP_037",
+    "codigo": "E622",
+    "titulo": "PUNTOS DE AGUAS RESIDUALES."
+  },
+  {
+    "id": "SEC_166",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_042",
+    "codigo": "E8011",
+    "titulo": "BASES Y SUB-BASES DE GRANZON NATURAL"
+  },
+  {
+    "id": "SEC_167",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_042",
+    "codigo": "E8012",
+    "titulo": "BASES Y SUB-BASES DE PIEDRA PICADA"
+  },
+  {
+    "id": "SEC_168",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_043",
+    "codigo": "E8021",
+    "titulo": "MATERIALES DE REFUERZO."
+  },
+  {
+    "id": "SEC_169",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_043",
+    "codigo": "E8022",
+    "titulo": "ENCOFRADO."
+  },
+  {
+    "id": "SEC_170",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_043",
+    "codigo": "E8023",
+    "titulo": "CONCRETO MEZCLADO EN SITIO."
+  },
+  {
+    "id": "SEC_171",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_044",
+    "codigo": "E8031",
+    "titulo": "MEZCLAS ASFALTICAS EN FRIO."
+  },
+  {
+    "id": "SEC_172",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_044",
+    "codigo": "E8032",
+    "titulo": "MEZCLAS ASFALTICAS EN CALIENTE."
+  },
+  {
+    "id": "SEC_173",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_045",
+    "codigo": "E8116",
+    "titulo": "PLANTAS XEROFILAS."
+  },
+  {
+    "id": "SEC_174",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_045",
+    "codigo": "E8117",
+    "titulo": "TIERRA ABONADA."
+  },
+  {
+    "id": "SEC_175",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E8121",
+    "titulo": "SUMIDEROS Y LAGUNAS DE OXIDACION."
+  },
+  {
+    "id": "SEC_176",
+    "capitulo_id": "CAP_009",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E8122",
+    "titulo": "TANQUE SEPTICO."
+  },
+  {
+    "id": "SEC_177",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E901",
+    "titulo": "TRANSPORTE DE MAQUINARIA PESADA CON PESO DE 10 A 30 TF."
+  },
+  {
+    "id": "SEC_178",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E902",
+    "titulo": "TRANSPORTE DE MAQUINARIA PESADA CON PESO MAYOR DE 30 TF"
+  },
+  {
+    "id": "SEC_179",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E903",
+    "titulo": "TRANSPORTE DE MATERIAL PROVENIENTE DE LAS OBRAS PRELIMINARES."
+  },
+  {
+    "id": "SEC_180",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E904",
+    "titulo": "TRANSPORTE DE MATERIAL PROVENIENTE DE MOVIMIENTO DE TIERRA, BASES Y SUB-BASES, AGREGADOS PARA CONCRETOS Y MORTEROS, PAVIMENTOS ASFALTICOS, MUROS DE GAVIONES"
+  },
+  {
+    "id": "SEC_181",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E905",
+    "titulo": "TRANSPORTE DE CEMENTOS"
+  },
+  {
+    "id": "SEC_182",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E906",
+    "titulo": "TRANSPORTE DE BLOQUES DE ARCILLA."
+  },
+  {
+    "id": "SEC_183",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E907",
+    "titulo": "TRANSPORTE DE BLOQUES DE CONCRETO"
+  },
+  {
+    "id": "SEC_184",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E908",
+    "titulo": "TRANSPORTE DE LADRILLOS Y OTROS ELEMENTOS MACIZOS DE ARCILLA."
+  },
+  {
+    "id": "SEC_185",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E909",
+    "titulo": "TRANSPORTE DE ESTRUCTURAS METALICAS"
+  },
+  {
+    "id": "SEC_186",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E910",
+    "titulo": "TRANSPORTE DE ESTRUCTURAS DE MADERA"
+  },
+  {
+    "id": "SEC_187",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E911",
+    "titulo": "TRANSPORTE DE LOS ELEMENTOS PARA LA CONSTRUCCION DE MUROS DE SUELO ARMADO"
+  },
+  {
+    "id": "SEC_188",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E913",
+    "titulo": "TRANSPORTE DE MEZCLAS ASFALTICAS EN CALIENTE"
+  },
+  {
+    "id": "SEC_189",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E914",
+    "titulo": "TRANSPORTE DE MEZCLAS ASFALTICAS EN FRIO"
+  },
+  {
+    "id": "SEC_190",
+    "capitulo_id": "CAP_010",
+    "subcapitulo_id": "SUBCAP_046",
+    "codigo": "E915",
+    "titulo": "TRANSPORTE DE ELEMENTOS PREFABRICADOS DE CONCRETO ARMADO, TABLESTACAS, PERFILES Y TUBOS METALICOS."
+  }
+]

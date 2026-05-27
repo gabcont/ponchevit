@@ -11,6 +11,39 @@ def inicializar_base_de_datos(db_path):
     # Habilitar el chequeo de llaves foráneas en SQLite
     cursor.execute("PRAGMA foreign_keys = ON;")
 
+    # Crear tabla de Capitulos
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS Capitulos (
+        id TEXT PRIMARY KEY,
+        codigo TEXT,
+        titulo TEXT
+    )
+    ''')
+
+    # Crear tabla de Subcapitulos
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS Subcapitulos (
+        id TEXT PRIMARY KEY,
+        capitulo_id TEXT,
+        codigo TEXT,
+        titulo TEXT,
+        FOREIGN KEY (capitulo_id) REFERENCES Capitulos(id)
+    )
+    ''')
+
+    # Crear tabla de Secciones
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS Secciones (
+        id TEXT PRIMARY KEY,
+        capitulo_id TEXT,
+        subcapitulo_id TEXT,
+        codigo TEXT,
+        titulo TEXT,
+        FOREIGN KEY (capitulo_id) REFERENCES Capitulos(id),
+        FOREIGN KEY (subcapitulo_id) REFERENCES Subcapitulos(id)
+    )
+    ''')
+
     # Crear tabla de Partidas con la columna de capítulo
     cursor.execute('''
     CREATE TABLE IF NOT EXISTS Partidas (
@@ -23,6 +56,27 @@ def inicializar_base_de_datos(db_path):
 
     conn.commit()
     return conn, cursor
+
+def cargar_datos_simples(cursor, json_path, nombre_tabla, columnas):
+    """Lee el JSON y ejecuta un bulk insert/replace en la tabla especificada."""
+    if not os.path.exists(json_path):
+        print(f"❌ Error: No se encontró el archivo {json_path}")
+        return False
+
+    with open(json_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    if not data:
+        return 0
+
+    placeholders = ", ".join(["?"] * len(columnas))
+    columnas_str = ", ".join(columnas)
+    
+    query = f"INSERT OR REPLACE INTO {nombre_tabla} ({columnas_str}) VALUES ({placeholders})"
+    
+    registros = [[item.get(col) for col in columnas] for item in data]
+    cursor.executemany(query, registros)
+    return len(registros)
 
 def cargar_datos_json(cursor, json_path, capitulo, mapeo_columnas):
     """Lee el JSON de partidas, inyecta el capítulo y ejecuta un bulk insert/replace en la tabla."""
@@ -73,13 +127,33 @@ def main():
         # 1. Inicializar la base de datos única
         conn, cursor = inicializar_base_de_datos(db_path)
         
+        # 1.5 Cargar tablas relacionadas
+        path_cap = os.path.join(script_dir, "capitulos.json")
+        path_sub = os.path.join(script_dir, "subcapitulos.json")
+        path_sec = os.path.join(script_dir, "secciones.json")
+        
+        c_insertados = cargar_datos_simples(cursor, path_cap, "Capitulos", ["id", "codigo", "titulo"])
+        print(f"📦 Capítulos insertados: {c_insertados}")
+        
+        s_insertados = cargar_datos_simples(cursor, path_sub, "Subcapitulos", ["id", "capitulo_id", "codigo", "titulo"])
+        print(f"📦 Subcapítulos insertados: {s_insertados}")
+        
+        se_insertados = cargar_datos_simples(cursor, path_sec, "Secciones", ["id", "capitulo_id", "subcapitulo_id", "codigo", "titulo"])
+        print(f"📦 Secciones insertadas: {se_insertados}")
+
         columnas = ["codigo_partida", "unidad", "descripcion"]
         total_total = 0
         
+        archivos_ignorar = ["capitulos.json", "subcapitulos.json", "secciones.json", "indice.json"]
+
         # 2. Procesar cada archivo JSON e insertar sus partidas con el nombre del capítulo
         for json_path in sorted(archivos_json):
-            capitulo = os.path.splitext(os.path.basename(json_path))[0]
-            print(f"📦 Procesando: {os.path.basename(json_path)} -> Capítulo: '{capitulo}'")
+            nombre_archivo = os.path.basename(json_path)
+            if nombre_archivo in archivos_ignorar:
+                continue
+                
+            capitulo = os.path.splitext(nombre_archivo)[0]
+            print(f"📦 Procesando: {nombre_archivo} -> Capítulo: '{capitulo}'")
             
             total_insertados = cargar_datos_json(cursor, json_path, capitulo, columnas)
             

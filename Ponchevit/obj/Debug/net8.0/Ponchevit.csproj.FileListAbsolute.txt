@@ -10,3 +10,4 @@ C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.
 C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\refint\Ponchevit.dll
 C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.pdb
 C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\ref\Ponchevit.dll
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0\Ponchevit.sourcelink.json

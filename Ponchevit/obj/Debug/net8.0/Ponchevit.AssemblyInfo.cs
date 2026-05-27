@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ponchevit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd06543396e9527876040028aa6b2c33c961e1a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+304e5ab24c5cdf6cd0f8471c2c556103776c548b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ponchevit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ponchevit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
