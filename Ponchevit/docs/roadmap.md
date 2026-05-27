@@ -36,7 +36,7 @@ Exit criteria: all Domain/Data tests green. No RevitAPI reference anywhere under
 - [x] 1.13 — Data/Sqlite/SqliteCoveninRulesRepository — eager-loads `Covenin_Columnas` (45) + `Covenin_Valores` (379) from `covenin.db`; lazy + in-memory cache on `Covenin_Conexiones` keyed by `Parent_Id`. (99da3c9)
 - [x] 1.14 — Data/Sqlite/ConnectionFactory — resolves both DB paths beside the DLL (`partidas.db`, `covenin.db`); validates each `_meta.schema_version` row independently and raises a clear error per missing/mismatched DB. (99da3c9)
 - [x] 1.15 — xUnit tests for Domain + Data using two in-memory SQLite fixtures (one per schema). Cover: code assembler incl. empty bridges + 10-digit cap, prefix-path correctness, cascade builder, both repositories, PartidaHierarchyResolver longest-prefix logic, schema-anomaly exclusion in catalog load. (99da3c9)
-- [ ] 1.16 — Write docs/domain-model.md and docs/data-layer.md (the latter documents both `partidas.db` and `covenin.db` schemas + loading strategies side-by-side).
+ - [x] 1.16 — Write docs/domain-model.md and docs/data-layer.md (the latter documents both `partidas.db` and `covenin.db` schemas + loading strategies side-by-side). (local)
 
 ## Phase 2 — Revit adapters
 
