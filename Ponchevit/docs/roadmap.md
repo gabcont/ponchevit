@@ -31,11 +31,11 @@ Exit criteria: all Domain/Data tests green. No RevitAPI reference anywhere under
 - [x] 1.8 — Domain/Catalog/PartidaFilter — pure predicate `(selectionState) → IReadOnlyList<Partida>`.
 - [x] 1.9 — Domain/Aliases/IAliasResolver + IdentityAliasResolver (MVP passthrough; future SqliteAliasResolver backs the `Covenin_Alias` table when it exists).
 - [x] 1.10 — Data/IPartidasRepository interface (read-only) — exposes Capitulos/Subcapitulos/Secciones/Partidas.
-- [x] 1.11 — Data/ICoveninRulesRepository interface (read-only) — exposes Columnas, Valores, and lazy `GetConexionesByParent(Id_Conexion?)` for DAG traversal. (892df6a)
-- [x] 1.12 — Data/Sqlite/SqlitePartidasRepository (Microsoft.Data.Sqlite) — eager-loads all four tables from `partidas.db` (small enough; ~2350 total rows). (892df6a)
-- [x] 1.13 — Data/Sqlite/SqliteCoveninRulesRepository — eager-loads `Covenin_Columnas` (45) + `Covenin_Valores` (379) from `covenin.db`; lazy + in-memory cache on `Covenin_Conexiones` keyed by `Parent_Id`. (892df6a)
-- [x] 1.14 — Data/Sqlite/ConnectionFactory — resolves both DB paths beside the DLL (`partidas.db`, `covenin.db`); validates each `_meta.schema_version` row independently and raises a clear error per missing/mismatched DB. (892df6a)
-- [x] 1.15 — xUnit tests for Domain + Data using two in-memory SQLite fixtures (one per schema). Cover: code assembler incl. empty bridges + 10-digit cap, prefix-path correctness, cascade builder, both repositories, PartidaHierarchyResolver longest-prefix logic, schema-anomaly exclusion in catalog load. (892df6a)
+- [x] 1.11 — Data/ICoveninRulesRepository interface (read-only) — exposes Columnas, Valores, and lazy `GetConexionesByParent(Id_Conexion?)` for DAG traversal. (99da3c9)
+- [x] 1.12 — Data/Sqlite/SqlitePartidasRepository (Microsoft.Data.Sqlite) — eager-loads all four tables from `partidas.db` (small enough; ~2350 total rows). (99da3c9)
+- [x] 1.13 — Data/Sqlite/SqliteCoveninRulesRepository — eager-loads `Covenin_Columnas` (45) + `Covenin_Valores` (379) from `covenin.db`; lazy + in-memory cache on `Covenin_Conexiones` keyed by `Parent_Id`. (99da3c9)
+- [x] 1.14 — Data/Sqlite/ConnectionFactory — resolves both DB paths beside the DLL (`partidas.db`, `covenin.db`); validates each `_meta.schema_version` row independently and raises a clear error per missing/mismatched DB. (99da3c9)
+- [x] 1.15 — xUnit tests for Domain + Data using two in-memory SQLite fixtures (one per schema). Cover: code assembler incl. empty bridges + 10-digit cap, prefix-path correctness, cascade builder, both repositories, PartidaHierarchyResolver longest-prefix logic, schema-anomaly exclusion in catalog load. (99da3c9)
 - [ ] 1.16 — Write docs/domain-model.md and docs/data-layer.md (the latter documents both `partidas.db` and `covenin.db` schemas + loading strategies side-by-side).
 
 ## Phase 2 — Revit adapters
