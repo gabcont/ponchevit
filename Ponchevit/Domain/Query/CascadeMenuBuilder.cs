@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Ponchevit.Domain.Model;
+using Ponchevit.Data;
 
 namespace Ponchevit.Domain.Query;
 
@@ -28,11 +29,11 @@ public record MenuLevel(
 /// </summary>
 public class CascadeMenuBuilder
 {
-    private readonly ICoveninRulesProvider _rulesProvider;
+    private readonly ICoveninRulesRepository _rulesRepository;
 
-    public CascadeMenuBuilder(ICoveninRulesProvider rulesProvider)
+    public CascadeMenuBuilder(ICoveninRulesRepository rulesRepository)
     {
-        _rulesProvider = rulesProvider ?? throw new ArgumentNullException(nameof(rulesProvider));
+        _rulesRepository = rulesRepository ?? throw new ArgumentNullException(nameof(rulesRepository));
     }
 
     /// <summary>
@@ -42,7 +43,7 @@ public class CascadeMenuBuilder
     /// <returns>A MenuLevel object if children exist, otherwise null.</returns>
     public MenuLevel? GetNextLevel(string? parentConnectionId)
     {
-        var children = _rulesProvider.GetChildren(parentConnectionId).ToList();
+        var children = _rulesRepository.GetConexionesByParent(parentConnectionId).ToList();
         if (!children.Any())
         {
             return null;
@@ -50,7 +51,7 @@ public class CascadeMenuBuilder
 
         // All children at a given level must belong to the same column (logical step).
         var firstChild = children.First();
-        var columna = _rulesProvider.GetColumna(firstChild.IdColumna);
+        var columna = _rulesRepository.GetColumna(firstChild.IdColumna);
         if (columna == null)
         {
             return null;
@@ -62,7 +63,7 @@ public class CascadeMenuBuilder
             string label = child.CodigoAportado;
             if (!string.IsNullOrEmpty(child.IdValorAsociado))
             {
-                var valor = _rulesProvider.GetValor(child.IdValorAsociado);
+                var valor = _rulesRepository.GetValor(child.IdValorAsociado);
                 if (valor != null)
                 {
                     label = valor.DescripcionUi;

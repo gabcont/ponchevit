@@ -2,19 +2,20 @@ using System.Collections.Generic;
 using System.Linq;
 using Ponchevit.Domain.Model;
 using Ponchevit.Domain.Query;
+using Ponchevit.Data;
 using Xunit;
 
 namespace Ponchevit.Tests.Domain.Query;
 
 public class CascadeMenuBuilderTests
 {
-    private class MockRulesProvider : ICoveninRulesProvider
+    private class MockRulesRepository : ICoveninRulesRepository
     {
         public List<Conexion> Connections = new();
         public List<Columna> Columns = new();
         public List<Valor> Values = new();
 
-        public IEnumerable<Conexion> GetChildren(string? parentId) =>
+        public IEnumerable<Conexion> GetConexionesByParent(string? parentId) =>
             Connections.Where(c => c.ParentId == parentId);
 
         public Columna? GetColumna(string idColumna) =>
@@ -22,18 +23,21 @@ public class CascadeMenuBuilderTests
 
         public Valor? GetValor(string idValor) =>
             Values.FirstOrDefault(v => v.IdValor == idValor);
+
+        public IEnumerable<Columna> GetColumnas() => Columns;
+        public IEnumerable<Valor> GetValores() => Values;
     }
 
     [Fact]
     public void GetNextLevel_ReturnsCorrectLevelAndOptions()
     {
         // Arrange
-        var provider = new MockRulesProvider();
-        provider.Columns.Add(new Columna("COL_1", "CAPITULO"));
-        provider.Connections.Add(new Conexion("CON_1", null, "E4", "COL_1", null));
-        provider.Connections.Add(new Conexion("CON_2", null, "E3", "COL_1", null));
+        var repository = new MockRulesRepository();
+        repository.Columns.Add(new Columna("COL_1", "CAPITULO"));
+        repository.Connections.Add(new Conexion("CON_1", null, "E4", "COL_1", null));
+        repository.Connections.Add(new Conexion("CON_2", null, "E3", "COL_1", null));
 
-        var builder = new CascadeMenuBuilder(provider);
+        var builder = new CascadeMenuBuilder(repository);
 
         // Act
         var result = builder.GetNextLevel(null);
@@ -51,12 +55,12 @@ public class CascadeMenuBuilderTests
     public void GetNextLevel_UsesValueDescription_WhenAvailable()
     {
         // Arrange
-        var provider = new MockRulesProvider();
-        provider.Columns.Add(new Columna("COL_2", "SUB-CAPITULO"));
-        provider.Values.Add(new Valor("VAL_1", "Albañilería", "COL_2"));
-        provider.Connections.Add(new Conexion("CON_2", "CON_1", "1", "COL_2", "VAL_1"));
+        var repository = new MockRulesRepository();
+        repository.Columns.Add(new Columna("COL_2", "SUB-CAPITULO"));
+        repository.Values.Add(new Valor("VAL_1", "Albañilería", "COL_2"));
+        repository.Connections.Add(new Conexion("CON_2", "CON_1", "1", "COL_2", "VAL_1"));
 
-        var builder = new CascadeMenuBuilder(provider);
+        var builder = new CascadeMenuBuilder(repository);
 
         // Act
         var result = builder.GetNextLevel("CON_1");
@@ -71,8 +75,8 @@ public class CascadeMenuBuilderTests
     public void GetNextLevel_ReturnsNull_WhenNoChildrenExist()
     {
         // Arrange
-        var provider = new MockRulesProvider();
-        var builder = new CascadeMenuBuilder(provider);
+        var repository = new MockRulesRepository();
+        var builder = new CascadeMenuBuilder(repository);
 
         // Act
         var result = builder.GetNextLevel("CON_UNKNOWN");
