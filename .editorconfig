@@ -1,0 +1,17 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+[*.{csproj,props,addin,xaml}]
+end_of_line = crlf
+
+[*.cs]
+csharp_new_line_before_open_brace = all
+csharp_prefer_simple_using_statement = true:suggestion
+dotnet_sort_system_directives_first = true
