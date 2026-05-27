@@ -24,8 +24,8 @@ Exit criteria: all Domain/Data tests green. No RevitAPI reference anywhere under
 - [x] 1.1 — Domain/Model: DAG types (Columna, Valor, Conexion) + flat catalog types (Capitulo, Subcapitulo, Seccion, Partida) + CodigoCovenin value type (2346b8d)
 - [x] 1.2 — Domain/Graph/EmptyBridgeResolver — handles `Codigo_Aportado=""`, inherits Parent_Id. (e371b5d)
 - [x] 1.3 — Domain/Graph/CodeAssembler — root→leaf concat, 10-digit firewall, exposes ComputePrefix(connectionId). (e371b5d)
-- [ ] 1.4 — Domain/Query/PrefixPathQuery — DAG-derived; no dependency on stored mask columns (which don't exist yet).
-- [ ] 1.5 — Domain/Query/CascadeMenuBuilder — given partial selection, returns next-level options + remaining required columns (drives central panel).
+- [x] 1.4 — Domain/Query/PrefixPathQuery — DAG-derived; no dependency on stored mask columns (which don't exist yet). (161e1a0)
+- [x] 1.5 — Domain/Query/CascadeMenuBuilder — given partial selection, returns next-level options + remaining required columns (drives central panel). (161e1a0)
 - [ ] 1.6 — Domain/Catalog/PartidaCatalog — reads the 2081 known partidas from `IPartidasRepository`; attaches Subcapítulo + Sección via PartidaHierarchyResolver; logs and excludes schema anomalies (non-10-digit codes, placeholder codes like `E015xxx5xx`); cached for the Revit session.
 - [ ] 1.7 — Domain/Catalog/PartidaHierarchyResolver — longest-prefix match of `Partida.codigo` against `Seccion.codigo` (fall back along the prefix chain); pure C#, table-driven.
 - [ ] 1.8 — Domain/Catalog/PartidaFilter — pure predicate `(selectionState) → IReadOnlyList<Partida>`.
