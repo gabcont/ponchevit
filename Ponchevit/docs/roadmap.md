@@ -26,11 +26,11 @@ Exit criteria: all Domain/Data tests green. No RevitAPI reference anywhere under
 - [x] 1.3 — Domain/Graph/CodeAssembler — root→leaf concat, 10-digit firewall, exposes ComputePrefix(connectionId). (e371b5d)
 - [x] 1.4 — Domain/Query/PrefixPathQuery — DAG-derived; no dependency on stored mask columns (which don't exist yet). (161e1a0)
 - [x] 1.5 — Domain/Query/CascadeMenuBuilder — given partial selection, returns next-level options + remaining required columns (drives central panel). (161e1a0)
-- [ ] 1.6 — Domain/Catalog/PartidaCatalog — reads the 2081 known partidas from `IPartidasRepository`; attaches Subcapítulo + Sección via PartidaHierarchyResolver; logs and excludes schema anomalies (non-10-digit codes, placeholder codes like `E015xxx5xx`); cached for the Revit session.
-- [ ] 1.7 — Domain/Catalog/PartidaHierarchyResolver — longest-prefix match of `Partida.codigo` against `Seccion.codigo` (fall back along the prefix chain); pure C#, table-driven.
-- [ ] 1.8 — Domain/Catalog/PartidaFilter — pure predicate `(selectionState) → IReadOnlyList<Partida>`.
-- [ ] 1.9 — Domain/Aliases/IAliasResolver + IdentityAliasResolver (MVP passthrough; future SqliteAliasResolver backs the `Covenin_Alias` table when it exists).
-- [ ] 1.10 — Data/IPartidasRepository interface (read-only) — exposes Capitulos/Subcapitulos/Secciones/Partidas.
+- [x] 1.6 — Domain/Catalog/PartidaCatalog — reads the 2081 known partidas from `IPartidasRepository`; attaches Subcapítulo + Sección via PartidaHierarchyResolver; logs and excludes schema anomalies (non-10-digit codes, placeholder codes like `E015xxx5xx`); cached for the Revit session.
+- [x] 1.7 — Domain/Catalog/PartidaHierarchyResolver — longest-prefix match of `Partida.codigo` against `Seccion.codigo` (fall back along the prefix chain); pure C#, table-driven.
+- [x] 1.8 — Domain/Catalog/PartidaFilter — pure predicate `(selectionState) → IReadOnlyList<Partida>`.
+- [x] 1.9 — Domain/Aliases/IAliasResolver + IdentityAliasResolver (MVP passthrough; future SqliteAliasResolver backs the `Covenin_Alias` table when it exists).
+- [x] 1.10 — Data/IPartidasRepository interface (read-only) — exposes Capitulos/Subcapitulos/Secciones/Partidas.
 - [ ] 1.11 — Data/ICoveninRulesRepository interface (read-only) — exposes Columnas, Valores, and lazy `GetConexionesByParent(Id_Conexion?)` for DAG traversal.
 - [ ] 1.12 — Data/Sqlite/SqlitePartidasRepository (Microsoft.Data.Sqlite) — eager-loads all four tables from `partidas.db` (small enough; ~2350 total rows).
 - [ ] 1.13 — Data/Sqlite/SqliteCoveninRulesRepository — eager-loads `Covenin_Columnas` (45) + `Covenin_Valores` (379) from `covenin.db`; lazy + in-memory cache on `Covenin_Conexiones` keyed by `Parent_Id`.
