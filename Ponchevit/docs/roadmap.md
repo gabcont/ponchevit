@@ -8,31 +8,35 @@ It tracks the *Agregar*, *Asignar*, and *Reconocer* workflows, with codes organi
 
 Exit criteria: `dotnet build Ponchevit.slnx` succeeds; add-in still loads in Revit 2026; "Command One" still works.
 
-- [ ] 0.1 — Restructure folders per architecture.md (App.cs, Commands/, Composition/, Infrastructure/, Domain/, Data/, Revit/, Ui/, Resources/). Existing CommandOne stays wired until Phase 3.7.
-- [ ] 0.2 — Infrastructure/Log.cs: ILog interface + FileLog (writes to `%AppData%\Ponchevit\log.txt`).
-- [ ] 0.3 — Composition/Services.cs composition root (wires ILog only for now).
-- [ ] 0.4 — Rewrite manifest/Ponchevit.addin to use relative path `Ponchevit.dll`; remove hardcoded username.
-- [ ] 0.5 — Create Ponchevit.Tests/Ponchevit.Tests.csproj (xUnit, net8.0); add to Ponchevit.slnx.
-- [ ] 0.6 — Write docs/architecture.md, docs/roadmap.md, docs/decisions.md; update root AGENTS.md.
-- [ ] 0.7 — Add .editorconfig (C# defaults) and Conventional Commits note in AGENTS.md.
+- [x] 0.1 — Restructure folders per architecture.md (App.cs, Commands/, Composition/, Infrastructure/, Domain/, Data/, Revit/, Ui/, Resources/). Existing CommandOne stays wired until Phase 3.7. (e912d11)
+- [x] 0.2 — Infrastructure/Log.cs: ILog interface + FileLog (writes to %AppData%\Ponchevit\log.txt). (e912d11)
+- [x] 0.3 — Composition/Services.cs composition root (wires ILog only for now). (e912d11)
+- [x] 0.4 — Rewrite manifest/Ponchevit.addin to use relative path Ponchevit.dll; remove hardcoded username. (e912d11)
+- [x] 0.5 — Create Ponchevit.Tests/Ponchevit.Tests.csproj (xUnit, net8.0); add to Ponchevit.slnx. (e912d11)
+- [x] 0.6 — Write docs/architecture.md, docs/roadmap.md, docs/decisions.md; update root AGENTS.md. (e912d11)
+- [x] 0.7 — Add .editorconfig (C# defaults) and Conventional Commits note in AGENTS.md. (e912d11)
+
 
 ## Phase 1 — Domain + Data (pure C#, zero Revit refs)
 
 Exit criteria: all Domain/Data tests green. No RevitAPI reference anywhere under `Domain/` or `Data/`.
 
-- [ ] 1.1 — Domain/Model: Columna, Valor, Conexion, Partida, CodigoCovenin (value type parses e.g. E411011015 → Capítulo/Subcapítulo/Sección).
+- [ ] 1.1 — Domain/Model: DAG types (Columna, Valor, Conexion) + flat catalog types (Capitulo, Subcapitulo, Seccion, Partida) + CodigoCovenin value type (parses e.g. E411011015 → Capítulo/Subcapítulo/Sección).
 - [ ] 1.2 — Domain/Graph/EmptyBridgeResolver — handles `Codigo_Aportado=""`, inherits Parent_Id.
 - [ ] 1.3 — Domain/Graph/CodeAssembler — root→leaf concat, 10-digit firewall, exposes ComputePrefix(connectionId).
 - [ ] 1.4 — Domain/Query/PrefixPathQuery — DAG-derived; no dependency on stored mask columns (which don't exist yet).
 - [ ] 1.5 — Domain/Query/CascadeMenuBuilder — given partial selection, returns next-level options + remaining required columns (drives central panel).
-- [ ] 1.6 — Domain/Catalog/PartidaCatalog — eager DAG enumeration of all valid 10-digit terminal paths; cached for Revit session; designed for ~1000 partidas.
-- [ ] 1.7 — Domain/Catalog/PartidaFilter — pure predicate `(selectionState) → IReadOnlyList<Partida>`.
-- [ ] 1.8 — Domain/Aliases/IAliasResolver + IdentityAliasResolver (MVP passthrough; future SqliteAliasResolver backs the `Covenin_Alias` table when it exists).
-- [ ] 1.9 — Data/ICoveninRepository interface (read-only).
-- [ ] 1.10 — Data/Sqlite/SqliteCoveninRepository (Microsoft.Data.Sqlite). Eager-loads Columnas + Valores, lazy+cached on Conexiones by Parent_Id.
-- [ ] 1.11 — Data/Sqlite/ConnectionFactory — resolves DB path beside DLL, validates `_meta.schema_version`.
-- [ ] 1.12 — xUnit tests for Domain + Data (in-memory SQLite fixture). Cover: code assembler incl. empty bridges + 10-digit cap, prefix-path correctness, cascade builder, repository against fixture, catalog enumeration.
-- [ ] 1.13 — Write docs/domain-model.md and docs/data-layer.md.
+- [ ] 1.6 — Domain/Catalog/PartidaCatalog — reads the 2081 known partidas from `IPartidasRepository`; attaches Subcapítulo + Sección via PartidaHierarchyResolver; logs and excludes schema anomalies (non-10-digit codes, placeholder codes like `E015xxx5xx`); cached for the Revit session.
+- [ ] 1.7 — Domain/Catalog/PartidaHierarchyResolver — longest-prefix match of `Partida.codigo` against `Seccion.codigo` (fall back along the prefix chain); pure C#, table-driven.
+- [ ] 1.8 — Domain/Catalog/PartidaFilter — pure predicate `(selectionState) → IReadOnlyList<Partida>`.
+- [ ] 1.9 — Domain/Aliases/IAliasResolver + IdentityAliasResolver (MVP passthrough; future SqliteAliasResolver backs the `Covenin_Alias` table when it exists).
+- [ ] 1.10 — Data/IPartidasRepository interface (read-only) — exposes Capitulos/Subcapitulos/Secciones/Partidas.
+- [ ] 1.11 — Data/ICoveninRulesRepository interface (read-only) — exposes Columnas, Valores, and lazy `GetConexionesByParent(Id_Conexion?)` for DAG traversal.
+- [ ] 1.12 — Data/Sqlite/SqlitePartidasRepository (Microsoft.Data.Sqlite) — eager-loads all four tables from `partidas.db` (small enough; ~2350 total rows).
+- [ ] 1.13 — Data/Sqlite/SqliteCoveninRulesRepository — eager-loads `Covenin_Columnas` (45) + `Covenin_Valores` (379) from `covenin.db`; lazy + in-memory cache on `Covenin_Conexiones` keyed by `Parent_Id`.
+- [ ] 1.14 — Data/Sqlite/ConnectionFactory — resolves both DB paths beside the DLL (`partidas.db`, `covenin.db`); validates each `_meta.schema_version` row independently and raises a clear error per missing/mismatched DB.
+- [ ] 1.15 — xUnit tests for Domain + Data using two in-memory SQLite fixtures (one per schema). Cover: code assembler incl. empty bridges + 10-digit cap, prefix-path correctness, cascade builder, both repositories, PartidaHierarchyResolver longest-prefix logic, schema-anomaly exclusion in catalog load.
+- [ ] 1.16 — Write docs/domain-model.md and docs/data-layer.md (the latter documents both `partidas.db` and `covenin.db` schemas + loading strategies side-by-side).
 
 ## Phase 2 — Revit adapters
 
@@ -71,7 +75,7 @@ Exit criteria: existing wall in a project gets tagged with COVENIN params via th
 
 Exit criteria: topology-aware scanning (if implemented) routes matched Partida(s) to the Assign flow.
 
-- [ ] 5.1 — Domain/Matching/IElementMatcher + CategoryMatcher + DimensionalRangeMatcher (uses Num_Min/Num_Max/Unidad from Valores).
+- [ ] 5.1 — Domain/Matching/IElementMatcher + CategoryMatcher + DimensionalRangeMatcher (uses Num_Min/Num_Max/Unidad from Valores) (sourced via `ICoveninRulesRepository`).
 - [ ] 5.2 — Ui/ReconocerElemento/ comparative scanner window.
 - [ ] 5.3 — ReconocerElementoCommand entrypoint; hands matched partida off to the Assign flow.
 - [ ] 5.4 — Topology-match strategy stays designed-for but unimplemented unless time permits; record a decisions.md entry if added.
