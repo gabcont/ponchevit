@@ -1,0 +1,92 @@
+<Window x:Class="Ponchevit.Ui.MaterialMapping.MaterialMappingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Mapeo de Materiales"
+        Width="720" Height="520"
+        MinWidth="520" MinHeight="320"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResizeWithGrip">
+
+    <DockPanel Margin="10">
+
+        <!-- Bottom: action buttons -->
+        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal"
+                    HorizontalAlignment="Right" Margin="0,8,0,0">
+            <Button Content="Guardar" Command="{Binding SaveCommand}"
+                    Width="90" Margin="0,0,8,0" IsDefault="True"/>
+            <Button Content="Cancelar" Command="{Binding CancelCommand}"
+                    Width="90" IsCancel="True"/>
+        </StackPanel>
+
+        <!-- Header label -->
+        <TextBlock DockPanel.Dock="Top"
+                   Text="Asigna a cada material de Revit su equivalente en el código COVENIN."
+                   Margin="0,0,0,8" TextWrapping="Wrap" Foreground="Gray"/>
+
+        <!-- Main grid -->
+        <DataGrid ItemsSource="{Binding Rows}"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  SelectionMode="Single"
+                  GridLinesVisibility="Horizontal"
+                  HeadersVisibility="Column"
+                  RowHeaderWidth="0"
+                  BorderThickness="1"
+                  BorderBrush="LightGray">
+
+            <DataGrid.Columns>
+
+                <!-- Col 1: Revit material name (read-only) -->
+                <DataGridTextColumn Header="Material Revit"
+                                    Binding="{Binding RevitMaterialName, Mode=OneWay}"
+                                    IsReadOnly="True"
+                                    Width="*"/>
+
+                <!-- Col 2: Suggestion (accept button, hidden when no suggestion) -->
+                <DataGridTemplateColumn Header="Sugerencia" Width="170" IsReadOnly="True">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Command="{Binding AcceptSuggestionCommand}"
+                                    Padding="5,2" HorizontalAlignment="Left"
+                                    ToolTip="Aceptar esta sugerencia como valor COVENIN">
+                                <TextBlock Text="{Binding Suggestion}" FontStyle="Italic"/>
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding Suggestion}" Value="{x:Null}">
+                                                <Setter Property="Visibility" Value="Collapsed"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </Button.Style>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Col 3: Covenin value (display/edit) -->
+                <DataGridTemplateColumn Header="Valor COVENIN  (doble clic para editar)" Width="230">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding SelectedCoveninDisplay}"
+                                       VerticalAlignment="Center" Margin="4,0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox ItemsSource="{Binding DataContext.CoveninOptions,
+                                          RelativeSource={RelativeSource AncestorType=DataGrid}}"
+                                      SelectedValue="{Binding SelectedCoveninValueId,
+                                          UpdateSourceTrigger=PropertyChanged}"
+                                      SelectedValuePath="IdValor"
+                                      DisplayMemberPath="Display"
+                                      IsEditable="False"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </DockPanel>
+</Window>

@@ -46,6 +46,13 @@ def inicializar_base_de_datos(db_name="covenin.db"):
     )
     ''')
 
+    cursor.execute('''
+    CREATE TABLE IF NOT EXISTS _meta (
+        schema_version INTEGER NOT NULL
+    )
+    ''')
+    cursor.execute("INSERT OR IGNORE INTO _meta (schema_version) SELECT 1 WHERE NOT EXISTS (SELECT 1 FROM _meta)")
+
     conn.commit()
     return conn, cursor
 

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\manifest\\ponchevit.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\manifest\\ponchevit.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\CLAUDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CLAUDE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\ponchevit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\ponchevit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\commands\\commandone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\commands\\commandone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\buttonone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\buttonone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\ponchevit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{FC826E07-C4DB-47A1-8B50-998B24E1FD07}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\ponchevit.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{75D068AA-C999-9510-242E-3BF5507DFBE3}|Ponchevit.Tests\\Ponchevit.Tests.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit.tests\\smoketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75D068AA-C999-9510-242E-3BF5507DFBE3}|Ponchevit.Tests\\Ponchevit.Tests.csproj|solutionrelative:ponchevit.tests\\smoketests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\domain\\model\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\domain\\model\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\docs\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\docs\\architecture.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\domain\\graph\\codeassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\domain\\graph\\codeassembler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|c:\\users\\windows 11\\source\\repos\\ponchevit\\ponchevit\\domain\\aliases\\ialiasresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33DBA93A-92DE-A085-F22C-E164493ADE40}|Ponchevit\\Ponchevit.csproj|solutionrelative:ponchevit\\domain\\aliases\\ialiasresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "architecture.md",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\docs\\architecture.md",
+              "RelativeDocumentMoniker": "Ponchevit\\docs\\architecture.md",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\docs\\architecture.md",
+              "RelativeToolTip": "Ponchevit\\docs\\architecture.md",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-30T19:05:39.484Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ponchevit.addin",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\manifest\\Ponchevit.addin",
-              "RelativeDocumentMoniker": "Ponchevit\\manifest\\Ponchevit.addin",
-              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\manifest\\Ponchevit.addin",
-              "RelativeToolTip": "Ponchevit\\manifest\\Ponchevit.addin",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
-              "WhenOpened": "2026-05-24T20:53:40.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ponchevit",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Ponchevit.csproj",
-              "RelativeDocumentMoniker": "Ponchevit\\Ponchevit.csproj",
-              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Ponchevit.csproj",
-              "RelativeToolTip": "Ponchevit\\Ponchevit.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-24T20:51:18.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ButtonOne.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\ButtonOne.cs",
-              "RelativeDocumentMoniker": "Ponchevit\\ButtonOne.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\ButtonOne.cs",
-              "RelativeToolTip": "Ponchevit\\ButtonOne.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T20:49:37.284Z",
+              "Title": "CLAUDE.md",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\CLAUDE.md",
+              "RelativeDocumentMoniker": "CLAUDE.md",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\CLAUDE.md",
+              "RelativeToolTip": "CLAUDE.md",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-31T20:24:49.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ponchevit.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Ponchevit.cs",
-              "RelativeDocumentMoniker": "Ponchevit\\Ponchevit.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Ponchevit.cs",
-              "RelativeToolTip": "Ponchevit\\Ponchevit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "CommandOne.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Commands\\CommandOne.cs",
+              "RelativeDocumentMoniker": "Ponchevit\\Commands\\CommandOne.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Commands\\CommandOne.cs",
+              "RelativeToolTip": "Ponchevit\\Commands\\CommandOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T20:37:36.092Z",
+              "WhenOpened": "2026-05-31T20:18:31.806Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmokeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit.Tests\\SmokeTests.cs",
+              "RelativeDocumentMoniker": "Ponchevit.Tests\\SmokeTests.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit.Tests\\SmokeTests.cs",
+              "RelativeToolTip": "Ponchevit.Tests\\SmokeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:18:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\App.cs",
+              "RelativeDocumentMoniker": "Ponchevit\\App.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\App.cs",
+              "RelativeToolTip": "Ponchevit\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T20:18:08.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Domain\\Model\\Catalog.cs",
+              "RelativeDocumentMoniker": "Ponchevit\\Domain\\Model\\Catalog.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Domain\\Model\\Catalog.cs",
+              "RelativeToolTip": "Ponchevit\\Domain\\Model\\Catalog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:06:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAliasResolver.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Domain\\Aliases\\IAliasResolver.cs",
+              "RelativeDocumentMoniker": "Ponchevit\\Domain\\Aliases\\IAliasResolver.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Domain\\Aliases\\IAliasResolver.cs",
+              "RelativeToolTip": "Ponchevit\\Domain\\Aliases\\IAliasResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T19:05:21.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeAssembler.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Domain\\Graph\\CodeAssembler.cs",
+              "RelativeDocumentMoniker": "Ponchevit\\Domain\\Graph\\CodeAssembler.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Domain\\Graph\\CodeAssembler.cs",
+              "RelativeToolTip": "Ponchevit\\Domain\\Graph\\CodeAssembler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T18:27:00.98Z"
             }
           ]
         }

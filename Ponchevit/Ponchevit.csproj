@@ -1,17 +1,23 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <!-- Force NuGet package DLLs into the output directory so PostBuild can deploy them to Revit. -->
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
     <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="manifest\Ponchevit.addin" />
+    <None Include="Resources\partidas.db" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="Resources\covenin.db" CopyToOutputDirectory="PreserveNewest" />
   </ItemGroup>
 
   <ItemGroup>
@@ -26,7 +32,31 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="copy /Y &quot;$(TargetPath)&quot; &quot;%25AppData%25\Autodesk\Revit\Addins\2026\&quot;&#xD;&#xA;copy /Y &quot;$(ProjectDir)manifest\Ponchevit.addin&quot; &quot;%25AppData%25\Autodesk\Revit\Addins\2026\&quot;" />
+    <ItemGroup>
+      <!-- Managed DLLs: plugin + NuGet deps. RevitAPI/UI have Private=False so they are excluded. -->
+      <_DeployDlls Include="$(TargetDir)*.dll" />
+      <!-- Native SQLite binary for win-x64; placed flat next to managed DLLs so P/Invoke finds it. -->
+      <_DeployNative Include="$(TargetDir)runtimes\win-x64\native\e_sqlite3.dll" />
+    </ItemGroup>
+    <Copy SourceFiles="@(_DeployDlls)"
+          DestinationFolder="$(APPDATA)\Autodesk\Revit\Addins\2026\"
+          SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(_DeployNative)"
+          DestinationFolder="$(APPDATA)\Autodesk\Revit\Addins\2026\"
+          SkipUnchangedFiles="true" />
+    <!-- deps.json lets the .NET runtime resolve assembly versions correctly inside Revit. -->
+    <Copy SourceFiles="$(TargetDir)$(AssemblyName).deps.json"
+          DestinationFolder="$(APPDATA)\Autodesk\Revit\Addins\2026\"
+          SkipUnchangedFiles="true" />
+    <Copy SourceFiles="$(ProjectDir)manifest\Ponchevit.addin"
+          DestinationFolder="$(APPDATA)\Autodesk\Revit\Addins\2026\"
+          SkipUnchangedFiles="true" />
+    <Copy SourceFiles="$(ProjectDir)Resources\partidas.db"
+          DestinationFolder="$(APPDATA)\Autodesk\Revit\Addins\2026\"
+          SkipUnchangedFiles="true" />
+    <Copy SourceFiles="$(ProjectDir)Resources\covenin.db"
+          DestinationFolder="$(APPDATA)\Autodesk\Revit\Addins\2026\"
+          SkipUnchangedFiles="true" />
   </Target>
 
 </Project>

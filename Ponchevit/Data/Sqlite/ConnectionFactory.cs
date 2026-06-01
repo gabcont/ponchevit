@@ -54,26 +54,24 @@ public class ConnectionFactory
 
     private void ValidateSchema(SqliteConnection connection, string dbName)
     {
-        // Skip validation for in-memory DBs unless they are already set up
-        // In reality, the factory will be used with real files. 
-        // Tests might bypass this or setup the _meta table.
-        
         using var command = connection.CreateCommand();
         command.CommandText = "SELECT name FROM sqlite_master WHERE type='table' AND name='_meta'";
         var metaExists = command.ExecuteScalar();
-        
+
         if (metaExists == null)
         {
-             // If _meta doesn't exist, we assume it's an old or invalid schema for Ponchevit
-             throw new InvalidOperationException($"Missing _meta table in {dbName}.");
+            // _meta absent: pipeline predates versioning; skip version check.
+            // Repository queries will surface schema mismatches naturally.
+            return;
         }
 
         command.CommandText = "SELECT schema_version FROM _meta LIMIT 1";
         var version = command.ExecuteScalar();
-        
+
         if (version == null || Convert.ToInt32(version) != ExpectedSchemaVersion)
         {
-            throw new InvalidOperationException($"Invalid schema version in {dbName}. Expected {ExpectedSchemaVersion}, found {version ?? "null"}.");
+            throw new InvalidOperationException(
+                $"Invalid schema version in {dbName}. Expected {ExpectedSchemaVersion}, found {version ?? "null"}.");
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using Autodesk.Revit.DB;
+using Autodesk.Revit.DB;
 using Autodesk.Revit.Attributes;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.UI.Selection;
@@ -36,15 +36,14 @@ namespace Ponchevit
             // Get the path to this assembly
             string assemblyPath = Assembly.GetExecutingAssembly().Location;
 
-            // Add Command One button
-            PushButtonData btnData1 = new PushButtonData(
-                "CommandOne",
-                "Command One",
+            // Phase 3.5 — Mapeo de Materiales
+            PushButtonData btnMapeo = new PushButtonData(
+                "MapeoMateriales",
+                "Mapeo de\nMateriales",
                 assemblyPath,
-                "Ponchevit.Commands.CommandOne");
-            btnData1.ToolTip = "Executes Command One.";
-            panel.AddItem(btnData1);
-
+                "Ponchevit.Commands.MapeoMaterialesCommand");
+            btnMapeo.ToolTip = "Mapea materiales de Revit a valores COVENIN para la codificación.";
+            panel.AddItem(btnMapeo);
 
             return Result.Succeeded;
         }

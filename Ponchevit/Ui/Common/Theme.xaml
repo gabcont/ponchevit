@@ -1,0 +1,15 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--
+        Phase 7: add styling tokens here.
+        Merge this into each window's Resources to pick up the theme automatically.
+        Example usage in a Window:
+            <Window.Resources>
+                <ResourceDictionary>
+                    <ResourceDictionary.MergedDictionaries>
+                        <ResourceDictionary Source="pack://application:,,,/Ponchevit;component/Ui/Common/Theme.xaml"/>
+                    </ResourceDictionary.MergedDictionaries>
+                </ResourceDictionary>
+            </Window.Resources>
+    -->
+</ResourceDictionary>

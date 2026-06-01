@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SuoAzRIZMD0=",
+  "dgSpecHash": "qbwA2gqjHew=",
   "success": true,
   "projectFilePath": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Ponchevit.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Windows 11\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.data.sqlite\\9.0.2\\microsoft.data.sqlite.9.0.2.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\Windows 11\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
