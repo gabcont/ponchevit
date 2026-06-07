@@ -42,6 +42,12 @@ public class PartidaConstructibilityResolverTests
                 string.IsNullOrEmpty(parentId)
                     ? c.ParentId == null || c.ParentId == string.Empty
                     : c.ParentId == parentId);
+
+        public Conexion? GetConexionById(string idConexion)
+            => _all.FirstOrDefault(c => c.IdConexion == idConexion);
+
+        public IEnumerable<Conexion> GetConexionesByValorId(string idValorAsociado)
+            => _all.Where(c => c.IdValorAsociado == idValorAsociado);
     }
 
     // ── Helpers ───────────────────────────────────────────────────────────────

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 
-3-1378187975
+4-710905631
 
-51235477217
+68-1984257976
 205-1438526537
-Ui\AgregarFamilia\AgregarFamiliaWindow.xaml;Ui\Common\Theme.xaml;Ui\MaterialMapping\MaterialMappingWindow.xaml;
+Ui\Codificacion\CodificacionDashboardWindow.xaml;Ui\Common\Theme.xaml;Ui\MaterialMapping\MaterialMappingWindow.xaml;Ui\PartidaSelection\PartidaSelectionWindow.xaml;
 
 True
 

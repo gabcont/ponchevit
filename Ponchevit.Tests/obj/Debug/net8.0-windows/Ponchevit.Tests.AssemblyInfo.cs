@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ponchevit.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd9cd32ada03e49e9410504aefe8ff9b7de5e01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6babcd4a0595d85d49d59c35e4ca97360601b531")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ponchevit.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ponchevit.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

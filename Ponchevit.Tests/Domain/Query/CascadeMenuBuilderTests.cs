@@ -26,6 +26,12 @@ public class CascadeMenuBuilderTests
 
         public IEnumerable<Columna> GetColumnas() => Columns;
         public IEnumerable<Valor> GetValores() => Values;
+
+        public Conexion? GetConexionById(string idConexion) =>
+            Connections.FirstOrDefault(c => c.IdConexion == idConexion);
+
+        public IEnumerable<Conexion> GetConexionesByValorId(string idValorAsociado) =>
+            Connections.Where(c => c.IdValorAsociado == idValorAsociado);
     }
 
     [Fact]

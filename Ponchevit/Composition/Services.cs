@@ -1,10 +1,14 @@
+using System;
+using System.Linq;
 using Ponchevit.Data;
 using Ponchevit.Data.Sqlite;
 using Ponchevit.Domain.Aliases;
 using Ponchevit.Domain.Catalog;
 using Ponchevit.Domain.Materials;
+using Ponchevit.Domain.Matching;
 using Ponchevit.Infrastructure;
 using Ponchevit.Revit;
+using Ponchevit.Revit.Codificacion;
 using Ponchevit.Revit.Context;
 using Ponchevit.Revit.Families;
 using Ponchevit.Revit.Materials;
@@ -40,6 +44,20 @@ public sealed class Services
     public IMaterialMappingResolver MaterialMappingResolver { get; }
 
     public IFamilyGenerator[] FamilyGenerators { get; }
+    public IElementRecognizer[] ElementRecognizers { get; }
+
+    /// <summary>
+    /// Routes a topology snapshot to the first matching IElementRecognizer.
+    /// The delegate signature uses only pure-C# types so Ui/ can call it safely.
+    /// </summary>
+    public Func<ElementTopology, PrefillResult> RecognizeTopology { get; }
+
+    /// <summary>
+    /// Returns true when at least one IElementRecognizer can handle the given topology.
+    /// Used by commands to gate the recognizeFunc argument and disable Reconocer for
+    /// elements whose category has no recognizer.
+    /// </summary>
+    public Func<ElementTopology, bool> CanRecognizeTopology { get; }
 
     /// <summary>
     /// Shared resolver for Partida → Sección/Subcapítulo/Capítulo hierarchy.
@@ -57,6 +75,12 @@ public sealed class Services
     public FamilyGenerationOrchestrator GenerationOrchestrator { get; }
 
     /// <summary>
+    /// Orchestrates writing 4 COVENIN shared parameters onto an existing element.
+    /// Consumed by AsignarCodigoCommand via PostExternalEvent.
+    /// </summary>
+    public AssignCodeOrchestrator AssignCodeOrchestrator { get; }
+
+    /// <summary>
     /// Returns project materials from a Revit Document.
     /// Consumed by both AgregarFamiliaCommand and MapeoMaterialesCommand.
     /// Fix #6 (option B): centralises FilteredElementCollector use; both commands share
@@ -64,6 +88,17 @@ public sealed class Services
     /// See ADR 2026-06-06 — Project-material query service.
     /// </summary>
     public IProjectMaterialQuery ProjectMaterialQuery { get; }
+
+    /// <summary>
+    /// Reads placed element instances from the active document and groups them by family type.
+    /// Consumed by CodificacionDashboardCommand and the Dashboard's Refrescar action.
+    /// </summary>
+    public ProjectInventoryReader ProjectInventoryReader { get; }
+
+    /// <summary>
+    /// Creates a multi-category COVENIN ViewSchedule. Fire-and-forget; exceptions are logged.
+    /// </summary>
+    public CodificacionScheduleBuilder CodificacionScheduleBuilder { get; }
 
     private Services(
         ILog log,
@@ -76,9 +111,15 @@ public sealed class Services
         IMaterialMappingRepository materialMappingRepository,
         IMaterialMappingResolver materialMappingResolver,
         IFamilyGenerator[] familyGenerators,
+        IElementRecognizer[] elementRecognizers,
+        Func<ElementTopology, PrefillResult> recognizeTopology,
+        Func<ElementTopology, bool> canRecognizeTopology,
         FamilyGenerationOrchestrator generationOrchestrator,
+        AssignCodeOrchestrator assignCodeOrchestrator,
         IProjectMaterialQuery projectMaterialQuery,
-        PartidaHierarchyResolver hierarchyResolver)
+        PartidaHierarchyResolver hierarchyResolver,
+        ProjectInventoryReader projectInventoryReader,
+        CodificacionScheduleBuilder codificacionScheduleBuilder)
     {
         Log = log;
         RevitContext = revitContext;
@@ -90,9 +131,15 @@ public sealed class Services
         MaterialMappingRepository = materialMappingRepository;
         MaterialMappingResolver = materialMappingResolver;
         FamilyGenerators = familyGenerators;
+        ElementRecognizers = elementRecognizers;
+        RecognizeTopology = recognizeTopology;
+        CanRecognizeTopology = canRecognizeTopology;
         GenerationOrchestrator = generationOrchestrator;
+        AssignCodeOrchestrator = assignCodeOrchestrator;
         ProjectMaterialQuery = projectMaterialQuery;
         HierarchyResolver = hierarchyResolver;
+        ProjectInventoryReader = projectInventoryReader;
+        CodificacionScheduleBuilder = codificacionScheduleBuilder;
     }
 
     public static Services Build()
@@ -122,8 +169,14 @@ public sealed class Services
         //   4. For elements that need a base RFA, ship it in Resources/Families/
         //      and load it in the generator via Document.LoadFamily before Generate().
         var generators = new IFamilyGenerator[] { new MuroGenerator(materialMappingRepo) };
-        // var recognizers = new IElementRecognizer[] { new MuroRecognizer(materialMappingRepo) }; // Phase 5
+        var recognizers = new IElementRecognizer[] { new MuroRecognizer(coveninRepo, log) };
+        Func<ElementTopology, PrefillResult> recognizeTopology = topology =>
+            recognizers.FirstOrDefault(r => r.CanRecognize(topology))?.Recognize(topology)
+            ?? PrefillResult.Empty;
+        Func<ElementTopology, bool> canRecognizeTopology = topology =>
+            recognizers.Any(r => r.CanRecognize(topology));
         var orchestrator = new FamilyGenerationOrchestrator(log);
+        var assignOrchestrator = new AssignCodeOrchestrator(log, aliasResolver);
         var materialQuery = new ProjectMaterialQuery(revitContext);
 
         // Fix C: build the resolver once; inject into the VM so BuildGeneratorInput
@@ -132,6 +185,9 @@ public sealed class Services
             partidasRepo.GetCapitulos(),
             partidasRepo.GetSubcapitulos(),
             partidasRepo.GetSecciones());
+
+        var inventoryReader      = new ProjectInventoryReader();
+        var scheduleBuilder      = new CodificacionScheduleBuilder(log);
 
         return new Services(
             log,
@@ -144,8 +200,14 @@ public sealed class Services
             materialMappingRepo,
             materialResolver,
             generators,
+            recognizers,
+            recognizeTopology,
+            canRecognizeTopology,
             orchestrator,
+            assignOrchestrator,
             materialQuery,
-            hierarchyResolver);
+            hierarchyResolver,
+            inventoryReader,
+            scheduleBuilder);
     }
 }

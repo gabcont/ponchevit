@@ -54,6 +54,24 @@ namespace Ponchevit
             btnAgregar.ToolTip = "Crea una familia COVENIN en el proyecto activo.";
             panel.AddItem(btnAgregar);
 
+            // Phase 5.7 — Asignar Código
+            PushButtonData btnAsignar = new PushButtonData(
+                "AsignarCodigo",
+                "Asignar\nCódigo",
+                assemblyPath,
+                "Ponchevit.Commands.AsignarCodigoCommand");
+            btnAsignar.ToolTip = "Asigna un código COVENIN al elemento seleccionado. Seleccione un elemento antes de hacer clic.";
+            panel.AddItem(btnAsignar);
+
+            // Phase 6.7 — Codificación Dashboard
+            PushButtonData btnDashboard = new PushButtonData(
+                "CodificacionDashboard",
+                "Codificación\nDashboard",
+                assemblyPath,
+                "Ponchevit.Commands.CodificacionDashboardCommand");
+            btnDashboard.ToolTip = "Muestra el inventario de familias del proyecto con su estado de codificación COVENIN.";
+            panel.AddItem(btnDashboard);
+
             return Result.Succeeded;
         }
 

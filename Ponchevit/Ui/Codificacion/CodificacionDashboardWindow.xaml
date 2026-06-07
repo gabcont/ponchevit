@@ -1,0 +1,224 @@
+<Window x:Class="Ponchevit.Ui.Codificacion.CodificacionDashboardWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Ponchevit.Ui.Codificacion"
+        Title="Codificación Dashboard"
+        Width="900" Height="620"
+        MinWidth="700" MinHeight="420"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResizeWithGrip">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisConverter"/>
+        <local:StatusFilterToBoolConverter x:Key="FilterConverter"/>
+        <local:NullOrEmptyToVisibilityConverter x:Key="NullToVisConverter"/>
+
+        <!-- Chip style for the Código status cell -->
+        <Style x:Key="CodifiedChipStyle" TargetType="Border">
+            <Setter Property="CornerRadius" Value="4"/>
+            <Setter Property="Padding" Value="6,2"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding IsCodified}" Value="True">
+                    <Setter Property="Background" Value="#D5F5E3"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding IsCodified}" Value="False">
+                    <Setter Property="Background" Value="#FDEBD0"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <!-- Header -->
+            <RowDefinition Height="Auto"/>
+            <!-- Toolbar -->
+            <RowDefinition Height="Auto"/>
+            <!-- DataGrid -->
+            <RowDefinition Height="*"/>
+            <!-- Status strip -->
+            <RowDefinition Height="Auto"/>
+            <!-- Footer -->
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Row 0: Header -->
+        <StackPanel Grid.Row="0" Margin="0,0,0,8">
+            <TextBlock Text="Codificación COVENIN"
+                       FontSize="16" FontWeight="Bold"/>
+            <TextBlock Text="{Binding AggregateHeader}"
+                       Foreground="Gray" Margin="0,2,0,0"/>
+        </StackPanel>
+
+        <!-- Row 1: Toolbar -->
+        <DockPanel Grid.Row="1" Margin="0,0,0,8">
+            <!-- Search box -->
+            <TextBox DockPanel.Dock="Left"
+                     Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"
+                     Width="220"
+                     Margin="0,0,12,0"
+                     VerticalContentAlignment="Center"
+                     ToolTip="Buscar familia...">
+                <TextBox.Style>
+                    <Style TargetType="TextBox">
+                        <Style.Resources>
+                            <VisualBrush x:Key="Watermark" AlignmentX="Left" AlignmentY="Center" Stretch="None">
+                                <VisualBrush.Visual>
+                                    <TextBlock Text="Buscar familia..." Foreground="Gray" Margin="4,0"/>
+                                </VisualBrush.Visual>
+                            </VisualBrush>
+                        </Style.Resources>
+                        <Style.Triggers>
+                            <Trigger Property="Text" Value="">
+                                <Setter Property="Background" Value="{StaticResource Watermark}"/>
+                            </Trigger>
+                            <Trigger Property="IsKeyboardFocused" Value="True">
+                                <Setter Property="Background" Value="White"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBox.Style>
+            </TextBox>
+
+            <!-- Filter radio buttons -->
+            <StackPanel Orientation="Horizontal">
+                <RadioButton Content="Todas"
+                             GroupName="StatusFilter"
+                             Margin="0,0,8,0"
+                             VerticalAlignment="Center"
+                             IsChecked="{Binding ActiveFilter,
+                                 Converter={StaticResource FilterConverter},
+                                 ConverterParameter=Todas}"/>
+                <RadioButton Content="Codificadas"
+                             GroupName="StatusFilter"
+                             Margin="0,0,8,0"
+                             VerticalAlignment="Center"
+                             IsChecked="{Binding ActiveFilter,
+                                 Converter={StaticResource FilterConverter},
+                                 ConverterParameter=Codificadas}"/>
+                <RadioButton Content="Sin código"
+                             GroupName="StatusFilter"
+                             VerticalAlignment="Center"
+                             IsChecked="{Binding ActiveFilter,
+                                 Converter={StaticResource FilterConverter},
+                                 ConverterParameter=SinCodigo}"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- Row 2: DataGrid -->
+        <DataGrid Grid.Row="2"
+                  ItemsSource="{Binding DisplayRows}"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  CanUserAddRows="False"
+                  CanUserDeleteRows="False"
+                  RowHeaderWidth="0"
+                  SelectionMode="Single"
+                  GridLinesVisibility="Horizontal"
+                  HeadersVisibility="Column"
+                  AlternatingRowBackground="#F9F9F9"
+                  BorderThickness="1"
+                  BorderBrush="LightGray">
+
+            <DataGrid.Columns>
+
+                <!-- Familia -->
+                <DataGridTextColumn Header="Familia"
+                                    Binding="{Binding FamilyTypeName}"
+                                    Width="*"/>
+
+                <!-- Categoría -->
+                <DataGridTextColumn Header="Categoría"
+                                    Binding="{Binding CategoryDisplayName}"
+                                    Width="120"/>
+
+                <!-- Código -->
+                <DataGridTextColumn Header="Código"
+                                    Binding="{Binding CodigoDisplay}"
+                                    Width="130"/>
+
+                <!-- Cantidad -->
+                <DataGridTextColumn Header="Cantidad"
+                                    Binding="{Binding QuantityDisplay}"
+                                    Width="90"/>
+
+                <!-- Estado (chip) -->
+                <DataGridTemplateColumn Header="Estado" Width="110">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Border Style="{StaticResource CodifiedChipStyle}">
+                                <TextBlock>
+                                    <TextBlock.Style>
+                                        <Style TargetType="TextBlock">
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding IsCodified}" Value="True">
+                                                    <Setter Property="Text" Value="Codificado"/>
+                                                    <Setter Property="Foreground" Value="#1E8449"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding IsCodified}" Value="False">
+                                                    <Setter Property="Text" Value="Sin código"/>
+                                                    <Setter Property="Foreground" Value="#A04000"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </Border>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <!-- Acción -->
+                <DataGridTemplateColumn Header="Acción" Width="90">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Asignar"
+                                    Padding="6,2"
+                                    Command="{Binding DataContext.AsignarCodigoCommand,
+                                              RelativeSource={RelativeSource AncestorType=Window}}"
+                                    CommandParameter="{Binding}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Row 3: Status strip -->
+        <TextBlock Grid.Row="3"
+                   Text="{Binding StatusMessage}"
+                   Margin="0,4,0,0"
+                   TextWrapping="Wrap"
+                   Visibility="{Binding StatusMessage, Converter={StaticResource NullToVisConverter}}">
+            <TextBlock.Style>
+                <Style TargetType="TextBlock">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding StatusIsError}" Value="True">
+                            <Setter Property="Foreground" Value="Red"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding StatusIsError}" Value="False">
+                            <Setter Property="Foreground" Value="Green"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBlock.Style>
+        </TextBlock>
+
+        <!-- Row 4: Footer -->
+        <StackPanel Grid.Row="4" Orientation="Horizontal" Margin="0,8,0,0">
+            <Button Content="Refrescar"
+                    Command="{Binding RefrescarCommand}"
+                    Width="90" Margin="0,0,8,0"/>
+            <Button Content="Generar Schedule"
+                    Command="{Binding GenerarScheduleCommand}"
+                    Width="120" Margin="0,0,8,0"/>
+            <Border Width="1" Background="LightGray" Margin="4,2"/>
+            <Button Content="Cerrar"
+                    Command="{Binding CancelCommand}"
+                    Width="80" Margin="8,0,0,0"
+                    IsCancel="True"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

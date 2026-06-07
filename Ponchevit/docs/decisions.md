@@ -11,6 +11,20 @@ Format:
 
 How to add an entry: append at the top (newest first), and commit in the same change that introduces the deviation/decision.
 
+### 2026-06-07 — CodificacionScheduleBuilder extracted to Revit/ layer; ViewSchedule generation not in VM
+
+**Decision:** `ViewSchedule` creation code lives in `Revit/Codificacion/CodificacionScheduleBuilder` (a `Revit/` layer class), not inside `CodificacionDashboardViewModel`. The VM calls `_scheduleBuilder.Build(doc)` inside a `PostExternalEvent` lambda.
+**Rationale:** hard layer rule — `Ui/` must not reference RevitAPI. `ViewSchedule`, `Transaction`, `SharedParameterElement`, and `SchedulableField` are all RevitAPI types. The spec described `CreateViewSchedule(Document doc)` as a private method on the VM; following the spec literally would violate the layer rule, so the method was extracted to a Revit-layer class following the `AssignCodeOrchestrator` pattern.
+**Alternatives considered:** implement in VM (rejected — layer violation); pass a `Func<Document>` delegate from Command (rejected — over-engineering; a named class is discoverable and testable).
+**Status:** Active. Logged as deviation from the Phase 6 implementation spec.
+
+### 2026-06-07 — AssignCodeOrchestrator and ElementTopologyReader gained long-accepting overloads to preserve Ui/ layer rule
+
+**Decision:** `AssignCodeOrchestrator.Assign(Document, long, AssignInput)` and `ElementTopologyReader.ReadById(Document, long)` overloads were added so that `CodificacionDashboardViewModel` can operate on elements without ever constructing `Autodesk.Revit.DB.ElementId` in source code.
+**Rationale:** `CodificacionDashboardViewModel` stores `SampleInstanceId` as `long` (from `CodificacionSummary`). Constructing `new ElementId(long)` inside the VM requires the file to compile against RevitAPI, which violates the `Ui/` layer rule. Adding thin overloads to the Revit-layer classes keeps the RevitAPI assembly reference out of the VM's compile-time surface. `PartidaSelectionViewModel` uses the same pattern — it never names `ElementId` directly.
+**Alternatives considered:** pass an `Action<Document>` delegate assembled in the Command (rejected — more complex wiring in the Command, no benefit); use a wrapper type for ElementId value in Domain/ (rejected — over-engineering).
+**Status:** Active.
+
 ### 2026-06-06 — Quantity reporting uses native Revit schedule fields; no Cantidad shared param
 
 **Decision:** the Codificación Dashboard and the generated `ViewSchedule` use native Revit built-in parameters for quantities (`HOST_AREA_COMPUTED` for walls; instance `Count` for all other family types). No custom `Cantidad_COVENIN` or `Unidad_COVENIN` shared parameters are added. The `Unidad` field already exists on each `Partida` in the flat catalog; it is used for display in the dashboard row only (not stored as a shared param).

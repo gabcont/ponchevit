@@ -93,13 +93,13 @@ Exit criteria: an existing wall in a project gets tagged with COVENIN params via
 
 **Element selection rule:** no in-window element picker. The window receives the target element either from the Dashboard (row button passes the FamilyType) or from the ribbon command (user pre-selects in Revit before clicking). If no element is pre-selected when opened from the ribbon, the "Elemento a codificar" field shows a prompt and the Asignar button stays disabled.
 
-- [ ] 5.1 — Rename AgregarFamiliaWindow → PartidaSelectionWindow; VM gains `Mode` (Generate | Assign) and an optional `TargetElement` parameter for Assign mode. Wire the two behavioral differences listed above through the Mode flag.
-- [ ] 5.2 — In Assign mode: "Elemento a codificar" field always visible (shows family type name or a greyed "Ningún elemento seleccionado" placeholder). Populated from the passed TargetElement; if null, Asignar button is disabled and a hint explains pre-selection is required.
-- [ ] 5.3 — `Revit/Families/IElementRecognizer` interface (mirrors `IFamilyGenerator`; one implementation per element category). `MuroRecognizer` as the reference implementation: reads `ElementTopology` produced by `Revit/ElementTopologyReader`, returns `PrefillResult` — a per-IdColumna map of `{ Value, State }` where State is `AutoFilled | Ambiguous | Undetectable`. Qualitative params always return `Undetectable`.
-- [ ] 5.4 — Auto-prefill on element selection in Assign mode. "Reconocer" button runs the matching `IElementRecognizer`; each CascadeRow gains a visual state: auto-filled (highlighted), user-overridden (normal after user changes), undetectable (greyed prompt text). Qualitative params remain empty by design.
-- [ ] 5.5 — Prefill report strip beside the central panel (Assign mode only): detected / ambiguous / undetectable counts so the user sees at a glance what still needs choosing.
-- [ ] 5.6 — "Asignar" button → `SharedParameterWriter.Write(element, codigo, extras)`. Reads of any incoming code pass through `IAliasResolver` first.
-- [ ] 5.7 — AsignarCodigoCommand wired in App.OnStartup (ribbon). Opens with pre-selected element if one is selected in Revit; otherwise opens with TargetElement = null (Assign button disabled). Dashboard row buttons also open this command with the FamilyType pre-filled.
+- [x] 5.1 — Rename AgregarFamiliaWindow → PartidaSelectionWindow; VM gains `Mode` (Generate | Assign) and an optional `TargetElement` parameter for Assign mode. Wire the two behavioral differences listed above through the Mode flag.
+- [x] 5.2 — In Assign mode: "Elemento a codificar" field always visible (shows family type name or a greyed "Ningún elemento seleccionado" placeholder). Populated from the passed TargetElement; if null, Asignar button is disabled and a hint explains pre-selection is required.
+- [x] 5.3 — `Revit/Families/IElementRecognizer` interface (mirrors `IFamilyGenerator`; one implementation per element category). `MuroRecognizer` as the reference implementation: reads `ElementTopology` produced by `Revit/ElementTopologyReader`, returns `PrefillResult` — a per-IdColumna map of `{ Value, State }` where State is `AutoFilled | Ambiguous | Undetectable`. Qualitative params always return `Undetectable`.
+- [x] 5.4 — Auto-prefill on element selection in Assign mode. "Reconocer" button runs the matching `IElementRecognizer`; each CascadeRow gains a visual state: auto-filled (highlighted), user-overridden (normal after user changes), undetectable (greyed prompt text). Qualitative params remain empty by design.
+- [x] 5.5 — Prefill report strip beside the central panel (Assign mode only): detected / ambiguous / undetectable counts so the user sees at a glance what still needs choosing.
+- [x] 5.6 — "Asignar" button → `SharedParameterWriter.Write(element, codigo, extras)`. Reads of any incoming code pass through `IAliasResolver` first.
+- [x] 5.7 — AsignarCodigoCommand wired in App.OnStartup (ribbon). Opens with pre-selected element if one is selected in Revit; otherwise opens with TargetElement = null (Assign button disabled). Dashboard row buttons also open this command with the FamilyType pre-filled (wired in Phase 6.4).
 
 ## Phase 6 — Codificación Dashboard (MVP headline)
 
@@ -116,13 +116,13 @@ Exit criteria: user opens the Codificación Dashboard, sees model element **inst
 
 **Report schedule columns:** 4 COVENIN shared params + family/type name + native Revit quantity field for that category (Area for walls; Count for all others). Quantity fields are native Revit schedule fields — no custom shared param needed.
 
-- [ ] 6.1 — Domain/Codificacion/CodificacionSummary — pure-C# record: per-family-type data (name, codigoCompleto or null, instanceCount, quantityValue, quantityUnit, isCodified).
-- [ ] 6.2 — Revit/Codificacion/ProjectInventoryReader — walks the active document using `FilteredElementCollector`; returns only family types that have at least one placed instance; reads the 4 COVENIN shared params; computes quantity via the appropriate Revit built-in parameter per category (walls: `HOST_AREA_COMPUTED`; others: instance count).
-- [ ] 6.3 — Ui/Codificacion/CodificacionDashboardWindow.xaml + ViewModel — grouped grid with status filter (Todas | Codificadas | Sin código) and family-name search. Aggregate header shows X/Y codified count and % progress.
-- [ ] 6.4 — Each row has an "Asignar código" button → opens PartidaSelectionWindow (Assign mode) with the family type's element pre-filled (uses Phase 5).
-- [ ] 6.5 — "Generar Schedule" action: creates a new `ViewSchedule` named `COVENIN - Codificación <timestamp>` scoped to `OST_Model*` categories; columns = 4 COVENIN shared params + family/type name + native Revit quantity field (Area for walls, Count for others). Fire-and-forget (see ADR 2026-05-31 — Fire-and-forget schedules).
-- [ ] 6.6 — Manual "Refrescar" button on the dashboard (no live document-event subscription for MVP).
-- [ ] 6.7 — CodificacionDashboardCommand wired in App.OnStartup.
+- [x] 6.1 — Domain/Codificacion/CodificacionSummary — pure-C# record: per-family-type data (name, codigoCompleto or null, instanceCount, quantityValue, quantityUnit, isCodified, sampleInstanceId).
+- [x] 6.2 — Revit/Codificacion/ProjectInventoryReader — walks the active document using `FilteredElementCollector`; returns only family types that have at least one placed instance; reads the 4 COVENIN shared params; computes quantity via the appropriate Revit built-in parameter per category (walls: `HOST_AREA_COMPUTED`; others: instance count).
+- [x] 6.3 — Ui/Codificacion/CodificacionDashboardWindow.xaml + ViewModel — grouped grid with status filter (Todas | Codificadas | Sin código) and family-name search. Aggregate header shows X/Y codified count and % progress. Also added Revit/Codificacion/CodificacionScheduleBuilder to keep RevitAPI out of Ui/.
+- [x] 6.4 — Each row has an "Asignar código" button → opens PartidaSelectionWindow (Assign mode) with the family type's element pre-filled (uses Phase 5). AssignCodeOrchestrator and ElementTopologyReader gained `long`-accepting overloads so Ui/ never constructs ElementId.
+- [x] 6.5 — "Generar Schedule" action: creates a new `ViewSchedule` named `COVENIN - Codificación <timestamp>` scoped to all categories (multi-category); columns = family name, type name, 4 COVENIN shared params, Count. Fire-and-forget via CodificacionScheduleBuilder (see ADR 2026-05-31 — Fire-and-forget schedules).
+- [x] 6.6 — Manual "Refrescar" button on the dashboard (no live document-event subscription for MVP).
+- [x] 6.7 — CodificacionDashboardCommand wired in App.OnStartup.
 - [ ] 6.8 — Write docs/codificacion-dashboard.md.
 
 ## Phase 7 — Polish

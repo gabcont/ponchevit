@@ -2,7 +2,7 @@ using System;
 using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
-using Ponchevit.Ui.AgregarFamilia;
+using Ponchevit.Ui.PartidaSelection;
 
 namespace Ponchevit.Commands;
 
@@ -20,7 +20,7 @@ public class AgregarFamiliaCommand : IExternalCommand
             // IRevitContext — the command no longer needs to extract a Document to pass through.
             var projectMaterials = services.ProjectMaterialQuery.GetProjectMaterials();
 
-            var vm = new AgregarFamiliaViewModel(
+            var vm = new PartidaSelectionViewModel(
                 services.PartidasRepository,
                 services.CoveninRulesRepository,
                 services.PartidaCatalog,
@@ -32,9 +32,12 @@ public class AgregarFamiliaCommand : IExternalCommand
                 services.GenerationOrchestrator,
                 projectMaterials,
                 services.HierarchyResolver,
-                services.Log);
+                services.Log,
+                mode: WindowMode.Generate,
+                targetElementDisplayName: null,
+                assignAction: null);
 
-            var window = new AgregarFamiliaWindow(
+            var window = new PartidaSelectionWindow(
                 vm,
                 services.CoveninRulesRepository,
                 services.MaterialMappingRepository,

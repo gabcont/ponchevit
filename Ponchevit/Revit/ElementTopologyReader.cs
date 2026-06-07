@@ -21,9 +21,22 @@ public sealed class ElementTopologyReader
     public ElementTopology Read(Element element)
     {
         string category = element.Category?.Name ?? string.Empty;
+        int bicId = (int)(element.Category?.BuiltInCategory ?? BuiltInCategory.INVALID);
         var layers = ReadLayers(element);
         var dimensions = ReadDimensions(element);
-        return new ElementTopology(category, layers, dimensions);
+        return new ElementTopology(category, bicId, layers, dimensions);
+    }
+
+    /// <summary>
+    /// Resolves the element by its <see cref="ElementId.Value"/> and reads its topology.
+    /// Returns <see langword="null"/> when the element does not exist in the document.
+    /// Provided so callers in layers that must not reference RevitAPI can invoke this
+    /// without constructing an <see cref="ElementId"/> themselves.
+    /// </summary>
+    public ElementTopology? ReadById(Document doc, long elementIdValue)
+    {
+        var el = doc.GetElement(new ElementId(elementIdValue));
+        return el != null ? Read(el) : null;
     }
 
     private IReadOnlyList<MaterialLayer> ReadLayers(Element element)

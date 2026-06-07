@@ -10,6 +10,7 @@ namespace Ponchevit.Domain.Matching;
 /// </summary>
 public sealed record ElementTopology(
     string Category,
+    int BuiltInCategoryId,
     IReadOnlyList<MaterialLayer> Layers,
     IReadOnlyDictionary<string, double> Dimensions
 );

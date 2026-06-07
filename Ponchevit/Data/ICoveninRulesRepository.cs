@@ -9,4 +9,6 @@ public interface ICoveninRulesRepository
     IEnumerable<Conexion> GetConexionesByParent(string? parentId);
     Columna? GetColumna(string idColumna);
     Valor? GetValor(string idValor);
+    Conexion? GetConexionById(string idConexion);
+    IEnumerable<Conexion> GetConexionesByValorId(string idValorAsociado);
 }
