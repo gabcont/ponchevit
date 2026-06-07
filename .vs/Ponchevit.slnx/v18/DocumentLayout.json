@@ -39,8 +39,7 @@
               "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-05-30T19:05:39.484Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -50,7 +49,7 @@
               "RelativeDocumentMoniker": "Ponchevit\\Ui\\MaterialMapping\\MaterialMappingViewModel.cs",
               "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Ui\\MaterialMapping\\MaterialMappingViewModel.cs",
               "RelativeToolTip": "Ponchevit\\Ui\\MaterialMapping\\MaterialMappingViewModel.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-01T01:38:17.31Z",
               "EditorCaption": ""
@@ -63,10 +62,9 @@
               "RelativeDocumentMoniker": "Ponchevit\\Commands\\MapeoMaterialesCommand.cs",
               "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\Commands\\MapeoMaterialesCommand.cs",
               "RelativeToolTip": "Ponchevit\\Commands\\MapeoMaterialesCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T01:18:24.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-01T01:18:24.921Z"
             },
             {
               "$type": "Document",
@@ -76,10 +74,9 @@
               "RelativeDocumentMoniker": "Ponchevit\\App.cs",
               "ToolTip": "C:\\Users\\Windows 11\\source\\repos\\Ponchevit\\Ponchevit\\App.cs",
               "RelativeToolTip": "Ponchevit\\App.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T20:18:08.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T20:18:08.111Z"
             }
           ]
         }

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 
-21395068118
+3-1378187975
 
-39-1613774228
+51235477217
 205-1438526537
-Ui\Common\Theme.xaml;Ui\MaterialMapping\MaterialMappingWindow.xaml;
+Ui\AgregarFamilia\AgregarFamiliaWindow.xaml;Ui\Common\Theme.xaml;Ui\MaterialMapping\MaterialMappingWindow.xaml;
 
-False
+True
 

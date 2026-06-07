@@ -11,6 +11,104 @@ Format:
 
 How to add an entry: append at the top (newest first), and commit in the same change that introduces the deviation/decision.
 
+### 2026-06-06 — Quantity reporting uses native Revit schedule fields; no Cantidad shared param
+
+**Decision:** the Codificación Dashboard and the generated `ViewSchedule` use native Revit built-in parameters for quantities (`HOST_AREA_COMPUTED` for walls; instance `Count` for all other family types). No custom `Cantidad_COVENIN` or `Unidad_COVENIN` shared parameters are added. The `Unidad` field already exists on each `Partida` in the flat catalog; it is used for display in the dashboard row only (not stored as a shared param).
+**Rationale:** Revit's native quantity parameters are live-updating, correctly unitized (m², m, pieces), and first-class schedule columns. A custom shared param would be static, require manual updates, and duplicate information Revit already tracks. Budgeting engineers are accustomed to reading area/count from Revit schedules.
+**Alternatives considered:** adding `Cantidad_COVENIN` and `Unidad_COVENIN` shared params (rejected — static, redundant, extra params pollute the Type Properties panel); computing quantity once and writing to a shared param at schedule creation time (rejected — stale on any model change).
+**Status:** Active.
+
+### 2026-06-06 — Dashboard shows only placed family types; quantity from native Revit params
+
+**Decision:** `ProjectInventoryReader` uses `FilteredElementCollector` scoped to `OST_Model*` categories and returns only `FamilySymbol` (family types) that have at least one placed instance in the active view/model. "Loaded but unplaced" types are excluded. Quantity per type is computed from the collected instances: wall area via `HOST_AREA_COMPUTED`; all other categories via instance count.
+**Rationale:** the dashboard goal is "what is actually built" — unplaced types are irrelevant for budgeting. Native Revit parameter queries are fast and already correct for units.
+**Alternatives considered:** include all loaded types and show 0 for unplaced (rejected — clutters the dashboard with library types the project doesn't use); per-element-module quantity logic (deferred — native params cover the MVP scope; a module hook can be added Post-MVP if a category needs custom quantity computation).
+**Status:** Active.
+
+### 2026-06-06 — Base RFA strategy: ship in Resources/Families/; user override writes params on existing type
+
+**Decision:** base RFA families for elements that cannot be code-generated (doors, windows, faucets, etc.) are shipped alongside the plugin DLL in a `Families/` subfolder at the Revit Addins path (`%AppData%\Autodesk\Revit\Addins\2026\Families\`). A generator that needs a base RFA loads it into the document via `Document.LoadFamily` before creating the new type. User override is not a stored preference: if the user wants to use their own family, they use Asignar Código (which writes the COVENIN shared params onto any existing element) rather than Agregar Familia. No storage beyond the `.rvt` file is used for any user preference.
+**Rationale:** the `.rvt` is the only allowed persistence layer (see architecture constraint). An "override" mechanism that stores a preferred RFA path would require either a sidecar file or `ExtensibleStorage` — both rejected for this purpose. Keeping the two flows separate (Agregar = use our base family; Asignar = use your own) is simpler and cleaner UX.
+**Alternatives considered:** storing user's preferred base RFA path in `ExtensibleStorage` (rejected — introduces per-project generator config, complex to surface in UI); letting the user pick an RFA file at generation time (deferred — usable Post-MVP as a "Choose base family…" button in Agregar).
+**Status:** Active.
+
+### 2026-06-06 — Per-module recognizers over generic rule engine for element recognition
+
+**Decision:** element recognition (prefill in Asignar mode) is implemented as one `IElementRecognizer` implementation per element category (e.g. `MuroRecognizer`, `PuertaRecognizer`). The recognizer takes an `ElementTopology` and returns a `PrefillResult` mapping IdColumna → `{ Value, State }` where State is `AutoFilled | Ambiguous | Undetectable`. No generic rule engine (CategoryMatcher, DimensionalRangeMatcher, etc.) is used.
+**Rationale:** each Revit element category exposes geometry and parameters through entirely different APIs (`Wall.CompoundStructure` vs door `FamilyParameters` vs `Floor.SlabThickness`). A generic rule engine would need to abstract over these API differences at the same complexity cost as individual modules, but with harder debugging surface and more fragile conflict resolution. The per-module approach mirrors `IFamilyGenerator` exactly — same discoverability, same registration point, same contribution pattern.
+**Alternatives considered:** rule engine with CategoryMatcher + DimensionalRangeMatcher objects (rejected — same complexity, harder to debug, doesn't actually save code given per-category API differences); single recognizer with if/else per category (rejected — monolithic, harder to extend).
+**Status:** Active. Supersedes Phase 5.3 task description from initial roadmap (IElementMatcher / CategoryMatcher / DimensionalRangeMatcher removed from design).
+
+### 2026-06-06 — Asignar Código: no in-window element picker; element passed from Dashboard or pre-selected
+
+**Decision:** `PartidaSelectionWindow` in Assign mode does not support in-window element picking. The target element is supplied via one of two paths: (a) the Dashboard "Asignar código" button passes the family type element directly; (b) `AsignarCodigoCommand` from the ribbon reads the current Revit pre-selection. If no element is pre-selected when opened from the ribbon, the "Elemento a codificar" field shows a placeholder and the Asignar button is disabled.
+**Rationale:** `UIDocument.Selection.PickObject` cannot be called while a modal WPF window is blocking Revit's event loop. Supporting in-window picking would require either converting the window to modeless (significant architectural refactor) or a close/pick/reopen flow (confusing UX). Since the Dashboard provides a more natural entry point (one button per used family type), the ribbon path's pre-selection requirement is acceptable for MVP.
+**Alternatives considered:** modeless window (deferred — requires reworking the window lifecycle and ExternalEvent pattern; reasonable Post-MVP improvement); close/pick/reopen (rejected — disorienting UX, loses cascade state); in-window element filter that doesn't require PickObject (deferred — a searchable family type list inside the window could replace picking; Post-MVP).
+**Status:** Active for MVP.
+
+### 2026-06-06 — Naming: IsGenerable (generator exists) vs CanBeConstructed (DAG path exists)
+
+**Decision:** two previously conflated concepts are named distinctly. `IFamilyGenerator.IsGenerable(string? prefix)` — returns true when a generator module exists and can produce an element for the given code prefix; used to enable/disable left-tree sections in Generate mode. `PartidaConstructibilityResolver.CanBeConstructed(Partida)` — returns true when the COVENIN DAG has at least one root-to-leaf path producing the partida's code; used to style the right-panel partida list in Generate mode. In Assign mode neither check gates partida selection — all partidas are selectable.
+**Rationale:** conflating the two under "constructible" created confusion: a partida can `CanBeConstructed` (the rules DAG covers it) without being `IsGenerable` (no generator module shipped yet), and vice versa is not currently possible but must remain distinguishable as the module set grows.
+**Alternatives considered:** single `IsAvailable` flag combining both checks (rejected — loses the ability to show the user *why* a partida is unavailable; also wrong in Assign mode where both checks must be bypassed).
+**Status:** Active. `IFamilyGenerator.Supports()` renamed to `IFamilyGenerator.IsGenerable()` and `PartidaConstructibilityResolver.IsConstructible()` renamed to `.CanBeConstructed()` in the same change.
+
+### 2026-06-06 — Cascade seeding uses GetPath(), not greedy prefix-walk
+
+**Decision:** `AgregarFamiliaViewModel.SeedCascadeFromTreeNode` resolves the DAG path for seeding by calling `PartidaConstructibilityResolver.GetPath(seedPartida.CodigoPartida)` (the first pre-computed root-to-leaf path found during startup DFS), then walking that path via `SeedRowsFromPath`. The previous greedy-match approach — iterating options at each level, filtering by `nodeCode.StartsWith(assembled + opt.CodigoAportado)` — was removed.
+**Rationale:** the greedy walk broke on empty-bridge connections (`CodigoAportado = ""`), which are structurally valid DAG edges that carry no code contribution. An empty suffix passes any `StartsWith` filter, making `candidates.Count != 1` whenever multiple empty-bridge siblings exist. `GetPath` is always pre-computed and correct by construction (the DFS that built it already traversed valid code-producing paths).
+**Alternatives considered:** fix the greedy walk to skip empty-bridge options (rejected — still fragile; empty bridges can legitimately appear at any depth and the greedy approach conflates "code prefix matching" with "DAG path selection"); re-query `GetConexionesByParent` at each seed step (rejected — identical to the greedy walk, same failure mode).
+**Status:** Active.
+
+### 2026-06-06 — ConfirmPartidaCommand replaces DataGrid-click backfill trigger
+
+**Decision:** clicking a row in the right-panel DataGrid only sets `SelectedPartidaItem` on the VM (plain setter). The cascade backfill is performed only when the user explicitly clicks the "Seleccionar Partida" button, which executes `ConfirmPartidaCommand`. `CanExecute` is `SelectedPartidaItem?.IsConstructible == true`.
+**Rationale:** during smoke testing, single-clicking a row accidentally backfilled the cascade and lost all in-progress selections. Requiring an explicit confirmation click is the correct UX for a destructive operation (wiping the current cascade and replacing it).
+**Alternatives considered:** two-click confirmation (double-click to backfill) — rejected because double-click is not discoverable and conflicts with DataGrid's built-in expand/collapse behavior. Keep backfill on single-click but add an undo (rejected — no undo architecture in the MVP).
+**Status:** Active.
+
+### 2026-06-06 — Cascade range inputs: ComboBox always visible; TextBox only for true ranges
+
+**Decision:** every COVENIN cascade column is always rendered as a `ComboBox` showing the DAG option labels. If and only if the selected option has `NumMin ≠ NumMax` (a true range, not an exact value), an additional `TextBox` appears below the ComboBox so the user can enter a concrete value. Columns with exact values (e.g. espesor `15 cm` where `NumMin == NumMax == 15`) show only the ComboBox.
+**Rationale:** an initial implementation replaced the ComboBox with a TextBox for all "numeric" columns. This lost the option labels (human-readable COVENIN descriptions), broke the cascade flow (no `IdConexion` to advance the DAG), and misrepresented the data model. The COVENIN norm expresses dimensional constraints as DAG options — each option is still a discrete choice in the norm even if it has a numeric value.
+**Alternatives considered:** hide the ComboBox for exact-value options and show only a TextBox (rejected — the option's `DescripcionUi` is the normative text the user must match to a norm entry; a TextBox bypasses this). Auto-select exact-value options without user interaction (deferred — could be a UX enhancement later for columns with a single option).
+**Status:** Active.
+
+### 2026-06-06 — MuroGenerator creates WallType (not Wall instance); writes params on type
+
+**Decision:** `MuroGenerator.Generate` creates a `WallType` named `"COVENIN {code} — {descripcion}"`, configures its `CompoundStructure` with a single layer (resolved Revit material + resolved thickness), and writes the 4 shared parameters on the `WallType` element. It does not create a `Wall` instance.
+**Rationale:** the user's intent for "Agregar Familia" is to register a new type in the project that complies with the COVENIN norm — this is the architect's library asset. Placing a wall instance requires geometry inputs (start/end point, level) that are out of scope for this command. Shared parameters on the `WallType` make the COVENIN code visible in the project browser and in Revit's "Type Properties" panel.
+**Alternatives considered:** create a wall instance at a default location (rejected — awkward UX; the user would immediately delete the geometry and keep only the type); create only the type with no CompoundStructure (rejected — leaves the structural layer unmapped, which is the main normative information the type is supposed to carry).
+**Status:** Active.
+
+### 2026-06-06 — TypeBinding and GroupTypeId.IdentityData for shared parameter binding
+
+**Decision:** `CoveninParameters.EnsureBoundToProject` uses `app.Create.NewTypeBinding(categories)` (not `NewInstanceBinding`) and passes `GroupTypeId.IdentityData` (not `SpecTypeId.String.Text`) as the third argument to `doc.ParameterBindings.Insert`.
+**Rationale:** (a) COVENIN params are placed on the WallType — one value per type, not per instance — so `TypeBinding` is the correct binding kind. Instance params on a WallType would be read-only on the type and editable per-instance, which is wrong. (b) The third argument to `ParameterBindings.Insert` is a `ForgeTypeId` that identifies the *parameter group* (the section of the Properties panel where the param appears), not the *data type*. `SpecTypeId.String.Text` is a data type, not a group; passing it caused an `ArgumentException` at runtime. `GroupTypeId.IdentityData` places the params in the "Identity Data" section, which is the standard location for coding/tagging params.
+**Alternatives considered:** `GroupTypeId.Data` (valid but less conventional for coding params); `GroupTypeId.General` (too generic). `InstanceBinding` was briefly used and caused params to appear only on instances, not on the type element where SharedParameterWriter writes them.
+**Status:** Active.
+
+### 2026-06-06 — FamilyGenerationOrchestrator owns both Revit transactions
+
+**Decision:** a new class `FamilyGenerationOrchestrator` in `Revit/Families/` owns both Revit transactions required for element generation: (1) `CoveninParameters.EnsureBoundToProject` (its own inner transaction, idempotent), and (2) a wrapping `Transaction("Agregar Familia COVENIN")` inside which `IFamilyGenerator.Generate` runs. The VM (`AgregarFamiliaViewModel`) never instantiates or opens a `Transaction` — it calls `_revitContext.PostExternalEvent(doc => orchestrator.Generate(doc, generator, input))`.
+**Rationale:** the hard layer rule prohibits `Ui/` from using RevitAPI types. Transactions are RevitAPI. Before this ADR, the VM held `Transaction` locals, which violated the rule and required `Autodesk.Revit.DB` in the UI project. Moving orchestration to `Revit/` restores the layer boundary.
+**Alternatives considered:** pass the open transaction as a parameter to the generator (rejected — leaks Transaction into the generator's contract which is already heavy enough); use a single transaction for both bind + create (rejected — `EnsureBoundToProject` commits its own transaction; the new WallType must see the already-bound params, which requires the bind to have committed before the create begins).
+**Status:** Active.
+
+### 2026-06-06 — MuroGenerator: LayerFunction replaced by MaterialFunctionAssignment
+
+**Decision:** `MuroGenerator` uses `MaterialFunctionAssignment.Structure` (not `LayerFunction.Structure`) as the second argument to `CompoundStructureLayer(Double, MaterialFunctionAssignment, ElementId)`.
+**Rationale:** `LayerFunction` does not exist as a managed type in Revit 2026's `RevitAPI.dll` or `HostObjDBAPI.dll`. The correct Revit 2026 API enum for layer function in a `CompoundStructureLayer` is `Autodesk.Revit.DB.MaterialFunctionAssignment`, with values `Structure`, `Finish1`, `Finish2`, `Insulation`, `Membrane`, `Substrate`, `StructuralDeck`, `None`. Confirmed from `RevitAPI.xml` docs in `C:\Program Files\Autodesk\Revit 2026\`.
+**Alternatives considered:** `LayerFunction.Structure` (incorrect — type does not exist in Revit 2026 managed metadata; would fail compilation in the WPF wpftmp sub-build). Adding `HostObjDBAPI.dll` as a project reference (did not help; the type is genuinely not in either assembly under that name). The reference was removed since it produced MSB3270 architecture mismatch warnings without adding value.
+**Status:** Active.
+
+### 2026-06-06 — ConnectionFactory: missing _meta table is accepted, not an error
+
+**Decision:** `ConnectionFactory.ValidateSchema` silently returns (skips version check) when the `_meta` table is absent from a database. The `ConnectionFactory_ThrowsOnMissingMeta` test was renamed to `ConnectionFactory_AcceptsMissingMeta` and updated to assert the connection is returned successfully.
+**Rationale:** the original code (commit 99da3c9) threw `InvalidOperationException` on missing `_meta`. Commit 0dd9cd3 intentionally changed this to a silent skip because the old pipeline format predates versioning and missing `_meta` is not itself an error — repositories will surface schema mismatches naturally through their queries. The test from 99da3c9 tested the old (now-superseded) behavior and was never updated when the behavior changed.
+**Alternatives considered:** revert `ConnectionFactory` to throw on missing `_meta` (rejected — breaks backward compat with older DB files; the silent-skip was a deliberate design decision in 0dd9cd3).
+**Status:** Active.
+
 ### 2026-05-31 — Phase 3: target framework changed to net8.0-windows; UseWPF enabled
 
 **Decision:** `Ponchevit.csproj` and `Ponchevit.Tests.csproj` both target `net8.0-windows` (previously `net8.0`). `<UseWPF>true</UseWPF>` added to the main project to enable XAML compilation.

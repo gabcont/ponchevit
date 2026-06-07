@@ -13,7 +13,10 @@ public record MenuOption(
     string IdConexion,
     string? IdValor,
     string Label,
-    string CodigoAportado
+    string CodigoAportado,
+    double? NumMin = null,
+    double? NumMax = null,
+    Ponchevit.Domain.Model.Valor? ValorData = null
 );
 
 /// <summary>
@@ -21,7 +24,8 @@ public record MenuOption(
 /// </summary>
 public record MenuLevel(
     Columna Columna,
-    IReadOnlyList<MenuOption> Options
+    IReadOnlyList<MenuOption> Options,
+    bool IsNumericColumn = false
 );
 
 /// <summary>
@@ -61,12 +65,13 @@ public class CascadeMenuBuilder
         foreach (var child in children)
         {
             string label = child.CodigoAportado;
+            Valor? valorData = null;
             if (!string.IsNullOrEmpty(child.IdValorAsociado))
             {
-                var valor = _rulesRepository.GetValor(child.IdValorAsociado);
-                if (valor != null)
+                valorData = _rulesRepository.GetValor(child.IdValorAsociado);
+                if (valorData != null)
                 {
-                    label = valor.DescripcionUi;
+                    label = valorData.DescripcionUi;
                 }
             }
 
@@ -74,10 +79,16 @@ public class CascadeMenuBuilder
                 child.IdConexion,
                 child.IdValorAsociado,
                 label,
-                child.CodigoAportado
+                child.CodigoAportado,
+                NumMin: valorData?.NumMin,
+                NumMax: valorData?.NumMax,
+                ValorData: valorData
             ));
         }
 
-        return new MenuLevel(columna, options);
+        bool isNumericColumn = options.Count > 0
+            && options.All(o => o.NumMin.HasValue && o.NumMax.HasValue);
+
+        return new MenuLevel(columna, options, isNumericColumn);
     }
 }

@@ -90,8 +90,8 @@ public static class CoveninParameters
 
                 if (!doc.ParameterBindings.Contains(extDef))
                 {
-                    InstanceBinding binding = app.Create.NewInstanceBinding(categories);
-                    doc.ParameterBindings.Insert(extDef, binding, SpecTypeId.String.Text);
+                    TypeBinding binding = app.Create.NewTypeBinding(categories);
+                    doc.ParameterBindings.Insert(extDef, binding, GroupTypeId.IdentityData);
                 }
             }
 

@@ -115,8 +115,10 @@ public class RepositoryTests : IDisposable
     }
 
     [Fact]
-    public void ConnectionFactory_ThrowsOnMissingMeta()
+    public void ConnectionFactory_AcceptsMissingMeta()
     {
+        // _meta absent means an older pipeline format; the factory must not throw —
+        // repositories will surface schema mismatches naturally via their own queries.
         string dbPath = Path.Combine(_tempPath, "partidas.db");
         using (var connection = new SqliteConnection($"Data Source={dbPath}"))
         {
@@ -127,6 +129,7 @@ public class RepositoryTests : IDisposable
         }
 
         var factory = new ConnectionFactory(_tempPath);
-        Assert.Throws<InvalidOperationException>(() => factory.CreatePartidasConnection());
+        using var conn = factory.CreatePartidasConnection();
+        Assert.NotNull(conn);
     }
 }

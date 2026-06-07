@@ -45,6 +45,15 @@ namespace Ponchevit
             btnMapeo.ToolTip = "Mapea materiales de Revit a valores COVENIN para la codificación.";
             panel.AddItem(btnMapeo);
 
+            // Phase 4 — Agregar Familia
+            PushButtonData btnAgregar = new PushButtonData(
+                "AgregarFamilia",
+                "Agregar\nFamilia",
+                assemblyPath,
+                "Ponchevit.Commands.AgregarFamiliaCommand");
+            btnAgregar.ToolTip = "Crea una familia COVENIN en el proyecto activo.";
+            panel.AddItem(btnAgregar);
+
             return Result.Succeeded;
         }
 

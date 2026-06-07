@@ -1,0 +1,362 @@
+<Window x:Class="Ponchevit.Ui.AgregarFamilia.AgregarFamiliaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Ponchevit.Ui.AgregarFamilia"
+        Title="Agregar Familia"
+        Width="1100" Height="680"
+        MinWidth="800" MinHeight="500"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanResizeWithGrip">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BoolToVisConverter"/>
+        <local:InverseBoolToVisibilityConverter x:Key="BoolToInverseVisConverter"/>
+        <local:PositiveIntToBoolConverter x:Key="PositiveIntToBoolConverter"/>
+        <local:InverseBoolConverter x:Key="InverseBoolConverter"/>
+
+        <!-- Hyperlink-style button -->
+        <Style x:Key="LinkButtonStyle" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <TextBlock>
+                            <Hyperlink Command="{TemplateBinding Command}"
+                                       CommandParameter="{TemplateBinding CommandParameter}">
+                                <ContentPresenter/>
+                            </Hyperlink>
+                        </TextBlock>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Row style: seeded rows get a light-blue background to signal they were
+             auto-filled from the tree selection. -->
+        <Style x:Key="SeededRowStyle" TargetType="StackPanel">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding IsSeeded}" Value="True">
+                    <Setter Property="Background" Value="#E8F4FD"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <DockPanel Margin="10">
+
+        <!-- Bottom: status message + action buttons -->
+        <DockPanel DockPanel.Dock="Bottom" Margin="0,8,0,0">
+            <!-- Fix #9: status label — shows success or error after Agregar. -->
+            <TextBlock DockPanel.Dock="Left"
+                       Text="{Binding StatusMessage}"
+                       VerticalAlignment="Center"
+                       Margin="0,0,12,0"
+                       TextWrapping="Wrap"
+                       MaxWidth="480">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding StatusIsError}" Value="True">
+                                <Setter Property="Foreground" Value="#C0392B"/>
+                                <Setter Property="FontWeight" Value="SemiBold"/>
+                            </DataTrigger>
+                            <DataTrigger Binding="{Binding StatusIsError}" Value="False">
+                                <Setter Property="Foreground" Value="#1E8449"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal"
+                        HorizontalAlignment="Right">
+                <!-- 4.5 — "Subir modelo 3D" stub: disabled, tooltip explains why -->
+                <Button Content="Subir modelo 3D"
+                        IsEnabled="False"
+                        Width="130" Margin="0,0,8,0"
+                        ToolTip="(No requerido para Muros)"/>
+
+                <Button Content="Agregar"
+                        Command="{Binding AgregarCommand}"
+                        Width="90" Margin="0,0,8,0"
+                        IsDefault="True"/>
+                <Button Content="Cancelar"
+                        Command="{Binding CancelCommand}"
+                        Width="90"
+                        IsCancel="True"/>
+            </StackPanel>
+        </DockPanel>
+
+        <!-- Three-panel body -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <!-- Left tree -->
+                <ColumnDefinition Width="220" MinWidth="140"/>
+                <ColumnDefinition Width="5"/>
+                <!-- Central panel -->
+                <ColumnDefinition Width="*" MinWidth="200"/>
+                <ColumnDefinition Width="5"/>
+                <!-- Right panel -->
+                <ColumnDefinition Width="300" MinWidth="180"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- ── Left panel: Capítulo/Subcapítulo/Sección tree ── -->
+            <DockPanel Grid.Column="0">
+                <TextBlock DockPanel.Dock="Top" Text="Tipo de elemento"
+                           FontWeight="SemiBold" Margin="0,0,0,4"/>
+                <TreeView ItemsSource="{Binding TreeRoots}"
+                          BorderThickness="1" BorderBrush="LightGray">
+                    <TreeView.Resources>
+                        <Style TargetType="TreeViewItem">
+                            <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=TwoWay}"/>
+                            <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}"/>
+                            <EventSetter Event="Selected" Handler="TreeViewItem_Selected"/>
+                        </Style>
+                    </TreeView.Resources>
+                    <TreeView.ItemTemplate>
+                        <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                            <TextBlock Text="{Binding Label}">
+                                <TextBlock.Style>
+                                    <Style TargetType="TextBlock">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding IsEnabled}" Value="False">
+                                                <Setter Property="Foreground" Value="Gray"/>
+                                                <Setter Property="FontStyle" Value="Italic"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+                        </HierarchicalDataTemplate>
+                    </TreeView.ItemTemplate>
+                </TreeView>
+            </DockPanel>
+
+            <!-- Splitter -->
+            <GridSplitter Grid.Column="1" Width="5"
+                          HorizontalAlignment="Stretch"
+                          VerticalAlignment="Stretch"
+                          Background="LightGray"/>
+
+            <!-- ── Central panel: live code display + dimensions + COVENIN cascade ── -->
+            <DockPanel Grid.Column="2">
+                <TextBlock DockPanel.Dock="Top" Text="Parámetros COVENIN"
+                           FontWeight="SemiBold" Margin="0,0,0,4"/>
+
+                <!-- Live code display -->
+                <Border DockPanel.Dock="Top"
+                        BorderBrush="LightGray" BorderThickness="1"
+                        Background="#F8F8F8" Padding="6,4" Margin="0,0,0,6"
+                        CornerRadius="3">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Código: " FontWeight="SemiBold" VerticalAlignment="Center"/>
+                        <TextBlock Text="{Binding CurrentCodeDisplay}"
+                                   FontFamily="Consolas,Courier New,monospace"
+                                   FontSize="14" FontWeight="Bold"
+                                   Foreground="#1a5276"
+                                   VerticalAlignment="Center"/>
+                    </StackPanel>
+                </Border>
+
+                <!-- No-rules message -->
+                <TextBlock DockPanel.Dock="Top"
+                           Text="{Binding NoRulesMessage}"
+                           Foreground="Gray" FontStyle="Italic"
+                           Margin="0,4,0,0"
+                           Visibility="{Binding HasNoRules,
+                               Converter={StaticResource BoolToVisConverter}}"/>
+
+                <!-- Cascade rows -->
+                <ScrollViewer DockPanel.Dock="Top"
+                              VerticalScrollBarVisibility="Auto"
+                              Visibility="{Binding HasNoRules,
+                                  Converter={StaticResource BoolToInverseVisConverter}}">
+                    <ItemsControl ItemsSource="{Binding CascadeRows}">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate DataType="{x:Type local:CascadeRowViewModel}">
+                                <StackPanel Margin="0,4,0,0"
+                                            Style="{StaticResource SeededRowStyle}">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding ColumnName}"
+                                                   FontWeight="SemiBold" Margin="0,0,0,2"/>
+                                        <!-- Badge shown on seeded (auto-filled) rows. -->
+                                        <TextBlock Text=" (auto)"
+                                                   Foreground="#2e86c1" FontStyle="Italic"
+                                                   FontSize="11" VerticalAlignment="Center"
+                                                   Visibility="{Binding IsSeeded,
+                                                       Converter={StaticResource BoolToVisConverter}}"/>
+                                    </StackPanel>
+
+                                    <!-- Standard dropdown (non-material columns; always shown) -->
+                                    <ComboBox ItemsSource="{Binding Options}"
+                                              SelectedItem="{Binding SelectedOption,
+                                                  UpdateSourceTrigger=PropertyChanged}"
+                                              DisplayMemberPath="Label"
+                                              IsEnabled="{Binding IsSeeded,
+                                                  Converter={StaticResource InverseBoolConverter}}">
+                                        <ComboBox.Style>
+                                            <Style TargetType="ComboBox">
+                                                <Setter Property="Visibility" Value="Visible"/>
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsMaterialColumn}" Value="True">
+                                                        <Setter Property="Visibility" Value="Collapsed"/>
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </ComboBox.Style>
+                                    </ComboBox>
+
+                                    <!-- Range value input — only when the selected option is a true range (NumMin ≠ NumMax) -->
+                                    <StackPanel Visibility="{Binding SelectedOptionIsRange,
+                                                    Converter={StaticResource BoolToVisConverter}}"
+                                                Orientation="Vertical" Margin="0,4,0,0">
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBox Width="80"
+                                                     Text="{Binding RangeInput, UpdateSourceTrigger=LostFocus,
+                                                         StringFormat=F2, TargetNullValue=''}"
+                                                     VerticalAlignment="Center"/>
+                                            <TextBlock Text="{Binding RangeUnit}"
+                                                       VerticalAlignment="Center" Margin="4,0,0,0"
+                                                       Foreground="Gray"/>
+                                        </StackPanel>
+                                        <TextBlock FontSize="10" Foreground="Gray">
+                                            <TextBlock.Text>
+                                                <MultiBinding StringFormat="Rango: {0:F2} – {1:F2}">
+                                                    <Binding Path="RangeMin"/>
+                                                    <Binding Path="RangeMax"/>
+                                                </MultiBinding>
+                                            </TextBlock.Text>
+                                        </TextBlock>
+                                    </StackPanel>
+
+                                    <!-- Two-stage material control -->
+                                    <StackPanel Visibility="{Binding IsMaterialColumn,
+                                                    Converter={StaticResource BoolToVisConverter}}">
+
+                                        <!-- Stage 1: Covenin material value -->
+                                        <ComboBox ItemsSource="{Binding Options}"
+                                                  SelectedItem="{Binding SelectedOption,
+                                                      UpdateSourceTrigger=PropertyChanged}"
+                                                  DisplayMemberPath="Label"
+                                                  IsEnabled="{Binding IsSeeded,
+                                                      Converter={StaticResource InverseBoolConverter}}"
+                                                  Margin="0,0,0,4"/>
+
+                                        <!-- Range value input inside material panel (in case a material option is ever a range) -->
+                                        <StackPanel Visibility="{Binding SelectedOptionIsRange,
+                                                        Converter={StaticResource BoolToVisConverter}}"
+                                                    Orientation="Vertical" Margin="0,4,0,4">
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBox Width="80"
+                                                         Text="{Binding RangeInput, UpdateSourceTrigger=LostFocus,
+                                                             StringFormat=F2, TargetNullValue=''}"
+                                                         VerticalAlignment="Center"/>
+                                                <TextBlock Text="{Binding RangeUnit}"
+                                                           VerticalAlignment="Center" Margin="4,0,0,0"
+                                                           Foreground="Gray"/>
+                                            </StackPanel>
+                                            <TextBlock FontSize="10" Foreground="Gray">
+                                                <TextBlock.Text>
+                                                    <MultiBinding StringFormat="Rango: {0:F2} – {1:F2}">
+                                                        <Binding Path="RangeMin"/>
+                                                        <Binding Path="RangeMax"/>
+                                                    </MultiBinding>
+                                                </TextBlock.Text>
+                                            </TextBlock>
+                                        </StackPanel>
+
+                                        <!-- Stage 2: Revit material filtered by mapping -->
+                                        <ComboBox ItemsSource="{Binding RevitMaterialOptions}"
+                                                  SelectedItem="{Binding SelectedRevitMaterial,
+                                                      UpdateSourceTrigger=PropertyChanged}"
+                                                  DisplayMemberPath="Display"
+                                                  IsEnabled="{Binding RevitMaterialOptions.Count,
+                                                      Converter={StaticResource PositiveIntToBoolConverter}}"/>
+
+                                        <!-- "Mapear material" inline link -->
+                                        <Button Style="{StaticResource LinkButtonStyle}"
+                                                Content="Mapear material..."
+                                                Margin="0,4,0,0"
+                                                Command="{Binding DataContext.OpenMapearMaterialCommand,
+                                                    RelativeSource={RelativeSource AncestorType=Window}}"
+                                                CommandParameter="{Binding}"
+                                                Visibility="{Binding ShowMapearMaterialLink,
+                                                    Converter={StaticResource BoolToVisConverter}}"/>
+                                    </StackPanel>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </ScrollViewer>
+            </DockPanel>
+
+            <!-- Splitter -->
+            <GridSplitter Grid.Column="3" Width="5"
+                          HorizontalAlignment="Stretch"
+                          VerticalAlignment="Stretch"
+                          Background="LightGray"/>
+
+            <!-- ── Right panel: Partidas list with constructibility greying ── -->
+            <DockPanel Grid.Column="4">
+                <TextBlock DockPanel.Dock="Top" Text="Partidas COVENIN"
+                           FontWeight="SemiBold" Margin="0,0,0,4"/>
+                <TextBlock DockPanel.Dock="Top"
+                           Foreground="Gray" FontStyle="Italic" Margin="0,0,0,4"
+                           Text="{Binding PartidaDisplayItems.Count,
+                               StringFormat={}{0} partidas}"/>
+
+                <!-- Legend: constructible vs unconstructible -->
+                <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,4">
+                    <Ellipse Width="8" Height="8" Fill="Gray" VerticalAlignment="Center" Margin="0,0,4,0"/>
+                    <TextBlock Text="Sin reglas de construcción" Foreground="Gray"
+                               FontStyle="Italic" FontSize="11" VerticalAlignment="Center"/>
+                </StackPanel>
+
+                <Button DockPanel.Dock="Bottom"
+                        Content="Seleccionar Partida"
+                        Command="{Binding ConfirmPartidaCommand}"
+                        Margin="0,4,0,0"
+                        HorizontalAlignment="Stretch"/>
+
+                <DataGrid x:Name="PartidasDataGrid"
+                          ItemsSource="{Binding PartidaDisplayItems}"
+                          AutoGenerateColumns="False"
+                          CanUserAddRows="False"
+                          CanUserDeleteRows="False"
+                          IsReadOnly="True"
+                          SelectionMode="Single"
+                          GridLinesVisibility="Horizontal"
+                          HeadersVisibility="Column"
+                          RowHeaderWidth="0"
+                          BorderThickness="1"
+                          BorderBrush="LightGray"
+                          SelectionChanged="PartidasDataGrid_SelectionChanged">
+
+                    <DataGrid.RowStyle>
+                        <Style TargetType="DataGridRow">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsConstructible}" Value="False">
+                                    <Setter Property="Foreground" Value="LightGray"/>
+                                    <Setter Property="IsEnabled" Value="False"/>
+                                    <Setter Property="ToolTip"
+                                            Value="Esta partida no puede construirse con las reglas COVENIN disponibles."/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGrid.RowStyle>
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Código"
+                                            Binding="{Binding CodigoPartida}"
+                                            Width="100"/>
+                        <DataGridTextColumn Header="Descripción"
+                                            Binding="{Binding Descripcion}"
+                                            Width="*"/>
+                        <DataGridTextColumn Header="Unidad"
+                                            Binding="{Binding Unidad}"
+                                            Width="60"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+        </Grid>
+    </DockPanel>
+</Window>

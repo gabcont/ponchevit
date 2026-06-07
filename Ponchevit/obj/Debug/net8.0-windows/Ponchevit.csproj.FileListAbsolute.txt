@@ -45,3 +45,7 @@ C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\bin\Debug\net8.0-windows\ru
 C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0-windows\Ponchevit.csproj.Up2Date
 C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\bin\Debug\net8.0-windows\Resources\partidas.db
 C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\bin\Debug\net8.0-windows\Resources\covenin.db
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0-windows\Ui\AgregarFamilia\AgregarFamiliaWindow.g.cs
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0-windows\Ponchevit_MarkupCompile.lref
+C:\Users\Windows 11\source\repos\Ponchevit\Ponchevit\obj\Debug\net8.0-windows\Ui\AgregarFamilia\AgregarFamiliaWindow.baml
