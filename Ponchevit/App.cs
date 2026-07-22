@@ -3,7 +3,9 @@ using Autodesk.Revit.Attributes;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.UI.Selection;
 using System;
+using System.IO;
 using System.Reflection;
+using System.Windows.Media.Imaging;
 using Ponchevit.Composition;
 using Ponchevit.Infrastructure;
 
@@ -42,7 +44,11 @@ namespace Ponchevit
                 "Mapeo de\nMateriales",
                 assemblyPath,
                 "Ponchevit.Commands.MapeoMaterialesCommand");
+            BitmapImage icon = LoadIcon();
+
             btnMapeo.ToolTip = "Mapea materiales de Revit a valores COVENIN para la codificación.";
+            btnMapeo.Image = icon;
+            btnMapeo.LargeImage = icon;
             panel.AddItem(btnMapeo);
 
             // Phase 4 — Agregar Familia
@@ -52,6 +58,8 @@ namespace Ponchevit
                 assemblyPath,
                 "Ponchevit.Commands.AgregarFamiliaCommand");
             btnAgregar.ToolTip = "Crea una familia COVENIN en el proyecto activo.";
+            btnAgregar.Image = icon;
+            btnAgregar.LargeImage = icon;
             panel.AddItem(btnAgregar);
 
             // Phase 5.7 — Asignar Código
@@ -61,6 +69,8 @@ namespace Ponchevit
                 assemblyPath,
                 "Ponchevit.Commands.AsignarCodigoCommand");
             btnAsignar.ToolTip = "Asigna un código COVENIN al elemento seleccionado. Seleccione un elemento antes de hacer clic.";
+            btnAsignar.Image = icon;
+            btnAsignar.LargeImage = icon;
             panel.AddItem(btnAsignar);
 
             // Phase 6.7 — Codificación Dashboard
@@ -70,6 +80,8 @@ namespace Ponchevit
                 assemblyPath,
                 "Ponchevit.Commands.CodificacionDashboardCommand");
             btnDashboard.ToolTip = "Muestra el inventario de familias del proyecto con su estado de codificación COVENIN.";
+            btnDashboard.Image = icon;
+            btnDashboard.LargeImage = icon;
             panel.AddItem(btnDashboard);
 
             return Result.Succeeded;
@@ -79,6 +91,13 @@ namespace Ponchevit
         {
             Services?.Log.Info("Ponchevit OnShutdown");
             return Result.Succeeded;
+        }
+
+        private static BitmapImage LoadIcon()
+        {
+            string assemblyDir = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)!;
+            string iconPath = Path.Combine(assemblyDir, "Assets", "icon.png");
+            return new BitmapImage(new Uri(iconPath));
         }
     }
 }

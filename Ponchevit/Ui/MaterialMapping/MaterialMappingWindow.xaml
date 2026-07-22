@@ -44,26 +44,7 @@
                                     Width="*"/>
 
                 <!-- Col 2: Suggestion (accept button, hidden when no suggestion) -->
-                <DataGridTemplateColumn Header="Sugerencia" Width="170" IsReadOnly="True">
-                    <DataGridTemplateColumn.CellTemplate>
-                        <DataTemplate>
-                            <Button Command="{Binding AcceptSuggestionCommand}"
-                                    Padding="5,2" HorizontalAlignment="Left"
-                                    ToolTip="Aceptar esta sugerencia como valor COVENIN">
-                                <TextBlock Text="{Binding Suggestion}" FontStyle="Italic"/>
-                                <Button.Style>
-                                    <Style TargetType="Button">
-                                        <Style.Triggers>
-                                            <DataTrigger Binding="{Binding Suggestion}" Value="{x:Null}">
-                                                <Setter Property="Visibility" Value="Collapsed"/>
-                                            </DataTrigger>
-                                        </Style.Triggers>
-                                    </Style>
-                                </Button.Style>
-                            </Button>
-                        </DataTemplate>
-                    </DataGridTemplateColumn.CellTemplate>
-                </DataGridTemplateColumn>
+                
 
                 <!-- Col 3: Covenin value (display/edit) -->
                 <DataGridTemplateColumn Header="Valor COVENIN  (doble clic para editar)" Width="230">

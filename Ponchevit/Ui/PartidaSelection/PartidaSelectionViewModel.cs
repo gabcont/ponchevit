@@ -576,11 +576,11 @@ public sealed partial class PartidaSelectionViewModel : ObservableObject
 
     private void UpdateRightPanelFromPath()
     {
-        if (SelectedTreeNode == null) return;
-
-        string? secCodigo = SelectedTreeNode.Kind == TreeNodeKind.Seccion    ? SelectedTreeNode.Codigo : null;
-        string? subCodigo = SelectedTreeNode.Kind == TreeNodeKind.Subcapitulo ? SelectedTreeNode.Codigo : null;
-        string? capCodigo = SelectedTreeNode.Kind == TreeNodeKind.Capitulo   ? SelectedTreeNode.Codigo : null;
+        // The prefix mask can filter the partidas list even when no tree node
+        // has been selected yet (e.g. the user clicked Reconocer immediately).
+        string? secCodigo = SelectedTreeNode?.Kind == TreeNodeKind.Seccion     ? SelectedTreeNode.Codigo : null;
+        string? subCodigo = SelectedTreeNode?.Kind == TreeNodeKind.Subcapitulo ? SelectedTreeNode.Codigo : null;
+        string? capCodigo = SelectedTreeNode?.Kind == TreeNodeKind.Capitulo    ? SelectedTreeNode.Codigo : null;
 
         string? mask = BuildCodeMask();
         _filteredPartidas.ApplyFilter(capCodigo, subCodigo, secCodigo, codePrefix: mask);
